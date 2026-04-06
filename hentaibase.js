@@ -1,7 +1,7 @@
 const baseDeDatos = [{
         id: "H1",
         titulo: "Bakunyuu Oyako",
-        poster: "https://iili.io/qxaeW67.png",
+        poster: "https://iili.io/qxaeEZl.jpg",
         bg: [
             "https://iili.io/qxaeW67.png",
             "https://iili.io/qxaejae.png",
@@ -20,7 +20,7 @@ const baseDeDatos = [{
     }, {
         id: "H2",
         titulo: "Nightmare x Deathscythe",
-        poster: "https://iili.io/qI9Oq9S.png",
+        poster: "https://iili.io/qI9ORSV.png",
         bg: [
             "https://iili.io/qI9Oq9S.png",
             "https://iili.io/qI9O3F4.png",
@@ -39,7 +39,7 @@ const baseDeDatos = [{
     }, {
         id: "H3",
         titulo: "Seiyoku Tsuyo Tsuyo",
-        poster: "https://iili.io/qI9yHkN.png",
+        poster: "https://iili.io/qI9yB4f.png",
         bg: [
             "https://iili.io/qI9yHkN.png",
             "https://iili.io/qI9y2It.png",
@@ -58,7 +58,7 @@ const baseDeDatos = [{
     }, {
         id: "H4",
         titulo: "Natsu ga Owaru made: Natsu no Owari",
-        poster: "https://iili.io/qIHu7b1.png",
+        poster: "https://iili.io/qIHuXeI.png",
         bg: [
             "https://iili.io/qIHu7b1.png",
             "https://iili.io/qIHu5OP.png",
@@ -77,7 +77,7 @@ const baseDeDatos = [{
     }, {
         id: "H5",
         titulo: "SeFri no Senpai",
-        poster: "https://iili.io/qIHvhpp.jpg",
+        poster: "https://iili.io/qIHvNjI.jpg",
         bg: [
             "https://iili.io/qIHvhpp.jpg",
             "https://iili.io/qIHvXvR.jpg",
@@ -96,7 +96,7 @@ const baseDeDatos = [{
     }, {
         id: "H6",
         titulo: "Mebuki",
-        poster: "https://iili.io/qIJmANI.png",
+        poster: "https://iili.io/qIJmuAN.png",
         bg: [
             "https://iili.io/qIJmANI.png",
             "https://iili.io/qIJmGHl.png",
@@ -115,7 +115,7 @@ const baseDeDatos = [{
     }, {
         id: "H7",
         titulo: "Juvenile Pornography",
-        poster: "https://iili.io/qA9veNS.png",
+        poster: "https://iili.io/qA9v1tt.jpg",
         bg: [
             "https://iili.io/qA9veNS.png",
             "https://iili.io/qA9vOR2.png",
@@ -133,7 +133,7 @@ const baseDeDatos = [{
     }, {
         id: "H8",
         titulo: "Night Tail",
-        poster: "https://iili.io/qIdQMap.png",
+        poster: "https://iili.io/qIdQX9I.png",
         bg: [
             "https://iili.io/qIdQMap.png",
             "https://iili.io/qIdQOns.png",
@@ -152,7 +152,7 @@ const baseDeDatos = [{
     }, {
         id: "H9",
         titulo: "Niku Mesu R30 Nikuyoku ni Ochita Mesu",
-        poster: "https://iili.io/qT3lNwl.jpg",
+        poster: "https://iili.io/qT3lr8b.jpg",
         bg: [
             "https://iili.io/qT3lNwl.jpg",
             "https://iili.io/qT3lOt2.jpg",
@@ -170,7 +170,7 @@ const baseDeDatos = [{
     }, {
         id: "H10",
         titulo: "No Wife No Life",
-        poster: "https://iili.io/qT3iWLQ.png",
+        poster: "https://iili.io/qT3iO21.png",
         bg: [
             "https://iili.io/qT3iWLQ.png",
             "https://iili.io/qT3ijEB.png",
