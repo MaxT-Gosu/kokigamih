@@ -187,5 +187,106 @@ const baseDeDatos = [{
         tipo: "sincensura",
         descripcion: "El hentai está ambientado en la Corporación Tateen, donde trabaja el protagonista. Todos los días trabaja como tutor de jovencísimas traini, entre ellas Mitsurugi y Nagihara. Las chicas resultan ser muy capaces y hacen un trabajo excelente."
     },
+	{
+    id: "H10",
+    titulo: "NocturnaL",
+    poster: "https://iili.io/qTFNiT7.png",
+    bg: [
+        "https://iili.io/qTFN0Lg.png",
+        "https://iili.io/qTFNEBa.png",
+        "https://iili.io/qTFNX7p.png",
+        "https://iili.io/qTFNjpI.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/60f0eb57237ec41f6de6af0b77f9c18c3b88e496b7e6646676f0cd711a7c03ca/ep1.mp4",
+        "https://www.burstcloud.co/embed/6f70fb83d05eb0b5215ac5560991ca1259711990b0ae04e73a6a1b1b2c03bb84/ep2.mp4"
+    ],
+    estudio: "Queen Bee",
+    fecha: "2024",
+    tags: ["Anal", "Escolares", "Corridas"],
+    tipo: "censurado",
+    descripcion: "La protagonista de este hentai es una estudiante llamada Etu, enamorada de su compañera Sayako. Tras salvarla de un ataque, descubre que Sayako tiene una doble personalidad. Cuando están a solas, Sayako es muy apasionada."
+},
+{
+    id: "H11",
+    titulo: "Nozoki Kanojo",
+    poster: "https://iili.io/qTKhF8N.png",
+    bg: [
+        "https://iili.io/qTKhBwX.jpg",
+        "https://iili.io/qTKhCtn.jpg",
+        "https://iili.io/qTKhzPf.jpg",
+        "https://iili.io/qTKhAS2.jpg"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/d1700500d09b3591411b872e16a65d2ac8a3c1f24f14f34f4cd606291344063a/ep1.mp4",
+        "https://www.burstcloud.co/embed/8b3789e61bfdf4cd19b5d5ef5587282ab25d79318db9633d5bebd653b73cedd9/ep2.mp4",
+        "https://www.burstcloud.co/embed/1644d69615581a0240eb5c06d7d14e7f3366c67c39f4117b542c9305863f9601/ep3.mp4",
+        "https://www.burstcloud.co/embed/4f3f2953d49196868cc5e76d749085480feb5b3dba201b9b7409bc289003f133/ep4.mp4"
+    ],
+    estudio: "nur",
+    fecha: "2020",
+    tags: ["Escolares", "Tetonas", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "Yoshizawa Kaede es una estudiante perfecta que riega plantas. El guardia Hiragi se masturba con fotos de ella. Tiene un novio deportista y un mejor amigo, Nishino Youkou. Un día ve a Youkou teniendo sexo con Kusuda. Luego, Kusuda la empuja y la agarra."
+},
+{
+    id: "H12",
+    titulo: "Nonohara Yuka no Himitsu",
+    poster: "https://veohentai.com/wp-content/uploads/2025/03/c1316410package.jpg",
+    bg: [
+        "https://www5.hentaila.com/uploads/fondos/1112.jpg",
+        "https://zhentube.com/wp-content/uploads/2024/12/Nonohara-Yuzuka-no-Himitsu-no-Haishin-Episode-1.jpg",
+        "https://antojasai.com/wp-content/uploads/2024/12/2-3.jpg",
+        "https://zhentube.com/wp-content/uploads/2024/12/Nonohara-Yuzuka-no-Himitsu-no-Haishin-Episode-1.jpg"
+    ],
+    video: [
+        "https://hentaiplayer.com/v/wWwlWQiKjlMI8lM/",
+        "https://hentaiplayer.com/v/3u01yekMSe6HNjK/"
+    ],
+    estudio: "T-Rex",
+    fecha: "2025",
+    tags: ["Escolares", "Tetonas", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "Yuka, una estudiante aislada, lleva una doble vida transmitiendo contenido erótico con una máscara. Un día, recibe una carta anónima con pruebas de sus streams y es chantajeada para cumplir deseos lascivos."
+},
+{
+    id: "H13",
+    titulo: "Dokidoki Oyako Lesson Oshiete",
+    poster: "https://iili.io/qTnILDQ.jpg",
+    bg: [
+        "https://iili.io/qTnItWB.png",
+        "https://iili.io/qTnIp0F.png",
+        "https://iili.io/qTnTfsI.png",
+        "https://iili.io/qTnTxJs.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/c5de90d67e378f402d2cd3e2b6edbbbbd88729b6afe2f7b2f26f3c0d3e6fd5fb/ep1.mp4",
+        "https://www.burstcloud.co/embed/c8520c8a63baac013c2392b9cfa78ed032f4002deebba2932e4796466013292e/ep2.mp4"
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Escolares", "Tetonas", "Lolicon"],
+    tipo: "censurado",
+    descripcion: "La vida de un estudiante universitario nunca es fácil. Pero cuando un compañero de clase le presenta a Atsushi a una simpática chica que necesita clases particulares, la vida está a punto de volverse un poco más gratificante para él."
+},
+{
+    id: "H14",
+    titulo: "Soushi Souai Junai Mellow yori",
+    poster: "https://iili.io/qTefUD7.png",
+    bg: [
+        "https://iili.io/qTefiKb.jpg",
+        "https://iili.io/qTef4Ve.jpg",
+        "https://iili.io/qTefrx9.jpg",
+        "https://iili.io/qTefZHQ.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/898f0477396e6bf0eddb377e556665f8cc55c21f4102428a03c3198ab7bcfab1/ep1.mp4"
+    ],
+    estudio: "Pashmina",
+    fecha: "2020",
+    tags: ["Escolares", "Vanilla", "Uncensored"],
+    tipo: "sincensura",
+    descripcion: "Asuka ha estado teniendo sexo por internet con su amigo de la infancia, Ryou, pero le molesta que él no se haya dado cuenta de que es ella, hasta que se lo confiesa sin saberlo."
+}
 
 ];
