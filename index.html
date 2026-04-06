@@ -23,7 +23,6 @@
         
         .container { width:100%; padding-bottom:100px; padding-top: 60px; } 
         
-        /* HEADER */
         header { 
             display: flex; justify-content: center; align-items: center; 
             padding: 15px 20px; background: rgba(20, 20, 20, 0.9); 
@@ -32,7 +31,6 @@
         }
         header h1 { font-size: 26px; color: var(--accent-color); font-weight: 900; letter-spacing: -1px; text-transform: uppercase; font-family: 'Arial Black', sans-serif;}
 
-        /* MODAL DE BÚSQUEDA */
         #modal-busqueda { display: none; position: fixed; inset: 0; background: rgba(20, 20, 20, 0.98); z-index: 2000; padding: 20px; backdrop-filter: blur(15px); overflow-y: auto; }
         .search-box-modal { background: rgba(255,255,255,0.1); border-radius: 4px; display: flex; align-items: center; padding: 12px 15px; margin-top: 60px; }
         .search-box-modal input { background: transparent; border: none; color: #fff; width: 100%; font-size: 16px; outline: none; }
@@ -43,16 +41,7 @@
         .res-item img { width: 100%; height: 100%; object-fit: cover; }
         .res-title { position: absolute; bottom: 0; width: 100%; background: rgba(0, 0, 0, 0.7); color: #fff; font-size: 9px; text-align: center; padding: 3px 0; font-weight: bold;}
 
-        /* HERO CAROUSEL */
-        .hero-carousel { 
-            display: flex; 
-            overflow-x: auto; 
-            scroll-snap-type: x mandatory; 
-            scrollbar-width: none; 
-            width: 100%; 
-            height: 60vh; 
-            background: #000; 
-        }
+        .hero-carousel { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; width: 100%; height: 60vh; background: #000; }
         .hero-carousel::-webkit-scrollbar { display: none; }
         .hero-item { flex: 0 0 100%; scroll-snap-align: start; position: relative; height: 100%; }
         .hero-item img { width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 1s ease; }
@@ -70,33 +59,12 @@
         .card-item { flex-shrink: 0; cursor: pointer; transition: transform 0.2s; position: relative; }
         .card-item:active { transform: scale(0.95); }
         
-        /* MENU INFERIOR UNIFICADO */
         .bottom-menu { 
-            position: fixed; 
-            bottom: 0; 
-            left: 0; 
-            width: 100%; 
-            background: rgba(0, 0, 0, 0.98); 
-            backdrop-filter: blur(20px); 
-            display: flex; 
-            justify-content: space-around; 
-            padding: 12px 0; 
-            z-index: 1000; 
-            border-top: 1px solid rgba(255, 255, 255, 0.03); 
+            position: fixed; bottom: 0; left: 0; width: 100%; background: rgba(0, 0, 0, 0.98); 
+            backdrop-filter: blur(20px); display: flex; justify-content: space-around; padding: 12px 0; 
+            z-index: 1000; border-top: 1px solid rgba(255, 255, 255, 0.03); 
         }
-        .menu-item { 
-            text-decoration: none; 
-            color: #888; 
-            font-size: 10px; 
-            font-weight: 500; 
-            display: flex; 
-            flex-direction: column; 
-            align-items: center; 
-            background: none; 
-            border: none; 
-            cursor: pointer; 
-            width: 25%; 
-        }
+        .menu-item { text-decoration: none; color: #888; font-size: 10px; font-weight: 500; display: flex; flex-direction: column; align-items: center; background: none; border: none; cursor: pointer; width: 25%; }
         .menu-item i { font-size: 19px; margin-bottom: 5px; }
         .menu-item.active { color: var(--accent-color); }
     </style>
@@ -165,8 +133,10 @@
             heroItems.forEach(item => {
                 const slide = document.createElement('div');
                 slide.className = 'hero-item';
+                // Usamos la primera imagen del array bg si está disponible
+                const heroImg = (Array.isArray(item.bg) ? item.bg[0] : item.bg) || item.poster;
                 slide.innerHTML = `
-                    <img src="${item.bg || item.poster}" onload="this.style.opacity='0.8'" loading="lazy">
+                    <img src="${heroImg}" onload="this.style.opacity='0.8'" loading="lazy">
                     <div class="hero-content">
                         <h2>${item.titulo}</h2>
                         <button onclick="abrirReproductor('${item.id}')">
@@ -177,16 +147,22 @@
                 heroCarousel.appendChild(slide);
             });
 
+            // AGREGADOS RECIENTES: Formato horizontal con bg
             const rowRecientes = document.getElementById('row-recientes');
             const recientes = [...window.db].reverse().slice(0, 10);
             recientes.forEach(item => rowRecientes.appendChild(crearCardHorizontal(item)));
 
+            // MÁS VISTOS: Formato vertical con poster
             const rowMasVistos = document.getElementById('row-mas-vistos');
             const masVistos = [...window.db].sort(() => 0.5 - Math.random()).slice(0, 5);
             masVistos.forEach(item => rowMasVistos.appendChild(crearCardVertical(item)));
 
+            // SIN CENSURA: Formato vertical con poster
             const rowSincensura = document.getElementById('row-sincensura');
-            const sinCensura = window.db.filter(item => item.tipo === 'sincensura' || (item.tags && item.tags.map(t => t.toLowerCase()).includes('sincensura')));
+            const sinCensura = window.db.filter(item => 
+                item.tipo === 'sincensura' || 
+                (item.tags && item.tags.some(t => t.toLowerCase() === 'sin censura'))
+            );
             sinCensura.forEach(item => rowSincensura.appendChild(crearCardVertical(item)));
 
             configurarBuscador();
@@ -197,9 +173,11 @@
             card.className = 'card-item';
             card.style.width = '200px'; 
             card.onclick = () => abrirReproductor(item.id);
+            // Intentamos usar una imagen de fondo para el formato horizontal
+            const bgImg = (Array.isArray(item.bg) ? item.bg[0] : item.bg) || item.poster;
             card.innerHTML = `
                 <div style="width: 100%; aspect-ratio: 16/9; border-radius: 6px; overflow: hidden; position: relative;" class="skeleton">
-                    <img src="${item.bg || item.poster}" onload="this.style.opacity='1'; this.parentElement.classList.remove('skeleton')" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.5s;">
+                    <img src="${bgImg}" onload="this.style.opacity='1'; this.parentElement.classList.remove('skeleton')" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.5s;">
                 </div>
                 <p style="font-size: 11px; margin-top: 5px; text-align: center; color: var(--text-color-sec); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">${item.titulo}</p>
             `;
@@ -211,6 +189,7 @@
             card.className = 'card-item';
             card.style.width = '120px';
             card.onclick = () => abrirReproductor(item.id);
+            // Forzamos el uso de la propiedad poster para el formato vertical
             card.innerHTML = `
                 <div style="width: 100%; aspect-ratio: 2/3; border-radius: 6px; overflow: hidden; position: relative;" class="skeleton">
                     <img src="${item.poster}" onload="this.style.opacity='1'; this.parentElement.classList.remove('skeleton')" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.5s;">
