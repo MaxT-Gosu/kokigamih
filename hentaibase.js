@@ -110,7 +110,7 @@ const baseDeDatos = [{
         estudio: "Pink Pineapple",
         fecha: "2024",
         tags: ["Corridas", "Masturbacion", "Violacion", "Sensurado"],
-        tipo: "sensurado",
+        tipo: "censurado",
         descripcion: "«Love-chan», una streamer en declive, gana popularidad mostrando más de su cuerpo. En un encuentro con seguidores, es drogada y llevada a un hotel."
     }, {
         id: "H7",
@@ -164,7 +164,7 @@ const baseDeDatos = [{
         ],
         estudio: "Pink Pineapple",
         fecha: "2020",
-        tags: ["Bondage", "Milfs", "Orgias", "Sincensura"],
+        tags: ["Bondage", "Milfs", "Orgias", "Sin censura"],
         tipo: "sincensura",
         descripcion: "Naoki debe mantenerse virgen hasta los 30 años para heredar el liderazgo familiar, pero las constantes tentaciones a su alrededor ponen a prueba su determinación."
     }, {
