@@ -173,13 +173,15 @@ function cargarCatalogo() {
     const grid = document.getElementById("anime-grid");
     if (typeof baseDeDatos === 'undefined') return;
 
-    const datosMezclados = mezclarPorDia(baseDeDatos);
+    // Filtramos primero para obtener solo los censurados (incluyendo "sensurado" por el error tipográfico)
+    const soloCensurados = baseDeDatos.filter(h => h.tipo === "censurado" || h.tipo === "sensurado");
+    
+    // Mezclamos únicamente los que pasaron el filtro
+    const datosMezclados = mezclarPorDia(soloCensurados);
 
     grid.innerHTML = datosMezclados.map(h => {
-        let tagHtml = `<div class="etiqueta-top">${h.tipo}</div>`;
         return `
         <div class="anime-card skeleton" onclick="abrirDetalles('${h.id}')">
-            ${tagHtml}
             <img src="${h.poster}" onload="imgLoaded(this)" loading="lazy">
         </div>
         `;
@@ -211,7 +213,11 @@ document.getElementById('input-buscador').addEventListener('input', (e) => {
     resultadosDiv.innerHTML = "";
     if (texto.length < 2) return;
 
-    const filtrados = baseDeDatos.filter(h => h.titulo.toLowerCase().includes(texto));
+    // Filtramos por texto Y por categoría censurada
+    const filtrados = baseDeDatos.filter(h => 
+        (h.tipo === "censurado" || h.tipo === "sensurado") && h.titulo.toLowerCase().includes(texto)
+    );
+    
     filtrados.forEach(h => {
         const item = document.createElement('div');
         item.className = 'anime-card'; // Usamos la misma clase para consistencia

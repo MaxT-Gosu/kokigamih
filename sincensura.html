@@ -95,7 +95,6 @@ function cargarCatalogo() {
 
     const htmlContent = soloSincensura.map(h => `
         <div class="movie-card skeleton" onclick="abrirDetalles('${h.id}')">
-            <div class="etiqueta-top">UNCUT</div>
             <img src="${h.poster}" onload="imgLoaded(this)" loading="lazy">
         </div>
     `).join("");

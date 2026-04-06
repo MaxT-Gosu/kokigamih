@@ -6,7 +6,11 @@
     <title>Reproductor - Cinemax</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <style>
-        :root { --accent: #e50914; --bg: #0a0a0a; --card-bg: #1f1f1f; }
+        :root { 
+            --accent: #e50914; 
+            --bg: #0a0a0a; 
+            --card-bg: #1f1f1f; 
+        }
         * { margin:0; padding:0; box-sizing:border-box; -webkit-tap-highlight-color: transparent; }
         body { background: var(--bg); color: #fff; font-family: 'Segoe UI', Roboto, sans-serif; overflow-x: hidden; }
 
@@ -48,9 +52,33 @@
         .related-item img { width: 100%; aspect-ratio: 2/3; object-fit: cover; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); }
         .related-item p { font-size: 11px; margin-top: 6px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: #ccc; text-align: center; }
 
-        /* MENU INFERIOR */
-        .bottom-menu { position: fixed; bottom: 0; left: 0; width: 100%; background: rgba(0, 0, 0, 0.98); backdrop-filter: blur(20px); display: flex; justify-content: space-around; padding: 12px 0; z-index: 1000; border-top: 1px solid rgba(255, 255, 255, 0.03); }
-        .menu-item { text-decoration: none; color: #888; font-size: 10px; font-weight: 500; display: flex; flex-direction: column; align-items: center; background: none; border: none; cursor: pointer; width: 25%; }
+        /* MENU INFERIOR UNIFICADO */
+        .bottom-menu { 
+            position: fixed; 
+            bottom: 0; 
+            left: 0; 
+            width: 100%; 
+            background: rgba(0, 0, 0, 0.98); 
+            backdrop-filter: blur(20px); 
+            display: flex; 
+            justify-content: space-around; 
+            padding: 12px 0; 
+            z-index: 1000; 
+            border-top: 1px solid rgba(255, 255, 255, 0.03); 
+        }
+        .menu-item { 
+            text-decoration: none; 
+            color: #888; 
+            font-size: 10px; 
+            font-weight: 500; 
+            display: flex; 
+            flex-direction: column; 
+            align-items: center; 
+            background: none; 
+            border: none; 
+            cursor: pointer; 
+            width: 25%; 
+        }
         .menu-item i { font-size: 19px; margin-bottom: 5px; }
         .menu-item.active { color: var(--accent); }
 
@@ -90,7 +118,7 @@
 
 <nav class="bottom-menu">
     <a href="index.html" class="menu-item"><i class="fas fa-home"></i><span>Inicio</span></a>
-    <a href="hentais.html" class="menu-item"><i class="fas fa-layer-group"></i><span>Catálogo</span></a>
+    <a href="hentais.html" class="menu-item"><i class="fas fa-layer-group"></i><span>Hentai</span></a>
     <a href="sincensura.html" class="menu-item"><i class="fas fa-eye-slash"></i><span>Sincensura</span></a>
     <a href="index.html" class="menu-item"><i class="fas fa-search"></i><span>Buscar</span></a>
 </nav>
