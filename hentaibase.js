@@ -14,7 +14,7 @@ const baseDeDatos = [{
         ],
         estudio: "Y.O.U.C.",
         fecha: "2020",
-        tags: ["Maid", "Milf", "Sincensura"],
+        tags: ["Maid", "Milf", "Sin censura"],
         tipo: "sincensura",
         descripcion: "Yusuke se enfrenta a un dilema: su tutoría con la voluptuosa Reina se complica cuando su madre, aún más exuberante, también lo desea. Ambas luchan por ganarse su amor."
     }, {
@@ -33,7 +33,7 @@ const baseDeDatos = [{
         ],
         estudio: "MediaBank",
         fecha: "2023",
-        tags: ["Bondage", "Harem", "Orgias", "Sincensura"],
+        tags: ["Bondage", "Harem", "Orgias", "Sin censura"],
         tipo: "sincensura",
         descripcion: "Natsume Rinne, una colegiala que despierta como Shinigami tras vengar a su padre, es capturada por una secta demoníaca. Cuando está a punto de ser sacrificada, las exorcistas Setsuna y Yuuka intentan salvarla, pero son rodeadas."
     }, {
@@ -52,8 +52,8 @@ const baseDeDatos = [{
         ],
         estudio: "Pink Pineapple",
         fecha: "2024",
-        tags: ["Escolares", "Netorare", "Tetonas", "Sincensura"],
-        tipo: "sincensura",
+        tags: ["Escolares", "Netorare", "Tetonas", "Censurado"],
+        tipo: "censurado",
         descripcion: "Nanase, una chica gal insatisfecha con su vida sexual, se burla de Nozaki, su compañero otaku. Planea humillarlo haciéndole mostrar su miembro, pero queda impactada por su tamaño. Su deseo crece y termina usándolo para su propio placer."
     }, {
         id: "H4",
@@ -71,8 +71,8 @@ const baseDeDatos = [{
         ],
         estudio: "Showten",
         fecha: "2024",
-        tags: ["Anal", "Netorare", "Tetonas", "Sincensura"],
-        tipo: "sincensura",
+        tags: ["Anal", "Netorare", "Tetonas", "Censurado"],
+        tipo: "censurado",
         descripcion: "Es la historia de Yui, una colegiala que acepta el acoso sexual de su maestro pervertido para proteger el sueño de su novio, Kou. Entre la humillación, el sufrimiento y el placer, Yui se convirtió gradualmente en un mero objeto sexual lujurioso."
     }, {
         id: "H5",
@@ -90,8 +90,8 @@ const baseDeDatos = [{
         ],
         estudio: "Pink Pineapple",
         fecha: "2024",
-        tags: ["Fantasia", "Oral", "Virgenes", "Sincensura"],
-        tipo: "sincensura",
+        tags: ["Fantasia", "Oral", "Virgenes", "Censurado"],
+        tipo: "censurado",
         descripcion: "Yuuma, un joven universitario, conoce a Nana en su ceremonia de bienvenida. Esa noche, ella aparece en su departamento con la intención de quitarle la virginidad."
     }, {
         id: "H6",
@@ -109,8 +109,8 @@ const baseDeDatos = [{
         ],
         estudio: "Pink Pineapple",
         fecha: "2024",
-        tags: ["Corridas", "Masturbacion", "Violacion", "Sincensura"],
-        tipo: "sincensura",
+        tags: ["Corridas", "Masturbacion", "Violacion", "Sensurado"],
+        tipo: "sensurado",
         descripcion: "«Love-chan», una streamer en declive, gana popularidad mostrando más de su cuerpo. En un encuentro con seguidores, es drogada y llevada a un hotel."
     }, {
         id: "H7",
@@ -127,7 +127,7 @@ const baseDeDatos = [{
         ],
         estudio: "Bootleg",
         fecha: "2020",
-        tags: ["Incesto", "Ninfomana", "Sincensura"],
+        tags: ["Incesto", "Ninfomana", "Sin censura"],
         tipo: "sincensura",
         descripcion: "Mientras el sol se filtra entre los árboles, una hermosa mujer está absorta en su libro. Lee el relato de una chica que se sincera sobre sus deseos, una chica que se retuerce en un placer sin límites."
     }, {
@@ -146,8 +146,8 @@ const baseDeDatos = [{
         ],
         estudio: "Majin Petit",
         fecha: "2023",
-        tags: ["Eichi", "Monstruos", "Tetonas", "Sincensura"],
-        tipo: "sincensura",
+        tags: ["Eichi", "Monstruos", "Tetonas", "Censurado"],
+        tipo: "censurado",
         descripcion: "Yoru y Asahi dirigen una cafetería durante el día, pero tienen un trabajo secreto como Night Tail para eliminar demonios de los sueños por la noche. Sin embargo, durante sus propios sueños, se involucran en situaciones pervertidas."
     }, {
         id: "H9",
@@ -183,7 +183,7 @@ const baseDeDatos = [{
         ],
         estudio: "Queen Bee",
         fecha: "2024",
-        tags: ["Bondage", "Milfs", "Orgias", "Sincensura"],
+        tags: ["Bondage", "Milfs", "Orgias", "Sin censura"],
         tipo: "sincensura",
         descripcion: "El hentai está ambientado en la Corporación Tateen, donde trabaja el protagonista. Todos los días trabaja como tutor de jovencísimas traini, entre ellas Mitsurugi y Nagihara. Las chicas resultan ser muy capaces y hacen un trabajo excelente."
     },
