@@ -1095,5 +1095,285 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Los protagonistas Nao y Shota son estudiantes que se convierten en amantes debido a ciertas circunstancias que ponen a prueba su rutina diaria."
 },
+{
+    id: "H60",
+    titulo: "Papa Katsu",
+    poster: "https://iili.io/qlhcylt.jpg",
+    bg: [
+        "https://iili.io/qlhckDx.png",
+        "https://iili.io/qlhcrKP.png",
+        "https://iili.io/qlhcLOJ.png",
+        "https://iili.io/qlhcDVp.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/d2db7ccbf6f76685b3adf6d0f30c641373a9f779dc978ebb3ecac41d41b28dfa/ep1.mp4",
+        "https://www.burstcloud.co/embed/8426f5308a5348dabe2157f3c195a4ade1a35b132c4fe3dcb1944b823400310e/ep2.mp4",
+        "https://www.burstcloud.co/embed/5196203d8ffd24573ea4c22f3f1884fda9f3865f508fb6c4804ad8e507a7950f/ep3.mp4",
+        "https://www.burstcloud.co/embed/65e90a19260d5e10f814ef9475087749a9dc10adf1bb6ab79724cb85b1398d19/ep4.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2024",
+    tags: ["Escolares", "Incesto", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "El mundo de los Sugar Daddies y las colegialas que intentan ganar un poco de dinero extra. ¡¿Esto es en lo que se estaba metiendo su hijastra?! Es hora de darle una lección."
+},
+{
+    id: "H61",
+    titulo: "Pakomane Watashi",
+    poster: "https://iili.io/qlhyVLP.jpg",
+    bg: [
+        "https://iili.io/qlhyjrg.jpg",
+        "https://iili.io/qlhyhEF.jpg",
+        "https://iili.io/qlhyXB1.webp",
+        "https://iili.io/qlhyOYJ.webp"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/63208b9f7ae3d005739c6257b6bdd8903116ede1208ef0bd98dbb89fc5ad01fe/EP1.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2024",
+    tags: ["Escolares", "Trio", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Saki, como manager de su equipo de béisbol, nota el estrés de los jugadores. Para ayudarles, decide satisfacer sus necesidades a cambio de buenos resultados, buscando llevar al equipo al campeonato nacional."
+},
+{
+    id: "H62",
+    titulo: "Pandemic",
+    poster: "https://iili.io/qlSz2V4.png",
+    bg: [
+        "https://iili.io/qlSzqU7.jpg",
+        "https://iili.io/qlSznRe.webp",
+        "https://iili.io/qlSzCJ9.jpg",
+        "https://iili.io/qlSzoOu.jpg"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/724660e678db986c2c9b3bb718159e4240eb2d2480520edbbb45d11d4d8f4040/ep1.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2024",
+    tags: ["Corridas", "Escolares", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Una pandemia originada en el instituto de investigación de una empresa farmacéutica convierte a los infectados en cautivos del deseo sexual, propagándose rápidamente a través del contacto."
+},
+{
+    id: "H63",
+    titulo: "Oppai Life",
+    poster: "https://iili.io/qlSLJsV.jpg",
+    bg: [
+        "https://iili.io/qlSLFg1.jpg",
+        "https://iili.io/qlSL30P.jpg",
+        "https://iili.io/qlSL2qB.webp",
+        "https://iili.io/qlSLfdF.jpg"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/d8e54412559d37d334e958dab67b6d8ec21f24b68319211a52dd6e6cc041ddad/ep1.mp4",
+        "https://www.burstcloud.co/embed/616721ba08bed110748ab334ece84ed3bf1533116019b9dea228eb073aa429c2/ep2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2024",
+    tags: ["Harem", "Incesto", "Uncensored"],
+    tipo: "sin censura",
+    descripcion: "Naoto, un joven afortunado, se encuentra en un dilema amoroso: Ayane, su amor de toda la vida y Chika, su amiga de infancia, sienten atracción por él. ¿Cómo elegirá entre las dos bellezas?"
+},
+{
+    id: "H64",
+    titulo: "Oshiete Re: Maid",
+    poster: "https://iili.io/qlUuj8N.jpg",
+    bg: [
+        "https://iili.io/qlUuOut.jpg",
+        "https://iili.io/qlUuN9I.jpg",
+        "https://iili.io/qlUuSMG.webp",
+        "https://iili.io/qlUuUPf.webp"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/5314f0b2ba7aa1c92db2ef6dc667678d138cb9b5b19b0ba6c992f095b8e60c2d/ep1.mp4",
+        "https://www.burstcloud.co/embed/914cbfd8789ac4d5ceef3fb9ca2cafffa5a82a9bc4462d8c1e48801d30914440/ep2.mp4"
+    ],
+    estudio: "MS Pictures",
+    fecha: "2024",
+    tags: ["Escolar", "Harem", "Uncensored"],
+    tipo: "sin censura",
+    descripcion: "A Akito se le presenta la oportunidad de ser el amo temporal de cuatro practicantes de la escuela de sirvientas. Aunque parecía una tarea sencilla, las personalidades especiales de cada una complicarán su labor diaria."
+},
+{
+    id: "H65",
+    titulo: "Otokonoko Ojou-sama",
+    poster: "https://iili.io/q1cywEx.png",
+    bg: [
+        "https://iili.io/q1cyghg.png",
+        "https://iili.io/q1cyUTF.png",
+        "https://iili.io/q1cy8p1.png",
+        "https://iili.io/q1cyrQa.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/145214415d8778538b8433b7d636bc3d27c004c8a9659bc708c1ae1bc1e9a7f4/ep1.mp4"
+    ],
+    estudio: "ChiChinoya",
+    fecha: "2020",
+    tags: ["Shota", "Femboy", "Violacion"],
+    tipo: "censurado",
+    descripcion: "Es una jovencita honorable y querida vestir ropa linda a la hija de un hombre honorable y lindo."
+},
+{
+    id: "H66",
+    titulo: "Otaku ni Yasashii Gal toka",
+    poster: "https://iili.io/q1lrwW7.png",
+    bg: [
+        "https://iili.io/q1lrk0u.jpg",
+        "https://iili.io/q1lrvUb.png",
+        "https://iili.io/q1lrNs9.jpg",
+        "https://iili.io/q1lrgOQ.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/885ed8fe68ea52b9f2c1107f0fa69f20e7fda11646682ea7cd5cf98c4bb6e053/ep1.mp4",
+        "https://www.burstcloud.co/embed/0e45401f225ad7c6a951b19d5aa26f7b77db149424fc6c863d07ea7ebe26780c/ep2.mp4"
+    ],
+    estudio: "MediaBank",
+    fecha: "2022",
+    tags: ["Ahegao", "Escolar", "Oral"],
+    tipo: "censurado",
+    descripcion: "Shougo, un otaku que colecciona figuras de anime y es considerado el raro de su salón, recibe una inesperada cita de una compañera."
+},
+{
+    id: "H67",
+    titulo: "Oni Chichi Harem",
+    poster: "https://iili.io/q1EFe49.md.jpg",
+    bg: [
+        "https://iili.io/q1EF0rX.png",
+        "https://iili.io/q1EFl1t.png",
+        "https://iili.io/q1EFhhl.png",
+        "https://iili.io/q1EFUpj.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/406501253e0284a1099fa8ea35a87ef9057b32cde3764b89db862842f0761d08/ep1.mp4",
+        "https://www.burstcloud.co/embed/d4ddb580129c7bf71a7a55771571f4e4d002f72112f593f2eb16eddfdb935c8a/ep2.mp4",
+        "https://www.burstcloud.co/embed/d6a8a21368cce32c91ed9193444469862ebd27ebe6ad15b1d7f4afe4f5081b81/ep3.mp4",
+        "https://www.burstcloud.co/embed/976df1d7b0d022f9f91bb3c22579160785f972f4f2238ed4ef0111d27e308ffd/ep4.mp4"
+    ],
+    estudio: "Queen Bee",
+    fecha: "2025",
+    tags: ["Ahegao", "Tetona", "Felacion"],
+    tipo: "censurado",
+    descripcion: "Noboru Amakawa, después de perder la esperanza en su mundo, se interna en un bosque y encuentra a una mujer de gran belleza. Desconcertado, pierde el equilibrio y cae, quedando inconsciente. Al despertar, se encuentra en una aldea habitada por mujeres con cuernos que lo someten constantemente."
+},
+{
+    id: "H68",
+    titulo: "Akogare no Onna Joushi",
+    poster: "https://iili.io/qGdApGS.png",
+    bg: [
+        "https://iili.io/qGdAsvs.png",
+        "https://iili.io/qGdRKwx.png",
+        "https://iili.io/qGdRn6P.png",
+        "https://iili.io/qGdR5tR.png"
+    ],
+    video: [
+        "https://hentaiplayer.com/v/mZRMfalvCuaja32/",
+        "https://hentaiplayer.com/v/ePz3C9yd9PkVc5G/"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Corridas", "Netorare", "Felacion"],
+    tipo: "censurado",
+    descripcion: "Shota Tendo, en su primer día en una editorial, se enamora de su jefa, Yui Yamanobe, una talentosa y atractiva editora. A pesar de su admiración y la cercanía que desarrollan al trabajar juntos, Shota no se atreve a confesar sus sentimientos debido a su inexperiencia romántica. Un viaje de negocios cambia su destino y pone en peligro su relación."
+},
+{
+    id: "H69",
+    titulo: "Oneshota",
+    poster: "https://iili.io/qGfe9zg.png",
+    bg: [
+        "https://iili.io/qGfeJLJ.png",
+        "https://iili.io/qGfOpmF.webp",
+        "https://iili.io/qGfeHXa.jpg",
+        "https://iili.io/qGfefdN.webp"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/fae25998259362151fbfb841eec44034151cca9d52b81dcdc07befc37e2b86e5/ep1.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Shota", "Tetonas", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "Mahiro encuentra en el bosque a Aria, una elfa, y Lulu, una chica bestia de otro mundo. Al no poder regresar, les ofrece quedarse en la casa de su abuelo y las visita para ayudarlas a adaptarse, mientras desarrollan una relación cercana."
+},
+{
+    id: "H70",
+    titulo: "Onii-san Ohitori desu ka",
+    poster: "https://iili.io/qMkzgFp.png",
+    bg: [
+        "https://iili.io/qMkzrcN.png",
+        "https://iili.io/qMkzSPR.jpg",
+        "https://iili.io/qMkzvoJ.webp",
+        "https://iili.io/qMkziAX.jpg"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/6da3c1c406503610870f6520c20e077fdd8f4f39db04631d06b43839cab2ee26/ep1.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Felacion", "Tetonas", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "El protagonista está solo en una playa rodeado de parejas, pero esa situación cambia cuando se le acerca una chica muy tetona que le pregunta si se encuentra solo. Una vez que ella se le acerca y lo seduce, ambos se van a un lugar apartado para tener sexo."
+},
+{
+    id: "H71",
+    titulo: "Onii-chan Asa made Zutto Gyutte Shite!",
+    poster: "https://iili.io/qMvZJHP.png",
+    bg: [
+        "https://iili.io/qMvZdR1.webp",
+        "https://iili.io/qMvZ3Dg.png",
+        "https://iili.io/qMvZoUN.png",
+        "https://iili.io/qMvZnlp.jpg"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/5576adbffc3e12cec71f7b08ec9aa55f91962fffd65f991848045d9122b1bba3/ep1.mp4",
+        "https://www.burstcloud.co/embed/ae603ed1f7790fc0d95439e9a63281986a2aadf49804f977be52ef4999eaf8b1/ep2.mp4",
+        "https://www.burstcloud.co/embed/6e33c403d612ada6e030896e5f56402b4251a9f63f8a3c46ab8f2c45e102fe6c/ep3.mp4",
+        "https://www.burstcloud.co/embed/79db00ba986095facff2870b97eff18501c1cd4acd2cc32b257b9b93896575ae/ep4.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Incesto", "Lolicon", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "Un niño enfermizo mejora su inmunidad abrazando a sus hermanas, lo que con el tiempo despierta sentimientos más profundos. La historia narra días especiales de convivencia cercana con sus hermanas durante el Año Nuevo."
+},
+{
+    id: "H72",
+    titulo: "Otome Domain",
+    poster: "https://iili.io/qMSAvtI.jpg",
+    bg: [
+        "https://iili.io/qMSAgPn.webp",
+        "https://iili.io/qMSA6cG.jpg",
+        "https://iili.io/qMSAUMX.jpg",
+        "https://iili.io/qMSALAl.webp"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/fe6b7b78628e903e04f6fb3aa42b56e2aed6d9300378d17dd79aac5f5c7eaba2/ep1.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "Desconocido",
+    tags: ["Romance", "Tetonas", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "Tras la muerte de su abuela, el protagonista acepta vivir en un internado femenino disfrazado de chica, donde su nueva vida con peculiares compañeras resulta ser más caótica de lo esperado."
+},
+{
+    id: "H73",
+    titulo: "Dark Love",
+    poster: "https://iili.io/qh0bYPI.jpg",
+    bg: [
+        "https://iili.io/qh0b0Sn.png",
+        "https://iili.io/qh0blcX.png",
+        "https://iili.io/qh0Vt4.png",
+        "https://iili.io/qh0bhV2.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/4563886c11aa583b1db874b9529b8178d744afe6586a14ad100e33845bf5cf1f/ep1.mp4",
+        "https://www.burstcloud.co/embed/c634b5e904824b15ad67a2229d527d88b0f9bfc179fc5f938933172e76b799d1/ep2.mp4"
+    ],
+    estudio: "Green Bunny",
+    fecha: "2020",
+    tags: ["Anal", "Uncensored", "Hardcore"],
+    tipo: "sincensura",
+    descripcion: "Tetsuya investiga un hotel de lujo que oculta un culto sexual ligado a la yakuza y fuerzas demoníacas que amenazan con transformarlo en un ser inhumano."
+},
 
 ];
