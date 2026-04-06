@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductor - Cinemax</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <style>
+        :root { --accent: #e50914; --bg: #0a0a0a; --card-bg: #1f1f1f; }
+        * { margin:0; padding:0; box-sizing:border-box; -webkit-tap-highlight-color: transparent; }
+        body { background: var(--bg); color: #fff; font-family: 'Segoe UI', Roboto, sans-serif; overflow-x: hidden; }
+
+        /* HEADER */
+        .media-header { position: relative; width: 100%; height: 40vh; background: #000; overflow: hidden; }
+        .media-header img { width: 100%; height: 100%; object-fit: cover; }
+        .header-shadow { 
+            position: absolute; bottom: 0; width: 100%; height: 75%; 
+            background: linear-gradient(0deg, var(--bg) 8%, transparent 100%); 
+        }
+        .back-nav { position: absolute; top: 20px; left: 20px; z-index: 10; color: #fff; font-size: 24px; text-decoration: none; text-shadow: 0 0 10px rgba(0,0,0,0.5); }
+
+        /* CONTENIDO PRINCIPAL */
+        .content { padding: 0 20px 100px; margin-top: -30px; position: relative; z-index: 5; }
+        .title { font-size: 26px; font-weight: 800; margin-bottom: 12px; line-height: 1.2; }
+        .meta { display: flex; gap: 8px; margin-bottom: 20px; }
+        .meta span { background: #252525; padding: 4px 10px; border-radius: 4px; font-size: 12px; color: #ccc; }
+        .synopsis { font-size: 14px; color: #b3b3b3; line-height: 1.5; margin-bottom: 30px; }
+
+        .section-label { font-size: 18px; font-weight: bold; margin-bottom: 15px; border-left: 4px solid var(--accent); padding-left: 10px; }
+        
+        /* LISTA DE EPISODIOS */
+        .episode-card {
+            display: flex; align-items: center; background: var(--card-bg);
+            padding: 10px; border-radius: 12px; margin-bottom: 12px; cursor: pointer;
+            transition: transform 0.2s;
+        }
+        .episode-card:active { transform: scale(0.98); }
+        .ep-thumb { width: 110px; height: 62px; background: #000; border-radius: 8px; overflow: hidden; margin-right: 15px; position: relative; flex-shrink: 0; }
+        .ep-thumb img { width: 100%; height: 100%; object-fit: cover; opacity: 0.7; }
+        .ep-thumb i { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #fff; font-size: 18px; }
+        .ep-info { font-size: 14px; font-weight: 600; }
+
+        /* RECOMENDADOS */
+        .related-section { margin-top: 35px; }
+        .related-grid { display: flex; overflow-x: auto; gap: 12px; padding-bottom: 15px; scrollbar-width: none; }
+        .related-grid::-webkit-scrollbar { display: none; }
+        .related-item { flex-shrink: 0; width: 130px; cursor: pointer; }
+        .related-item img { width: 100%; aspect-ratio: 2/3; object-fit: cover; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); }
+        .related-item p { font-size: 11px; margin-top: 6px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: #ccc; text-align: center; }
+
+        /* MENU INFERIOR */
+        .bottom-menu { position: fixed; bottom: 0; left: 0; width: 100%; background: rgba(0, 0, 0, 0.98); backdrop-filter: blur(20px); display: flex; justify-content: space-around; padding: 12px 0; z-index: 1000; border-top: 1px solid rgba(255, 255, 255, 0.03); }
+        .menu-item { text-decoration: none; color: #888; font-size: 10px; font-weight: 500; display: flex; flex-direction: column; align-items: center; background: none; border: none; cursor: pointer; width: 25%; }
+        .menu-item i { font-size: 19px; margin-bottom: 5px; }
+        .menu-item.active { color: var(--accent); }
+
+        /* REPRODUCTOR OVERLAY */
+        .video-player { position: fixed; inset: 0; background: #000; z-index: 9999; display: none; }
+        .video-player.active { display: flex; align-items: center; justify-content: center; }
+        .close-v { 
+            position: absolute; top: 25px; left: 20px; z-index: 10000; 
+            background: rgba(255,255,255,0.2); border:none; color:#fff; 
+            width:45px; height:45px; border-radius:50%; display: flex; align-items: center; justify-content: center;
+        }
+    </style>
+</head>
+<body>
+
+<div id="main-view">
+    <div class="media-header">
+        <a href="index.html" class="back-nav"><i class="fas fa-arrow-left"></i></a>
+        <img id="item-bg" src="">
+        <div class="header-shadow"></div>
+    </div>
+
+    <div class="content">
+        <h1 class="title" id="item-title">Cargando...</h1>
+        <div class="meta" id="item-meta"></div>
+        <p class="synopsis" id="item-desc"></p>
+
+        <div class="section-label">Episodios</div>
+        <div id="episodes-list"></div>
+
+        <div class="related-section">
+            <div class="section-label">Hentais que te podrían gustar</div>
+            <div class="related-grid" id="related-grid"></div>
+        </div>
+    </div>
+</div>
+
+<nav class="bottom-menu">
+    <a href="index.html" class="menu-item"><i class="fas fa-home"></i><span>Inicio</span></a>
+    <a href="hentais.html" class="menu-item"><i class="fas fa-layer-group"></i><span>Catálogo</span></a>
+    <a href="sincensura.html" class="menu-item"><i class="fas fa-eye-slash"></i><span>Sincensura</span></a>
+    <a href="index.html" class="menu-item"><i class="fas fa-search"></i><span>Buscar</span></a>
+</nav>
+
+<div class="video-player" id="player">
+    <button class="close-v" onclick="stopVideo()"><i class="fas fa-times"></i></button>
+    <iframe id="video-frame" style="width:100%; height:100%; border:none;" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+<script src="hentaibase.js"></script>
+<script>
+    const urlId = localStorage.getItem('hentai_id');
+    const item = baseDeDatos.find(h => h.id === urlId);
+
+    if(item) {
+        document.title = item.titulo + " - Cinemax";
+        document.getElementById("item-title").innerText = item.titulo;
+        document.getElementById("item-desc").innerText = item.descripcion;
+        document.getElementById("item-bg").src = item.bg || item.poster;
+        document.getElementById("item-meta").innerHTML = `
+            <span>${item.fecha}</span>
+            <span>${item.estudio}</span>
+            <span style="color:var(--accent); font-weight:bold">${item.tipo.toUpperCase()}</span>
+        `;
+
+        const list = document.getElementById("episodes-list");
+        const videos = Array.isArray(item.video) ? item.video : [item.video];
+        
+        videos.forEach((link, index) => {
+            list.innerHTML += `
+                <div class="episode-card" onclick="playVideo('${link}')">
+                    <div class="ep-thumb">
+                        <img src="${item.poster}">
+                        <i class="fas fa-play"></i>
+                    </div>
+                    <div class="ep-info">Capítulo ${index + 1}</div>
+                </div>
+            `;
+        });
+
+        cargarRecomendados();
+    }
+
+    function cargarRecomendados() {
+        const grid = document.getElementById("related-grid");
+        const filtrados = baseDeDatos.filter(h => h.id !== urlId);
+        const randoms = filtrados.sort(() => 0.5 - Math.random()).slice(0, 5);
+
+        randoms.forEach(h => {
+            const relCard = document.createElement("div");
+            relCard.className = "related-item";
+            relCard.onclick = () => {
+                localStorage.setItem('hentai_id', h.id);
+                window.location.reload(); 
+            };
+            relCard.innerHTML = `
+                <img src="${h.poster}">
+                <p>${h.titulo}</p>
+            `;
+            grid.appendChild(relCard);
+        });
+    }
+
+    function playVideo(url) {
+        const p = document.getElementById("player");
+        document.getElementById("video-frame").src = url;
+        p.style.display = "flex";
+        p.classList.add("active");
+        document.body.style.overflow = "hidden";
+        window.history.pushState({view: 'player'}, '');
+    }
+
+    function stopVideo() {
+        const p = document.getElementById("player");
+        document.getElementById("video-frame").src = "";
+        p.style.display = "none";
+        p.classList.remove("active");
+        document.body.style.overflow = "auto";
+    }
+
+    window.onpopstate = () => stopVideo();
+</script>
+</body>
+</html>
