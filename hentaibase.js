@@ -352,7 +352,7 @@ const baseDeDatos = [{
 {
     id: "H18",
     titulo: "Nikuen",
-    poster: "",
+    poster: "https://tiohentai.com/uploads/portadas/866.jpg",
     bg: [
         "https://iili.io/qTkgVCg.png",
         "https://iili.io/qTkgcvV.png",
@@ -2993,5 +2993,132 @@ const baseDeDatos = [{
     tags: ["Aheago", "Oral", "Gal"],
     tipo: "censurado",
     descripcion: "Un otaku consigue un harem de compañeras que les gusta ir a su casa a hacer pendejadas. Sí, ya van como 5 iguales."
+},
+{
+    "id": "H151",
+    "titulo": "Sleepless Nocturne",
+    "poster": "https://tiohentai.com/uploads/portadas/786.jpg", 
+    "bg": [
+        "https://iili.io/f1kENmx.png",
+        "https://iili.io/f1kEvLB.png",
+        "https://iili.io/f1kEPkJ.png",
+        "https://iili.io/f1kEQXp.png"
+    ],
+    "video": [
+        "https://storage.googleapis.com/h3n/%20Sleepless%20Nocturne/ep1.mp4",
+        "https://storage.googleapis.com/h3n/%20Sleepless%20Nocturne/ep2.mp4"
+    ],
+    "estudio": "Desconocido",
+    "fecha": "2026",
+    "tags": [
+        "Maids",
+        "Oral",
+        "Virgenes"
+    ],
+    "tipo": "censurado",
+    "descripcion": "SLEEPLESS Nocturne, adaptación hentai de una novela visual, se estrenará en dos episodios de agosto a octubre de 2023, con Tomoki y Yukino en una intrigante aventura."
+},
+{
+    id: "H152",
+    titulo: "So_low Futago Shimai to Katei Kyoshi",
+    poster: "https://tiohentai.com/uploads/portadas/785.jpg",
+    bg: [
+        "https://iili.io/fEa92nI.png",
+        "https://iili.io/fEa9fFn.png",
+        "https://iili.io/fEa9B8G.png",
+        "https://iili.io/f1kEQXp.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/bcb20b01605d2e2ed0deb5fb44a13dd5261f9b6ffa22fb3f242846c2c79608c5/ep1.mp4",
+        "https://www.burstcloud.co/embed/622155938dcc2d07578e13029a672c52dc8d731490d98495b25a6b791508c78e/ep2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Corridas", "Oral", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "Las gemelas Mitsuki y Keijun planean expulsar a su tutor Fujio Koda, quien enfrenta travesuras y humillaciones constantes."
+},
+{
+    id: "H153",
+    titulo: "Soshite Watashi wa Sensei ni",
+    poster: "https://tiohentai.com/uploads/portadas/707.jpg",
+    bg: [
+        "https://iili.io/fEjfdMl.png",
+        "https://iili.io/fEjKsGp.png",
+        "https://iili.io/fEjK8a1.png",
+        "https://iili.io/fEjKL6N.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/a3bc3f7a35ec816fbe66c3c9a8302f4a134a9041b1b4634617c1add9c6420d6d/ep1.mp4",
+        "https://www.burstcloud.co/embed/23f4c811f589242e5ba7345237ef8911c339a585adcf7ca90740a01cd1b3b11b/ep2.mp4",
+        "https://www.burstcloud.co/embed/6a87af89073f5a7d9ed98bcee46e2d59e62455469d93d1f30b9a311197886d77/ep3.mp4",
+        "https://www.burstcloud.co/embed/8eeaf49d11e4eb8af8a7f51249da4ec40b5fb24f91ed0cdb02abb4e3789916d4/ep4.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Corridas", "Oral", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "Shouhei continúa con sus avances, metiendo los dedos a Nanami por debajo de la mesa con Kanako en la habitación, degollándola y tomándola por detrás en un aula vacía."
+},
+{
+    id: "H154",
+    titulo: "Soushisouai Note",
+    poster: "https://tiohentai.com/uploads/portadas/428.jpg",
+    bg: [
+        "https://iili.io/fGN1TTx.png",
+        "https://iili.io/fGN1zpj.png",
+        "https://iili.io/fGN1lYg.png",
+        "https://iili.io/fGN1j4t.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/d3e7ade0178604a4354bc5e251523db11c26ea7f1ee01e4a6ea97d5b995c08fa/ep1.mp4",
+        "https://www.burstcloud.co/embed/32c34c8ec74b1e9c6ce8eb7cc06df5dcbf8bbcebaa5a8103a775332777ac36f0/ep2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Romance", "Oral", "Ninfomanas"],
+    tipo: "censurado",
+    descripcion: "Asoka y Miyamoto se reencuentran en un karaoke, se encienden y alquilan un hotel. Ai-chan y Namikawa comparten un fetiche y se divierten después de clases."
+},
+{
+    id: "H155",
+    titulo: "Spocon!",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/spocon-1-1.jpg",
+    bg: [
+        "https://iili.io/fGPsmmb.png",
+        "https://iili.io/fGPsyIj.png",
+        "https://iili.io/fGPL9hx.png",
+        "https://iili.io/fGPLK21.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/96093d9dc5726b5a2b4bcd362f3ce70c8e7e7528756323063cad8ecfc5f8ab0d/ep1.mp4",
+        "https://www.burstcloud.co/embed/06d768e170a67c0014334a3fdf0724ccd732cc4d94ba54446018717cc721ebe2/ep2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Escolares", "Haren", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Tatsuya, exatleta, se entrena como entrenador en la Academia Josho. Katsumi intenta seducirlo; otros clubes podrían tener planes similares."
+},
+{
+    id: "H156",
+    titulo: "Stringendo and Accelerendo Ultimatum Sera",
+    poster: "https://iili.io/fFOBiG4.jpg",
+    bg: [
+        "https://iili.io/fGit3lV.png",
+        "https://iili.io/fGitFUB.png",
+        "https://iili.io/fGitJix.png",
+        "https://iili.io/fGit5JI.png"
+    ],
+    video: [
+        "https://storage.googleapis.com/h3n/Stringendo%20and%20Accelerendo%20Ultimatum%20Sera/ep1.mp4",
+        "https://storage.googleapis.com/h3n/Stringendo%20and%20Accelerendo%20Ultimatum%20Sera/ep2.mp4",
+        "https://storage.googleapis.com/h3n/Stringendo%20and%20Accelerendo%20Ultimatum%20Sera/ep3.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Escolares", "Haren", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Mizuho enseña ecuaciones a estudiantes, mientras se divierte con Tomohisa; tras ello, lo invita a su casa para seguir disfrutando."
 },
 ];
