@@ -5076,4 +5076,204 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Eran sus últimas vacaciones de verano... mientras todo llegaba a su fin y los fuegos artificiales se apagaban, ella decidió que finalmente iba a dar ese último paso..."
 },
+{
+    id: "H271",
+    titulo: "Kitsune Musume no Ecchi na Oyado",
+    poster: "https://iili.io/qqWzQ8F.jpg",
+    bg: [
+        "https://iili.io/qqWzDua.png",
+        "https://iili.io/qqWzZyg.png",
+        "https://iili.io/qqWzbwJ.png",
+        "https://iili.io/qqWzmZv.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/33e54cb5255210f0b96d39520cbdbf011bc0ef59e1f26f2a97c50d76966d9951/ep1.mp4",
+        "https://www.burstcloud.co/embed/2119f8f8f5eeb260a13f8de4c7a571200d1d9baea8b98412b34b5e0d43bb143f/ep2.mp4"
+    ],
+    estudio: "Collaboration Works",
+    fecha: "2022",
+    tags: ["Corridas", "Lolicon", "Oral"],
+    tipo: "censurado",
+    descripcion: "En algún lugar de las montañas, un pequeño zorro cayó en una trampa de caza. Después de permanecer allí durante varias horas, estuvo al borde de la vida y de la muerte."
+},
+{
+    id: "H272",
+    titulo: "Kotowari Kimi no Kokoro no Koboreta Kaker",
+    poster: "https://i.postimg.cc/hPrKck6Q/kotowari-1-1.jpg",
+    bg: [
+        "https://i.postimg.cc/JzzMnTCs/vlcsnap-2026-03-02-07h45m48s437.png",
+        "https://i.postimg.cc/bwwpJ6fJ/vlcsnap-2026-03-02-07h46m00s271.png",
+        "https://i.postimg.cc/FHHNRPXk/vlcsnap-2026-03-02-07h46m07s738.png",
+        "https://i.postimg.cc/8zzN5ygJ/vlcsnap-2026-03-02-07h46m28s204.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/f7273e93857f3e123a723449711f04febca86cd84cabc708f10026b2b49419fc/ep1.mp4",
+        "https://www.burstcloud.co/embed/96404a097f53399aca9bd431abf0b21d7950a282670891c151f430bb498d7da2/ep2.mp4"
+    ],
+    estudio: "Nihikime no Dozeu",
+    fecha: "2022",
+    tags: ["Corridas", "Romance", "Oral"],
+    tipo: "censurado",
+    descripcion: "Desde entonces ha tenido que lidiar con unos espíritus llamados kotowari que residen en la oscuridad de las almas de las personas que están relacionadas con él, por muy lejanas que sean."
+},
+{
+    id: "H273",
+    titulo: "Konna ni Yasashiku Sareta no",
+    poster: "https://iili.io/qq47Gcv.jpg",
+    bg: [
+        "https://iili.io/qq47W9p.png",
+        "https://iili.io/qq47XAN.png",
+        "https://iili.io/qq47hNI.png",
+        "https://iili.io/qq47ePs.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/15ab9f3290f6150397d56a4b10ea8ff4e4c0c891713df0f0e03bf6fb269b9a03/ep1.mp4",
+        "https://www.burstcloud.co/embed/6b41847c2bef1706b237393837b9eb1439b90e223147cdc0a347606db85678cc/ep2.mp4",
+        "https://www.burstcloud.co/embed/7b7622e6a8a656b3a0f87e6397b5a55462d8e96425cb8b3b95e85f123c2708f3/ep3.mp4"
+    ],
+    estudio: "Queen Bee",
+    fecha: "2021",
+    tags: ["Milfs", "Incesto", "Oral"],
+    tipo: "censurado",
+    descripcion: "La cosa con los hentai viejos de la abeja es que son muchas historias, así que realmente no puedo hacer una sinopsis de esta madre. En la primera, hay un marika que se viste de trapo y se lo coge su hermana. Y en la siguiente se violan a una elfa tetona."
+},
+{
+    id: "H274",
+    titulo: "Kokuhaku Kokuhaku",
+    poster: "https://iili.io/qqP7AAl.jpg",
+    bg: [
+        "https://iili.io/qqP7Yo7.png",
+        "https://iili.io/qqP7ESj.png",
+        "https://iili.io/qqP7eKg.png",
+        "https://iili.io/qqP7rDN.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/25b0f524cf5ff1bb7102de73877eaf5607df45b6d931643535b2f03c7f57728b/ep1.mp4",
+        "https://www.burstcloud.co/embed/07611fad0d8474e53bc1f97cc8e249e4429546fe74e400f9e040f9c1ad3ab5be/ep2.mp4"
+    ],
+    estudio: "nur",
+    fecha: "2023",
+    tags: ["Escolares", "Tetonas", "Oral"],
+    tipo: "censurado",
+    descripcion: "Bully Gal explora la belleza fría y seria de Haruna-chan, quien intimida a Yua-chan mientras guarda un secreto y experimenta con su propia sumisión."
+},
+{
+    id: "H275",
+    titulo: "Kozukuri Ninkatsu Bu",
+    poster: "https://iili.io/qqLCFpt.jpg",
+    bg: [
+        "https://iili.io/qqLCfTX.png",
+        "https://iili.io/qqLCoGf.png",
+        "https://iili.io/qqLCI3l.png",
+        "https://iili.io/qqLClGj.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/c0f864c3e43de0a328bcfd8c3cfcf828758842698e78fb9ff16f3fa545f4fd18/EP1.mp4",
+        "https://www.burstcloud.co/embed/bdb51cffd5f9a994a9c9350f5098752c2a6a45a7fedb669fd049dc965093b2c5/EP2.mp4"
+    ],
+    estudio: "Mary Jane",
+    fecha: "2023",
+    tags: ["Escolares", "Tetonas", "Oral"],
+    tipo: "censurado",
+    descripcion: "Kozukuri Ninkatsu-bu es una nueva obra del estudio Mary Jane 2023. El hentai hablará del club nacional del embarazo, muy común entre los jóvenes. El club organiza diversas actividades relacionadas con el embarazo."
+},
+{
+    id: "H276",
+    titulo: "Kotowarenai Haha",
+    poster: "https://iili.io/qBWprV2.jpg",
+    bg: [
+        "https://iili.io/qBWpPK7.png",
+        "https://iili.io/qBWpil9.png",
+        "https://iili.io/qBWp4PS.png",
+        "https://iili.io/qBWpQHu.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/012cd8234eef5d1e65f6deca96b97597e615b67d1f4c5fb4b51e2bbd32bf47f6/ep1.mp4",
+        "https://www.burstcloud.co/embed/2fbbd9f2f1848ee114859aa8db015af0fc9a7ee1cc72a61471aee113844a6b16/ep2.mp4"
+    ],
+    estudio: "Queen Bee",
+    fecha: "2024",
+    tags: ["Escolares", "Tetonas", "Oral"],
+    tipo: "censurado",
+    descripcion: "Kosuke ve a su madre Shiori como un obstáculo, pero tras un accidente con su amigo Yuta, sus deseos y emociones surgen; se desarrolla una conexión íntima entre ellos, transformando su relación maternal en deseo y atracción."
+},
+{
+    id: "H277",
+    titulo: "Koinaka Koinaka",
+    poster: "https://iili.io/qBjZhn2.jpg",
+    bg: [
+        "https://iili.io/qBjZOF9.png",
+        "https://iili.io/qBjZjGS.png",
+        "https://iili.io/qBjZeae.png",
+        "https://iili.io/qBjZk8u.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/fdefeeabf180c0128c7af32c2c1dfbf10ddb7280f91e24e32875838fcdf575bb/EP1.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2020",
+    tags: ["Anal", "Haren", "Romance"],
+    tipo: "censurado",
+    descripcion: "Kouta, heredero del santuario, se centra en sus estudios mientras su vida se complica con Erina, su prometida, y Mai."
+},
+{
+    id: "H278",
+    titulo: "Koiito Kinenbi",
+    poster: "https://iili.io/qBvOKbI.jpg",
+    bg: [
+        "https://iili.io/qBvOofs.png",
+        "https://iili.io/qBvOTJ4.png",
+        "https://iili.io/qBvOlqu.png",
+        "https://iili.io/qBvOwLF.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/05345c605f8c360bac432cabee09006af765d145aaa8e1dcee37334b553093e3/EP1.mp4",
+        "https://www.burstcloud.co/embed/f3d785bab89e4e2ccf14276502692eefe427ed4d021495d3b067fb414907a4c6/EP2.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2020",
+    tags: ["Anal", "Love", "Haren"],
+    tipo: "censurado",
+    descripcion: "SUna niña llamada Aisha, que es la hija de Papá Noel, está terminando de repartir regalos. En la última casa, tropieza con la nieve del porche y se queda inconsciente al golpearse la cabeza. "
+},
+{
+    id: "H279",
+    titulo: "Love Selection",
+    poster: "https://iili.io/qBbffcB.jpg",
+    bg: [
+        "https://iili.io/qBbfC91.png",
+        "https://iili.io/qBbfnAF.png",
+        "https://iili.io/qBbfowg.png",
+        "https://iili.io/qBbfxta.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/f88ead74a091abff1bf1bcf216489deeb4063119c140bca6b96896a937491c69/EP1.mp4",
+        "https://www.burstcloud.co/embed/b5288c65e3341e8263359f02f6cd3ec5fd29f6dfe10a8741e783d0e32f55477f/EP2.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2020",
+    tags: ["Anal", "Love", "Vanilla"],
+    tipo: "censurado",
+    descripcion: "Tres chicas de un instituto normal descubren que son las únicas de su clase que aún protegen su virginidad."
+},
+{
+    id: "H280",
+    titulo: "Love x Holic Miwaku no Otome to Hakudaku Kankei",
+    poster: "https://iili.io/qCRHieR.png",
+    bg: [
+        "https://iili.io/qCRHQzN.png",
+        "https://iili.io/qCRHtst.png",
+        "https://iili.io/qCRHpgs.png",
+        "https://iili.io/qCRJ9dG.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/e5d081f8f5b50654914c5bf776f7d8935315d43145bb7462088c0952a8cc8a05/ep1.mp4",
+        "https://www.burstcloud.co/embed/6e2e1c05495f947c7449173936b58c701e476cd7d1ff4b0be6b23f543cddbbc6/ep2.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2020",
+    tags: ["Anal", "Love", "Demonios"],
+    tipo: "censurado",
+    descripcion: "Amano Daiichi, tras ser rechazado por la princesa Suzuka, se encuentra con Akane, una mitad vampiro, y transforma su sangre en un elixir."
+},
 ];
