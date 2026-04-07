@@ -5680,4 +5680,201 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Los protagonistas hentai Kyotaru y Sayaka han roto recientemente con sus almas gemelas y en su reunión del instituto deciden consolarse mutuamente."
 },
+{
+    id: "H301",
+    titulo: "Mou Hasamazu ni wa Irarenai",
+    poster: "https://iili.io/qzGqljt.jpg",
+    bg: [
+        "https://iili.io/qzG5vov.png",
+        "https://iili.io/qzGuPHu.png",
+        "https://iili.io/qzGItmx.png",
+        "https://iili.io/qzGAtmG.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/75f8a33a43ab2545113ca27e1388a1120ef71f57b773fd6875fc5a1dee818dc5/ep1.mp4"
+    ],
+    estudio: "Pashmina",
+    fecha: "2020",
+    tags: ["Escolares", "Orgias", "Sinsensura"],
+    tipo: "sincensura",
+    descripcion: "El alienígena entonces pide vigilarla, ya que de todas formas vino a la Tierra a vigilar a los humanos, y realmente no le hace nada hasta que ve a Sugiuchi y a Amano Inori ponerse cachondos."
+},
+{
+    id: "H302",
+    titulo: "Muchi Muchi Kyousei Seichouchuu",
+    poster: "https://iili.io/qzM0V4f.jpg",
+    bg: [
+        "https://iili.io/qzM0wpS.jpg",
+        "https://iili.io/qzM0U4j.jpg",
+        "https://iili.io/qzM1XMg.jpg",
+        "https://iili.io/qzM1tNS.jpg"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/945d72f3c7e19455b61be26ebab96e397e1aa504a20fc3494779f96aa1d63404/ep1.mp4",
+        "https://www.burstcloud.co/embed/17e6472f45d23b0d087f832523bce047d1c7f1cadfcd0d769f4e629fc1f932ee/ep2.mp4"
+    ],
+    estudio: "SELFISH",
+    fecha: "2021",
+    tags: ["Haren", "Tetonas", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "La profesora de niñas enfrenta efectos enormes tras una merienda; su paciencia se agota ante tentaciones."
+},
+{
+    id: "H303",
+    titulo: "Kenki Virgo",
+    poster: "https://iili.io/qVuerRS.jpg",
+    bg: [
+        "https://iili.io/q5H3uP2.png",
+        "https://iili.io/q5H3TMl.png",
+        "https://iili.io/q5H3RFS.png",
+        "https://iili.io/q5H3cAu.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/f3e34824af620fd7a3cb276499eae0db60d65e199a1030f77a7a2a20e48e5515/ep1.mp4"
+    ],
+    estudio: "Magin Label",
+    fecha: "2026",
+    tags: ["Anal", "Masturbacion", "Tetona"],
+    tipo: "censurado",
+    descripcion: "Virgo Note, la poderosa espadachina maldecida, se convierte en actriz de videos para adultos tras ser transformada por un súcubo. Su debut croma en el set despierta su deseo sexual y la aceptación de su nueva naturaleza sumisa."
+},
+{
+    id: "H304",
+    titulo: "Nymph of stratosphere",
+    poster: "https://iili.io/qWcMqJ9.jpg",
+    bg: [
+        "https://iili.io/qlrBbWv.png",
+        "https://iili.io/qlrCHgI.png",
+        "https://iili.io/qlrC25X.png",
+        "https://iili.io/qlrCBs4.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/a1cee393782b0bffba80f48ac360a57e418aed23b2d2b377ca6901bce2bb9107/Ep1(1).mp4",
+        "https://www.burstcloud.co/embed/194f00aed5046bebe7da03018c453a6bf0f25ef3c991ab4a15336e4b86a1039c/ep2.mp4",
+        "https://www.burstcloud.co/embed/b7ea65bda404400ea84fb61cf524fa0ef518aa11c1613051b4c42f97c71be27d/ep3.mp4"
+    ],
+    estudio: "Media Blasters",
+    fecha: "2022",
+    tags: ["Harem", "Ninfomanas", "Anal", "Sin Censura"],
+    tipo: "sincensura",
+    descripcion: "En un mundo arruinado, cinco ninfas angelicales traen fragancia de fruta prohibida. Un programador observa a una de ellas espiando, sintiendo su aroma y sintiendo el impulso de perseguirla, ignorando su origen extraterrestre."
+},
+{
+    id: "H305",
+    titulo: "Shin Ban Megami Tantei Vinus File",
+    poster: "https://iili.io/qWtxW4s.jpg",
+    bg: [
+        "https://iili.io/qEEucgI.png",
+        "https://iili.io/qEEuWXf.png",
+        "https://iili.io/qEEuw12.png",
+        "https://iili.io/qEEuUzb.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/f47b435ab891b1531331e33ba476972fb05ec612b31dbb95ce36ebee7135fcb3/ep1.mp4",
+        "https://www.burstcloud.co/embed/7c43e7cf39c72d32cfa3cddd8fb19f1ef438c2817c27032878c562b5885ab675/ep2.mp4"
+    ],
+    estudio: "VINUS FILE",
+    fecha: "2004",
+    tags: ["Anal", "Masturbacion", "Sin censura"],
+    tipo: "sincensura",
+    descripcion: "Dos investigadoras, Karen y Rio, buscan vengar la muerte de la hermana de Rio desmantelando una peligrosa red criminal de tráfico sexual."
+},
+{
+    id: "H306",
+    titulo: "Tsuma ga Onsen de Circle Nakama no Nikubenki ni natta no desuga",
+    poster: "https://iili.io/qXHfbkJ.jpg",
+    bg: [
+        "https://iili.io/qVTw2gS.png",
+        "https://iili.io/qVTwJql.png",
+        "https://iili.io/qVTwd12.png",
+        "https://iili.io/qVTwFd7.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/3c3d8586e8d86f164d15f17ba16403d05d91f96db104cce52f950ff28aec8f47/ep1.mp4"
+    ],
+    estudio: "Studio 9 Maiami",
+    fecha: "2020",
+    tags: ["Casada", "Netorate", "Orgias"],
+    tipo: "censurado",
+    descripcion: "Hiroshi y Ayaka, recién casados, viajan a un onsen con amigos universitarios, pero una revelación sobre el pasado de Ayaka lo perturba."
+},
+{
+    id: "H307",
+    titulo: "Mou Ichido, Shite Mitai",
+    poster: "https://iili.io/qX3TMIS.jpg",
+    bg: [
+        "https://iili.io/qVueixe.png",
+        "https://iili.io/qVuesWu.png",
+        "https://iili.io/qVueLib.png",
+        "https://iili.io/qVueZfj.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/be575f083a273fcb9837ad2e525d806a1f1d9b5f9a9e5b91469ffd651004a855/ep1.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2026",
+    tags: ["Tetona", "Masturbacion", "Oral"],
+    tipo: "censurado",
+    descripcion: "La protagonista del hentai, Yuna, discute constantemente con su compañero de trabajo Yuta. Un día, se enzarzaron tanto en una discusión en el bar que bebieron demasiado y acabaron en un motel de amor por la mañana."
+},
+{
+    id: "H308",
+    titulo: "Natsu Yasumi",
+    poster: "https://iili.io/qXBFPrx.jpg",
+    bg: [
+        "https://iili.io/qWoLpGj.png",
+        "https://iili.io/qWoQH3Q.png",
+        "https://iili.io/qWoQn6v.png",
+        "https://iili.io/qWoQAut.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/12526fdf0f4c8eab2f434c6e5da09786d755d51710c470ab2e804ca1757da8c8/ep1.mp4",
+        "https://www.burstcloud.co/embed/36a0b37efb919f510f64ac6a081376f4dd3f7770beba6de73b10f3beb956ebcc/ep2.mp4",
+        "https://www.burstcloud.co/embed/e02db6470cfad51e837d848a8d5bce8ecc3cc5a0bc6c57577a2367b4517d4c2c/ep3.mp4"
+    ],
+    estudio: "Studio 9 Maiami",
+    fecha: "2020",
+    tags: ["Femboy", "Masturbacion", "Anal"],
+    tipo: "censurado",
+    descripcion: "Yuu y Natsuki se conocieron bajo el cálido sol, durante aquellas inolvidables vacaciones de verano... ¿Fue un sueño, o...? ¿Fue una historia de amor agridulce?"
+},
+{
+    id: "H309",
+    titulo: "Kurutta Kyoutou Danzai no Gakuen",
+    poster: "https://iili.io/qXzm55N.jpg",
+    bg: [
+        "https://iili.io/qWzMGSV.png",
+        "https://iili.io/qWzMhDF.png",
+        "https://iili.io/qWzMXN1.png",
+        "https://iili.io/qWzMOiJ.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/dc8564a89b7fde4bb2245b7affd4fceca3c369e83161c4a1e502d8bb1af29543/ep1.mp4"
+    ],
+    estudio: "Studio 9 Maiami",
+    fecha: "2020",
+    tags: ["Escolares", "Orgias", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Una escuela donde profesores, dominados por un nuevo director, se convierten en maníacos sexuales. Ahora, es famosa por la lujuria."
+},
+{
+    id: "H310",
+    titulo: "Ijou Chitai Jikken Dorei",
+    poster: "https://iili.io/qiewbne.jpg",
+    bg: [
+        "https://iili.io/qWcMxxj.png",
+        "https://iili.io/qWcMzWx.png",
+        "https://iili.io/qWcMcba.png",
+        "https://iili.io/qWcMWgI.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/1314fa8aadb45ae633d969fe6b1a13ac0f804bc043e678a3f3bd4cf70fe6ea6d/ep1.mp4",
+        "https://www.burstcloud.co/embed/185e8382c76eec530b5a256d856cdc601d80241cf857bef20f0a095739edde21/ep2.mp4"
+    ],
+    estudio: "Studio 9 Maiami",
+    fecha: "2020",
+    tags: ["Vondague", "Hardcore", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Tras la muerte de sus padres, Konno Azusa hereda la posada de sus padres. Todos los residentes de la posada se han ido excepto un huésped pervertido, por lo que ella tiene que cumplir todos sus deseos para evitar que él también se vaya."
+},
 ];
