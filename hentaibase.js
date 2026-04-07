@@ -3121,4 +3121,900 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Mizuho enseña ecuaciones a estudiantes, mientras se divierte con Tomohisa; tras ello, lo invita a su casa para seguir disfrutando."
 },
+{
+    id: "H157",
+    titulo: "Succuba Mist Story",
+    poster: "https://iili.io/fqV4sON.png",
+    bg: [
+        "https://iili.io/fMTEd1S.png",
+        "https://iili.io/fMTE9Ll.png",
+        "https://iili.io/fMTEJB2.png",
+        "https://iili.io/fMTE2r7.png"
+    ],
+    video: [
+        "https://storage.googleapis.com/h3n/Stringendo%20and%20Accelerendo%20Ultimatum%20Sera/ep1.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Ninfomana", "Futanari", "Succubus"],
+    tipo: "censurado",
+    descripcion: "Chica seductora propone intercambio sexual con su profesor, intensificando la tensión entre ellos."
+},
+{
+    id: "H158",
+    titulo: "Succubus Connect!",
+    poster: "https://iili.io/fBT1SMQ.jpg",
+    bg: [
+        "https://iili.io/fMu1qCl.png",
+        "https://iili.io/fMu1C4S.png",
+        "https://iili.io/fMu1zve.png",
+        "https://iili.io/fMu1Iyu.png"
+    ],
+    video: [
+        "https://storage.googleapis.com/h3n/Succubus%20Connect!/ep1.mp4",
+        "https://storage.googleapis.com/h3n/Succubus%20Connect!/ep2.mp4",
+        "https://storage.googleapis.com/h3n/Succubus%20Connect!/ep3.mp4",
+        "https://storage.googleapis.com/h3n/Succubus%20Connect!/ep4.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Censurado", "Corridas", "Succubus"],
+    tipo: "censurado",
+    descripcion: "Yuina, insegura, es poseída por un súcubo en un mundo desconocido lleno de aventuras."
+},
+{
+    id: "H159",
+    titulo: "Teaka Mamire no Tenshi",
+    poster: "https://iili.io/foZy6mB.jpg",
+    bg: [
+        "https://iili.io/fM1vOKJ.png",
+        "https://iili.io/fM1vwPa.png",
+        "https://iili.io/fM1vecv.png",
+        "https://iili.io/fM1vkSR.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/c9babc60ecc77a29bd733fa0ac096f4300f7744b4957de41fcaa45efa9fbab19/ep1.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Anal", "Corridas", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Kisaragi Reina enfrenta desafíos y seducciones en su búsqueda de éxito como ídolo."
+},
+{
+    id: "H160",
+    titulo: "Succubus Stayed Life",
+    poster: "https://iili.io/fxasAeS.jpg",
+    bg: [
+        "https://iili.io/fMDiiqQ.md.png",
+        "https://iili.io/fMDis1V.md.png",
+        "https://iili.io/fMDiLrB.md.png",
+        "https://iili.io/fMDiDkF.md.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/894bf29fbe2066b0089bd4599971eab11ce70b85fac2c0f255289218d9138cf9/ep1.mp4",
+        "https://www.burstcloud.co/embed/c8a05910f36a4d89c59efe91479b730143b2a6948de86312981001c6f2adacf1/ep2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Anal", "Corridas", "Ninfomanas"],
+    tipo: "censurado",
+    descripcion: "Después de vivir una vida sin incidentes, nuestro protagonista se encuentra en una situación para la que no estaba preparado en absoluto. Siendo drenado constantemente de su semilla para apaciguar la lujuria y el hambre de la súcubo a la que ahora se encuentra unido."
+},
+{
+    id: "H161",
+    titulo: "Sukebe Elf Tanbouki",
+    poster: "https://iili.io/fIqftTP.jpg",
+    bg: [
+        "https://iili.io/fVzGxII.png",
+        "https://iili.io/fVzGzXt.png",
+        "https://iili.io/fVzG72f.png",
+        "https://iili.io/fVzGMBe.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/f2906bae7910d80b9cae3a35b2e99db6a6ebbf882560c22fd84a3a9402620991/subeke1.mp4",
+        "https://www.burstcloud.co/embed/90f163d16b8e31cfd0e88b74fe8a7bdc3a91bcb9ceebced79935f9f053da6d41/subeke2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Anal", "Elfas", "Ninfomanas"],
+    tipo: "censurado",
+    descripcion: "OVA \"Crónicas de un duende lascivo\" presenta a Kaz, un biólogo que explora a la elfa Maana, iniciando una vida erótica e inocente."
+},
+{
+    id: "H162",
+    titulo: "Suketto Sanjou!!",
+    poster: "https://iili.io/fTuKg4e.png",
+    bg: [
+        "https://iili.io/fVIbMua.png",
+        "https://iili.io/fVIbEyg.png",
+        "https://iili.io/fVIbWZv.png",
+        "https://iili.io/fVIbhnR.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/b064f0cf49e350f643dbba7b9403a4248e36d6b764671c4dce6024cfbe6de7e1/ep1.mp4",
+        "https://www.burstcloud.co/embed/b791cebe7b62a2a895f5e3ce57cd35b59d40d93719ffa678a84c0ec076e4dd79/ep2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Escolares", "Harem", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "¡Un partido de béisbol hiper erótico protagonizado por la rubia bomba Sandy y la inocente piel oscura Wendy!"
+},
+{
+    id: "H163",
+    titulo: "Summer Inaka no Seikatsu",
+    poster: "https://iili.io/funzNwX.jpg",
+    bg: [
+        "https://iili.io/fVTcAnn.png",
+        "https://iili.io/fVTcTZX.png",
+        "https://iili.io/fVTcRGs.png",
+        "https://iili.io/fVTc56G.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/ef30c8da466906e3b1c8a76433773b6b13617f910710bb14f7223fdde4b8fe26/ep1.mp4",
+        "https://www.burstcloud.co/embed/f66306f8599d13ead80ffe0fd20d7524ed598854f90c034d51c7e6d71334aa6f/ep2.mp4"
+    ],
+    estudio: "Hentai",
+    fecha: "2026",
+    tags: ["Escolares", "Harem", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "\"Me voy de viaje en verano, ¿podrías venir a cuidarla mientras estoy fuera?\""
+},
+{
+    id: "H164",
+    titulo: "Sweet and Hot",
+    poster: "https://iili.io/fYPO8L7.jpg",
+    bg: [
+        "https://iili.io/fVuPBoB.png",
+        "https://iili.io/fVuPnP1.png",
+        "https://iili.io/fVuPuHJ.png",
+        "https://iili.io/fVuPaVI.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/7e8c019767211082dfc64609e2c3bc99a323dfd80dc581bb5793c9e8add39044/ep1.mp4",
+        "https://www.burstcloud.co/embed/e053e9aae109b1be76db1977cb2e42b412ab91bf9bdbf88a3299999fb0ae2f83/ep2.mp4"
+    ],
+    estudio: "Queen Bee Studios",
+    fecha: "2026",
+    tags: ["Corridas", "Harem", "Oral"],
+    tipo: "censurado",
+    descripcion: "Sweet and Hot es un hentai de Queen Bee Studios, donde un chico malhumorado descubre su atractivo aroma para chicas."
+},
+{
+    id: "H165",
+    titulo: "Sweet Home H na Oneesan wa Suki Desu ka?",
+    poster: "https://iili.io/faC7WkQ.jpg",
+    bg: [
+        "https://iili.io/fV11vvp.md.png",
+        "https://iili.io/fV116nn.md.png",
+        "https://iili.io/fV11i6G.md.png",
+        "https://iili.io/fV11Z8l.md.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/63ae41126026763082100bf7cb4f3a82f1a71a568120351f86407992a8ab24f6/ep1.mp4",
+        "https://www.burstcloud.co/embed/370fbf9fc9e797079fd9782f25556f9252295a87fbdcc22b2c8a748b289b53f6/ep2.mp4",
+        "https://www.burstcloud.co/embed/58b0001bc8ec0a8d47b12895079f29a1d34a376635e45591ac1005be3203f076/ep3.mp4"
+    ],
+    estudio: "H-Anime",
+    fecha: "2026",
+    tags: ["Anal", "Incesto", "Milfs"],
+    tipo: "censurado",
+    descripcion: "Ryuuichi regresa a casa tras un incendio, solo para encontrar un internado de chicas que lo acoge."
+},
+{
+    id: "H166",
+    titulo: "Taboo Charming Mother!",
+    poster: "https://iili.io/f0ghGqP.png",
+    bg: [
+        "https://iili.io/fVP4ymu.png",
+        "https://iili.io/fVP6ILv.png",
+        "https://iili.io/fVP4m79.png",
+        "https://iili.io/fVP6W42.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/f164d1e1724d34d362b98ed07bf8554f98b73b6004430011ead15bdaf03a3d24/ep1.mp4",
+        "https://www.burstcloud.co/embed/4e2bc30e948701fe1b1da83d3286b061ce900927d8441f1663ab356a3bc8894a/ep2.mp4",
+        "https://www.burstcloud.co/embed/ed2afce2b08e0ef557b0f4280f732806046568e337ed7262e2a293e6eb987be7/ep3.mp4",
+        "https://www.burstcloud.co/embed/111be54856a157222b660e78933a1880be4e2a4993c7160f39e699857d73dcf6/ep4.mp4",
+        "https://www.burstcloud.co/embed/a9f33c4e8bc0f7c98b91df82209353782207aa044656d994a3694f1bde7d7409/ep5.mp4",
+        "https://www.burstcloud.co/embed/e11957502068479c483e26b0d0593dd54d4dba205a2c3823abd459747e124904/ep6.mp4"
+    ],
+    estudio: "H-Anime",
+    fecha: "2026",
+    tags: ["Anal", "Incesto", "Milfs"],
+    tipo: "sincensura",
+    descripcion: "Kazuhiko está enamorado de su madrastra, o mejor dicho, quiere tener sexo con ella. Como no puede pedírselo directamente ni forzarla, se le ocurre un plan bastante retorcido."
+},
+{
+    id: "H167",
+    titulo: "Tanetsuke Ojisan to NTR Hitozuma Sex",
+    poster: "https://iili.io/f0QvMSs.png",
+    bg: [
+        "https://iili.io/fWNpUZX.png",
+        "https://iili.io/fWNprnn.png",
+        "https://iili.io/fWNp4Gs.png",
+        "https://iili.io/fWNpsa4.png"
+    ],
+    video: [
+        "https://storage.googleapis.com/h3n/Tanetsuke%20Ojisan%20to%20NTR%20Hitozuma%20Sex/ep1.mp4"
+    ],
+    estudio: "Doujinshi Adaptación",
+    fecha: "2026",
+    tags: ["Anal", "Netorare", "Milfs"],
+    tipo: "censurado",
+    descripcion: "La serie doujinshi 'Seed-bearing Uncle' se adapta a OVA. Kasumi, ama de casa, enfrenta problemas maritales y es invitada por un extraño, lo que desencadena un torbellino en su vida."
+},
+{
+    id: "H168",
+    titulo: "Tanetsuke Ojisan to Papakko JD Saimin Seikatsu",
+    poster: "https://iili.io/fWNp8uI.jpg",
+    bg: [
+        "https://iili.io/fWOZfzg.png",
+        "https://iili.io/fWOZFmF.png",
+        "https://iili.io/fWOZ3e1.png",
+        "https://iili.io/fWOZqXa.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/7657c3f77659272c28cb3fcf718261cf19bad5e188e6e132a320859db22dc5f5/ep1.mp4"
+    ],
+    estudio: "Saimin Lab",
+    fecha: "2023",
+    tags: ["Anal", "Netorare", "Milfs"],
+    tipo: "censurado",
+    descripcion: "Tanetsuke Oji-san to Papakko JD Saimin Seikatsu narra la historia de una estudiante manipulada por su maestro de hipnosis, creyendo que él es su padre."
+},
+{
+    id: "H169",
+    titulo: "Tayu Tayu",
+    poster: "https://iili.io/fEYypyv.jpg",
+    bg: [
+        "https://iili.io/fW8vSfI.png",
+        "https://iili.io/fW8vkVp.png",
+        "https://iili.io/fW8vgUX.png",
+        "https://iili.io/fW88HOb.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/2713f91b9bbf4aec75f9259a10b146f3d5c5c0d5b1cef67ff6f2711fa1be8468/ep1.mp4",
+        "https://www.burstcloud.co/embed/bf3608dfc4146c5e90b996f2c31e1bfa322f643a5f919e6a1d98a13e5788c941/ep2.mp4",
+        "https://www.burstcloud.co/embed/6affbfe7cf110f5d27628a30291141631843dd57dc4200734fe57690c5f3f71a/ep3.mp4",
+        "https://www.burstcloud.co/embed/7e20fac442f140da58683018e26dd4da480fa1d11c2d18772252846622d7da9f/ep4.mp4"
+    ],
+    estudio: "Hentai Studio",
+    fecha: "2024",
+    tags: ["Escolares", "Romance", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Desde que sus padres se trasladaron al extranjero por motivos de negocios, Reiji se vio obligado a vivir en su antigua casa en el campo. Cuando decide disfrutar de un baño al aire libre, dos amigas de la infancia se fijan en él. Ahí es donde comienza la historia..."
+},
+{
+    id: "H170",
+    titulo: "Tiny Evil",
+    poster: "https://iili.io/fEjKjZx.jpg",
+    bg: [
+        "https://iili.io/fXC55pn.png",
+        "https://iili.io/fXC5YIs.png",
+        "https://iili.io/fXC5ahG.png",
+        "https://iili.io/fXC51El.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/1097ebb35b48e1db05100cda53da88082ef80379777bf35b7008421839c4446c/ep1.mp4",
+        "https://www.burstcloud.co/embed/bc7925dacdf0256a39ef5e4cc58178c2c8ec0bcf6c8af897d12c2c1ef2262066/ep2.mp4",
+        "https://www.burstcloud.co/embed/f7dc8ff3cd45eddba4293da1f0a6474ba7d0e0113ef7a24e3d450bdecd0ea51e/ep3.mp4",
+        "https://www.burstcloud.co/embed/7c9207375c823f69b128a258d33cd469d8be0b070031272565b2f3fb74943ebb/ep4.mp4"
+    ],
+    estudio: "Seven",
+    fecha: "2024",
+    tags: ["Lolicon", "Romance", "Virgenes"],
+    tipo: "censurado",
+    description: "Takeshi invoca a un súcubo para perder su virginidad, pero enfrenta sorpresas inesperadas durante el encuentro."
+},
+{
+    id: "H171",
+    titulo: "Toilet no Hanako-san vs Kukkyou Taimashi",
+    poster: "https://iili.io/fGN1xkb.jpg",
+    bg: [
+        "https://iili.io/fX7KpCG.png",
+        "https://iili.io/fX7f944.png",
+        "https://iili.io/fX7fJ3l.png",
+        "https://iili.io/fX7fz3Q.png"
+    ],
+    video: [
+        "https://storage.googleapis.com/h3n/Toilet%20no%20Hanako-san%20vs%20Kukkyou%20Taimashi/ep1.mp4",
+        "https://storage.googleapis.com/h3n/Toilet%20no%20Hanako-san%20vs%20Kukkyou%20Taimashi/ep2.mp4",
+        "https://storage.googleapis.com/h3n/Toilet%20no%20Hanako-san%20vs%20Kukkyou%20Taimashi/ep3.mp4",
+        "https://storage.googleapis.com/h3n/Toilet%20no%20Hanako-san%20vs%20Kukkyou%20Taimashi/ep4.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Lolicon", "Romance", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "Un exorcista visita un espeluznante edificio escolar abandonado, olvidado desde hace tiempo. Dentro acecha un espíritu maligno, Hanako-san.. Una colegiala de grandes pechos y gruesos muslos que adquirió unos insanos poderes espirituales."
+},
+{
+    id: "H172",
+    titulo: "Tokubetsu Jugyou 3 SLG",
+    poster: "https://iili.io/fGPsbku.jpg",
+    bg: [
+        "https://iili.io/fXgfjkX.png",
+        "https://iili.io/fXgfh7t.png",
+        "https://iili.io/fXgfkQf.png",
+        "https://iili.io/fXgfwpn.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/f4cb08c417979d90fa44372bbd986fd87412481d469c1c9c046d681ada2ad4d7/ep1.mp4",
+        "https://www.burstcloud.co/embed/d1cf79ac4ed0959eff5186d8ce61945fd1b04def9e6ced46a4ccaed93c8715bc/ep2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Anal", "Hardcore", "Ninfomana"],
+    tipo: "censurado",
+    descripcion: "Ishizuka, un profesor sádico, manipula a sus alumnas y a sus madres mientras cuida el viejo edificio escolar."
+},
+{
+    id: "H173",
+    titulo: "Tooi Kimi",
+    poster: "https://iili.io/fGitBOF.png",
+    bg: [
+        "https://iili.io/fXPQ7rg.png",
+        "https://iili.io/fXPQlkv.png",
+        "https://iili.io/fXPQcYJ.png",
+        "https://iili.io/fXPQOvf.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/04f886e1a4dde769e1dd8df3ce0ccbdc02ebd6d406b00a2d984319d60bdb8f44/ep1.mp4",
+        "https://www.burstcloud.co/embed/5b18facefc55354f8dcf833b1031d8935e8405a8b38a2d2a5f514d60d45f6dfc/ep2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Escolares", "Netorare", "Violacion"],
+    tipo: "censurado",
+    descripcion: "Un amigo de la infancia se convirtió en un enamoramiento secreto, pero cuando por fin se atreve a decir algo.... ¿seguirá siendo pura?"
+},
+{
+    id: "H174",
+    titulo: "Toriko no Kusari",
+    poster: "https://iili.io/fMT1pIf.jpg",
+    bg: [
+        "https://iili.io/fXi45KJ.png",
+        "https://iili.io/fXi4APa.png",
+        "https://iili.io/fXi4VPs.png",
+        "https://iili.io/fXi4GoX.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/dc435113f24bb9e198ce4a5234245ea1ef80f4e098fc38833ed7c1038f7f8338/ep1.mp4",
+        "https://www.burstcloud.co/embed/d1fd6f25a7a75b12932d45a7db87ade2091f2b4edec04905e330cfc385dc3814/ep2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Escolares", "Maids", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Yunoki Mio, presidenta del consejo estudiantil, vive feliz con amigas y su asistente Toya, hasta que un evento trágico ocurre y cambia su destino."
+},
+{
+    id: "H175",
+    titulo: "Torokase Orgasm",
+    poster: "https://iili.io/fMTE0vS.jpg",
+    bg: [
+        "https://iili.io/fXshoPI.png",
+        "https://iili.io/fXshzFt.png",
+        "https://iili.io/fXshA9s.png",
+        "https://iili.io/fXshRAG.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/dc435113f24bb9e198ce4a5234245ea1ef80f4e098fc38833ed7c1038f7f8338/ep1.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Incesto", "Maids", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "En un viaje de vuelta a su ciudad natal, un encuentro casual con una tía suya frustrada y despechada, convirtió lo que iba a ser un viaje aburrido en una aventura MUY lasciva..."
+},
+{
+    id: "H176",
+    titulo: "Toromitsu Musume no Hitou Service",
+    poster: "https://iili.io/fMIs1SV.jpg",
+    bg: [
+        "https://iili.io/fjJ1tja.png",
+        "https://iili.io/fjJ1ZTg.png",
+        "https://iili.io/fjJ1mCv.png",
+        "https://iili.io/fjJ1y4p.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/873d85bf7e63a51f23f720cacb765068c4dad86a54a79aff6e18fb81f450feaf/ep1.mp4"
+    ],
+    estudio: "Hentai",
+    fecha: "2026",
+    tags: ["Lolicon", "Harem", "Oral"],
+    tipo: "censurado",
+    descripcion: "En unas vacaciones soleadas, se dirigió a un pueblo rural y le esperaban en un baño al aire libre, inesperadamente, tres pequeñas lolis, todas ellas con trajes traviesos."
+},
+{
+    id: "H177",
+    titulo: "Toshi Densetsu Series",
+    poster: "https://iili.io/fMK690x.jpg",
+    bg: [
+        "https://iili.io/fj2wnp4.png",
+        "https://iili.io/fj2wR4e.png",
+        "https://iili.io/fj2wYYb.png",
+        "https://iili.io/fj2wFEX.png"
+    ],
+    video: [
+        "https://storage.googleapis.com/h3n/Toshi%20Densetsu%20Series/ep1.mp4",
+        "https://storage.googleapis.com/h3n/Toshi%20Densetsu%20Series/ep2.mp4",
+        "https://storage.googleapis.com/h3n/Toshi%20Densetsu%20Series/ep3.mp4",
+        "https://storage.googleapis.com/h3n/Toshi%20Densetsu%20Series/ep4.mp4",
+        "https://storage.googleapis.com/h3n/Toshi%20Densetsu%20Series/ep5.mp4",
+        "https://storage.googleapis.com/h3n/Toshi%20Densetsu%20Series/ep6.mp4"
+    ],
+    estudio: "H3N",
+    fecha: "2026",
+    tags: ["Lolicon", "Harem", "Sobrenatural", "Oral"],
+    tipo: "censurado",
+    descripcion: "Historias basadas en leyendas urbanas japonesas. Desde apariciones en baños hasta encuentros nocturnos misteriosos, esta serie explora los mitos más oscuros con un giro sobrenatural y explícito."
+},
+{
+    id: "H178",
+    titulo: "Toshoshitsu no Kanojo: Seiso na Kimi ga Ochiru made",
+    poster: "https://iili.io/fMK6F4V.jpg",
+    bg: [
+        "https://iili.io/fjSrsLJ.png",
+        "https://iili.io/fjSrtgp.png",
+        "https://iili.io/fjSrpet.png",
+        "https://iili.io/fjS4HIn.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/74ed11c232da067db7ade31ab5a11b28fc6ad9dbb40eaf30751b2191234e9491/ep1.mp4",
+        "https://www.burstcloud.co/embed/f7e9d919d81df0afc0bff44672627d3a451b047a11be67d44ecd3d5f1aa73946/ep2.mp4",
+        "https://www.burstcloud.co/embed/2b87f8642c0c35906ef07c3ad13f51974dbe0376a1f6979248c164574878f8b6/ep3.mp4",
+        "https://www.burstcloud.co/embed/843504b41d63e42710bd883018cdf058bd0e2c0ff6f0fa8e0db83bdc6798f220/ep4.mp4",
+        "https://www.burstcloud.co/embed/fa3a9c1899ccb7b98a4a921ab5faeba0b3e1b7e8b2d192a9f30e499126e03b52/ep5.mp4",
+        "https://www.burstcloud.co/embed/734d8a2373626afb3b2ffc5e3d8bfd1b9919f18043aa67ddeeca98e000db7048/ep6.mp4"
+    ],
+    estudio: "Premium",
+    fecha: "2026",
+    tags: ["Lolicon", "Harem", "Oral"],
+    tipo: "censurado",
+    descripcion: "Hasegawa Hanako es una loli que fue violada por su sensei y muere enseguida, pasando los años un sensei que hacia la guardia nocturna se encuentra con hanako en los baños, le explica su situación y le pide ayuda para llegar al cielo."
+},
+{
+    id: "H179",
+    titulo: "Cool de M",
+    poster: "https://iili.io/fM1vgtt.png",
+    bg: [
+        "https://iili.io/fjUuWan.jpg",
+        "https://iili.io/fjUuwuf.png",
+        "https://iili.io/fjUuhyG.png",
+        "https://iili.io/fjUuOZl.png"
+    ],
+    video: [
+        "https://storage.googleapis.com/h3n/Cool%20de%20M/Video.mp4"
+    ],
+    estudio: "Premium",
+    fecha: "2026",
+    tags: ["Oral", "Maestra", "Tetona"],
+    tipo: "censurado",
+    descripcion: "Asami, maestra hermosa y ingenua, se encuentra en una situación comprometida y mantiene la calma mientras se aprovechan de ella."
+},
+{
+    id: "H180",
+    titulo: "Seihou Shouka Saint Lime",
+    poster: "https://iili.io/fMIsWwF.png",
+    bg: [
+        "https://iili.io/fjUswrb.png",
+        "https://iili.io/fjUsO2j.png",
+        "https://iili.io/fjUsjEu.png",
+        "https://iili.io/fjUskkQ.png"
+    ],
+    video: [
+        "https://hentaiplayer.com/v/aVtY5ReT65XAG7B/"
+    ],
+    estudio: "Fantasy Soft",
+    fecha: "2026",
+    tags: ["Oral", "Fantasía", "Tetona"],
+    tipo: "censurado",
+    descripcion: "Hinata, una chica normal y la mágica Saint Lime, combate al ejército Viest y a su hermana corrupta, Saint Cherry, para rescatarla y descubrirse a sí misma."
+},
+{
+    id: "H181",
+    titulo: "Natsu to Hako",
+    poster: "https://iili.io/qoewyJe.jpg",
+    bg: [
+        "https://iili.io/qoew714.png",
+        "https://iili.io/qoew0k7.png",
+        "https://iili.io/qoewkp1.png",
+        "https://iili.io/qoewShg.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/3a75870e0954aa70c0a0ae9be15db8ef5c72267537076dd696ecd8eb8d634f0c/ep1.mp4",
+        "https://www.burstcloud.co/embed/7be598a8702945977059e5da54562bdf4e2445cf189cd13cf6bc7593d6b11900/ep2.mp4"
+    ],
+    estudio: "Mary Jane",
+    fecha: "2025",
+    tags: ["Romance", "Corridas", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "Koi Yagate Midara es un manga hentai que presenta varias historias, incluyendo Natsu to Hako, donde un encuentro veraniego entre un chico y una chica en un teléfono público se vuelve íntimo."
+},
+{
+    id: "H182",
+    titulo: "Kegareboshi",
+    poster: "https://iili.io/BdDGb8G.png",
+    bg: [
+        "https://iili.io/BdDEytS.png",
+        "https://iili.io/BdDEPnt.png",
+        "https://iili.io/BdDGKSj.png",
+        "https://iili.io/BdDEiMX.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/18ef07a75637d018746f85ab010fc83f6e6378ffbf573f711bbbe020eea0eb0b/ep1.mp4",
+        "https://www.burstcloud.co/embed/b4ba8e01e31617441924249a35756c33c52a71c72d876d7aa305615bef2f2c4a/ep2.mp4",
+        "https://www.burstcloud.co/embed/de22eed74c4eda65cb80926ffd314e899a3d2e7b8602fbd8de65e7765e824dde/ep3.mp4",
+        "https://www.burstcloud.co/embed/c273cd30f43c1fa44b3495b1202bd2204ec00efcdc773a972badb39da7cdef2a/ep4.mp4"
+    ],
+    estudio: "Premium",
+    fecha: "2026",
+    tags: ["Oral", "Corridas", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Koi Yagate Midara narra encuentros íntimos inesperados entre personajes en situaciones surrealistas y calurosas."
+},
+{
+    id: "H183",
+    titulo: "TSF Monogatari",
+    poster: "https://iili.io/fNshGf2.png",
+    bg: [
+        "https://iili.io/fNsXmLF.png",
+        "https://iili.io/fNsXyqg.png",
+        "https://iili.io/fNshddv.png",
+        "https://iili.io/fNsXUX9.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/2f43e25a286cdb1fe310a907133ead1f2c6a2f4c07f0b1eafd3c8ffc03701dcb/ep1.mp4",
+        "https://www.burstcloud.co/embed/c342dc1182daab25997f8a3fd3b9671a8808c8fe3b0430f7f50cfc7670e22323/ep2.mp4"
+    ],
+    estudio: "Hentai",
+    fecha: "2026",
+    tags: ["Oral", "Futanari", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Takumi sufre una enfermedad terminal, accede a probar una terapia genética experimental y se transforma en una chica."
+},
+{
+    id: "H184",
+    titulo: "Tsugunai",
+    poster: "https://iili.io/fM1Xas1.png",
+    bg: [
+        "https://iili.io/fOVj9wl.png",
+        "https://iili.io/fOVjdnS.png",
+        "https://iili.io/fOVj2M7.png",
+        "https://iili.io/fOVjowQ.png"
+    ],
+    video: [
+        "https://storage.googleapis.com/h3n/Tsugunai/EP1.mp4",
+        "https://storage.googleapis.com/h3n/Tsugunai/ep2.mp4",
+        "https://storage.googleapis.com/h3n/Tsugunai/ep3.mp4",
+        "https://storage.googleapis.com/h3n/Tsugunai/ep4.mp4"
+    ],
+    estudio: "Hentai",
+    fecha: "2026",
+    tags: ["Escolar", "Violacion", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Después de que su hermana sea violada en grupo por un grupo de hombres ricos y poderosos, el protagonista se venga yendo a por sus hijas."
+},
+{
+    id: "H185",
+    titulo: "Tsuma Netori 3",
+    poster: "https://iili.io/fM1X9ne.png",
+    bg: [
+        "https://iili.io/feBJYba.png",
+        "https://iili.io/feBJRJ1.png",
+        "https://iili.io/feBJuUP.png",
+        "https://iili.io/feBJ55F.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/d6b7fbd78e6727d6db486de484383c281948e5eb6dd91eb649b2075da17d1188/ep1.mp4"
+    ],
+    estudio: "Hentai",
+    fecha: "2026",
+    tags: ["Anal", "Violacion", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Tanba libera a Shizuka y va al cine donde Ikumi es molestada. Anno revela que Gonda, un delincuente, saldrá de prisión y se asignará a Ikumi. Gonda se interesa por Ikumi, que reacciona a su presencia. Luego, Makoto aparece atado."
+},
+{
+    id: "H186",
+    titulo: "Tsuma Netori Zero: My Mistake, Her Choice",
+    poster: "https://iili.io/fM1Xp0X.png",
+    bg: [
+        "https://iili.io/feBvGDb.png",
+        "https://iili.io/feBvVxj.png",
+        "https://iili.io/feBvWWx.png",
+        "https://iili.io/feBvXiQ.png"
+    ],
+    video: [
+        "https://storage.googleapis.com/h3n/Tsuma%20Netori%20Zero%3A%20My%20Mistake%2C%20Her%20Choice/ep1.mp4"
+    ],
+    estudio: "Hentai",
+    fecha: "2026",
+    tags: ["NTR", "Violacion", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Historia de deseo y traición, donde decisiones difíciles revelan la complejidad del amor y sus consecuencias que cambian la vida de los personajes."
+},
+{
+    id: "H187",
+    titulo: "Tsuma Netori Kan: Bijutsu Kyoushi No Baai",
+    poster: "https://iili.io/fMT180g.png",
+    bg: [
+        "https://iili.io/feCfGFj.png",
+        "https://iili.io/feCf0Mu.png",
+        "https://iili.io/feCf16b.png",
+        "https://iili.io/feCfMcx.png"
+    ],
+    video: [
+        "https://storage.googleapis.com/h3n/Tsuma%20Netori%20Kan%3A%20Bijutsu%20Kyoushi%20No%20Baai/ep1.mp4"
+    ],
+    estudio: "Hentai",
+    fecha: "2026",
+    tags: ["NTR", "Violacion", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "La historia sigue a Yurina, profesora de arte casada, mientras Sakakura trama para someterla sexualmente, usando un té que la deja desmayada."
+},
+{
+    id: "H188",
+    titulo: "Tsuma no Haha Sayuri",
+    poster: "https://iili.io/fM1X7Xp.png",
+    bg: [
+        "https://iili.io/feglPG2.png",
+        "https://iili.io/feglL37.png",
+        "https://iili.io/feglQa9.png",
+        "https://iili.io/feglZve.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/0f294fccc2c16795501a8095d060840db96208d7acbff0e06b79183607cacf66/ep1.mp4",
+        "https://www.burstcloud.co/embed/99319c4474d697cae5d3de52f001b9f0b0f5fd992feffbd0fc8d78bbb4b74016/ep2.mp4"
+    ],
+    estudio: "Hentai",
+    fecha: "2026",
+    tags: ["Uncensored", "Violacion", "Trio"],
+    tipo: "censurado",
+    descripcion: "Kusakabe Akihiko se enfrenta a la traición de su esposa. Sayuri, su suegra, se siente culpable y, al consolarla, Akihiko despierta deseos sexuales reprimidos que Sayuri nota."
+},
+{
+    id: "H189",
+    titulo: "Tsumamigui 3",
+    poster: "https://iili.io/fM1XN1p.png",
+    bg: [
+        "https://iili.io/fkAWvku.png",
+        "https://iili.io/fkAW6BV.png",
+        "https://iili.io/fkAWL21.png",
+        "https://iili.io/fkAWghx.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/10237d2ad8099f024b22386a547429b173e8f1dee00b045675452a7bd103f335/ep1.mp4",
+        "https://www.burstcloud.co/embed/a328e04b19d9a59cd7213d264fb922c56b6e7e267d5c261fb2e62bd6bee34bc9/ep2.mp4"
+    ],
+    estudio: "Hentai",
+    fecha: "2026",
+    tags: ["Mils", "Anal", "Trio"],
+    tipo: "censurado",
+    descripcion: "Akito Natsuki decide pasar un mes de vacaciones de verano en su ciudad natal después de que su lugar de trabajo cierre por reformas. Sin dinero y sin nada que hacer, decide tomárselo con calma."
+},
+{
+    id: "H190",
+    titulo: "Tsun M! Gyutto Shibatte Shidoushite",
+    poster: "https://iili.io/fM1XoI1.png",
+    bg: [
+        "https://iili.io/fkPlu07.png",
+        "https://iili.io/fkPlTfS.png",
+        "https://iili.io/fkPlzs2.png",
+        "https://iili.io/fkPlAg9.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/10237d2ad8099f024b22386a547429b173e8f1dee00b045675452a7bd103f335/ep1.mp4"
+    ],
+    estudio: "Hentai",
+    fecha: "2026",
+    tags: ["Bondage", "Romance", "Tetona"],
+    tipo: "censurado",
+    descripcion: "Saki presenta revistas y películas eróticas, pidiendo que la ate con una toalla, generando confusión y excitación en el narrador."
+},
+{
+    id: "H191",
+    titulo: "Tsundero",
+    poster: "https://iili.io/fMIsrga.png",
+    bg: [
+        "https://iili.io/fvQT9vp.jpg",
+        "https://iili.io/fvQT2jt.jpg",
+        "https://iili.io/fvQTduI.jpg",
+        "https://iili.io/fvQT3ZX.jpg"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/abc27414c211977d1847283bb29433dacabd41e38bc3d853d227eba3d049d8d1/ep1.mp4",
+        "https://www.burstcloud.co/embed/57f2f8aa088755e9f7131d9f70f5ca971e4a9548b7f39ee2621bfd31317b1bd5/ep2.mp4",
+        "https://www.burstcloud.co/embed/34f92a18c35b54fe6b490cb619f4c4b65c4ea97172fcda4870f69b64cd174f91/ep3.mp4",
+        "https://www.burstcloud.co/embed/37659a0d86d14e066ac18a7b3ab77b3788c63e86c585bca9a619e5ee09ad960f/ep4.mp4",
+        "https://www.burstcloud.co/embed/5447b94bd599bf7eaad789471c78c6cc1d7ee20e3b1e28f769f149d723efd383/ep5.mp4",
+        "https://www.burstcloud.co/embed/aa2973bccea2f713c84b3255578516de0a34fbf981de815fc0e5e1e467df9041/ep6.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Escolares", "Corridas", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Tsundero / Tsundere, adaptación del hentai de Takeda Hiromitsu, relata las aventuras sexuales de alumnos de una academia depravada, con la ídolo Yuka y su juguete Takashi."
+},
+{
+    id: "H192",
+    titulo: "Uchi no Otouto Maji de Dekain dakedo Mi ni Konai?",
+    poster: "https://iili.io/fMIs6lS.png",
+    bg: [
+        "https://iili.io/f8VK0mb.png",
+        "https://iili.io/f8VKc7e.png",
+        "https://iili.io/f8VKEIj.png",
+        "https://iili.io/f8VKWBV.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/43b02de8f43d7a669391185cb3268eb4db4583f5d43e14a4067806ccd0e06d88/ep1.mp4",
+        "https://www.burstcloud.co/embed/4b87e8f42d3a777a21cb1a2ca67fce1512ef10352cbc6b89db5a126d22ca4943/ep2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Harem", "Orgia", "Anal"],
+    tipo: "censurado",
+    descripcion: "Aunque es joven y bastante pequeño, es ENORME donde cuenta. Todas las chicas mayores en su vida parecen estar encantadas con la idea de este pequeño con un paquete gigante que no deja de sorprenderlas."
+},
+{
+    id: "H193",
+    titulo: "Ura Jutaijima",
+    poster: "https://iili.io/fMIs48l.png",
+    bg: [
+        "https://iili.io/fU5xhmv.png",
+        "https://iili.io/fU5xXkJ.png",
+        "https://iili.io/fU5xGrF.png",
+        "https://iili.io/fU5xv1t.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/789bcfb8a6d6bdfd1de46ab5419b860ce1d6f3f5e7f5e20ff33ee04bca74af9c/ep1.mp4",
+        "https://www.burstcloud.co/embed/fd6276b1497ebc23114fb9d6c08d29b276b7f3253a3b1ce4750c0caec9f0473b/ep2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Harem", "Ninfomanas", "Anal", "Ecchi"],
+    tipo: "censurado",
+    descripcion: "¿Un virus mortal que se cura ingiriendo semen? Suena como un sueño hecho realidad... pero cuando sólo hay un hombre en toda la isla y 4 chicas que cuidar, el 'tratamiento' empieza a pasar factura."
+},
+{
+    id: "H194",
+    titulo: "Waisetsu Missile",
+    poster: "https://iili.io/fMIsX2j.png",
+    bg: [
+        "https://iili.io/fU6LSGS.png",
+        "https://iili.io/fU6LLwx.png",
+        "https://iili.io/fU6Lb6P.png",
+        "https://iili.io/fU6LpF1.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/17ef7913796f73fac82ac6b807277b7b866cb08cd4d14c63d1022d0354c0de56/ep1.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Tetonas", "Ninfomanas", "Anal"],
+    tipo: "censurado",
+    descripcion: "Basado en el manga erótico en el que una familia trae a casa una vaca para que produzca leche y las cosas dan un giro hacia el lado sexual de lo más inesperado."
+},
+{
+    id: "H195",
+    titulo: "Yarimoku Beach ni Shuugakuryokou de!!",
+    poster: "https://iili.io/fgOI6I1.png",
+    bg: [
+        "https://iili.io/fgOIb1I.png",
+        "https://iili.io/fgOIydX.png",
+        "https://iili.io/fgOILzv.png",
+        "https://iili.io/fgOTHes.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/833f5194b6b3a2af6b2a18f3153ea6e107c746d92ecad92cd137000ae8615c05/ep1.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Escolares", "Corridas", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Un grupo de estudiantes y su profesora exploran su deseo mutuo durante un viaje escolar a la playa, donde el sol y el mar desatan sus inhibiciones."
+},
+{
+    id: "H196",
+    titulo: "Zoku Oujo & Onna Kishi W Dogehin Roshutsu",
+    poster: "https://iili.io/fMK6UAl.png",
+    bg: [
+        "https://iili.io/f41THcx.png",
+        "https://iili.io/f41TFwP.png",
+        "https://iili.io/f41TJ8Q.png",
+        "https://iili.io/f41Ip6b.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/ec568cb892eb1e2148d2b90844c35f278455fe8c02bd5602ed51c4ed535c224e/ep1.mp4",
+        "https://www.burstcloud.co/embed/a67932f158387441fb04f9810bd47b6ab8d7077246ac3ef629c8a01a86190797/ep2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2026",
+    tags: ["Monstruos", "Corridas", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "La larga guerra entre superpotencias terminó con la victoria del Imperio Dominus. La princesa Elise, que llevó a la destrucción del Reino de Elstein, fue llamada la peor mujer lasciva mientras sus gemidos resonaban por todo el reino bajo el yugo de los vencedores."
+},
+{
+    id: "H197",
+    titulo: "Yamitsuki Mura: Melty Limit",
+    poster: "https://iili.io/fMK6E9S.png",
+    bg: [
+        "https://iili.io/f6d83dv.png",
+        "https://iili.io/f6d8Kep.png",
+        "https://iili.io/f6d8nLX.png",
+        "https://iili.io/f6d8Hqg.png"
+    ],
+    video: [
+        "https://storage.googleapis.com/h3n/Yamitsuki%20Mura%3A%20Melty%20Limit/ep1.mp4",
+        "https://storage.googleapis.com/h3n/Yamitsuki%20Mura%3A%20Melty%20Limit/ep2.mp4"
+    ],
+    estudio: "Hentai World",
+    fecha: "2024",
+    tags: ["Ahegao", "Corridas", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Un erudito que se especializa en el folclore se muestra cauteloso a la hora de visitar la aldea para averiguar la verdad tras los extraños sucesos y leyendas locales."
+},
+{
+    id: "H198",
+    titulo: "Baka na Imouto",
+    poster: "https://iili.io/fMK6vAg.png",
+    bg: [
+        "https://iili.io/fPfZBcB.png",
+        "https://iili.io/fPfZxAF.png",
+        "https://iili.io/fPfZAMv.png",
+        "https://iili.io/fPfZ7Fp.png"
+    ],
+    video: [
+        "https://iframe.mediadelivery.net/play/586435/45c983ce-90a8-4a66-b91b-847dfef0616e",
+        "https://iframe.mediadelivery.net/play/586435/0dff3073-5976-49d9-8d0a-a19588a18f0e",
+        "https://iframe.mediadelivery.net/play/586435/4a9ae5ff-abec-4102-a7f0-bb3333ee2e9f",
+        "https://iframe.mediadelivery.net/play/586435/688c244f-e270-4d70-a5f9-61093f8c94d1"
+    ],
+    estudio: "Pita Fetish",
+    fecha: "2024",
+    tags: ["Incesto", "Juegos", "Ninfómanas"],
+    tipo: "censurado",
+    descripcion: "¡Basado en el juego para adultos de Pita Fetish! La historia sigue la caótica y picante convivencia entre hermanos con un toque de ninfomanía e incesto."
+},
+{
+    id: "H199",
+    titulo: "69: Itsuwari no Bishou",
+    poster: "https://iili.io/fPgQSQV.png",
+    bg: [
+        "https://iili.io/fPgQOve.png",
+        "https://iili.io/fPgQeyu.png",
+        "https://iili.io/fPgQ8jj.png",
+        "https://iili.io/fPgQgCQ.png"
+    ],
+    video: [
+        "https://iframe.mediadelivery.net/play/586435/4460e69b-2dd4-4867-a6c0-2f24e1c2045d",
+        "https://iframe.mediadelivery.net/play/586435/dbae1f2d-7fda-4cef-9afd-c00cfbb2a8af"
+    ],
+    estudio: "Desconocido",
+    fecha: "2024",
+    tags: ["Escolares", "Oral", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Midori Aoi, brillante y trabajadora, enfrenta un error en su examen que la aleja de su posición habitual. En una precaria negociación con su maestro, se encuentra en una situación dolorosa e inesperada."
+},
+{
+    id: "H200",
+    titulo: "3 Piece",
+    poster: "https://iili.io/fMK66tI.png",
+    bg: [
+        "https://iili.io/fiauFob.png",
+        "https://iili.io/fiau2Du.png",
+        "https://iili.io/fiauClV.png",
+        "https://iili.io/fiauzR1.png"
+    ],
+    video: [
+        "https://iframe.mediadelivery.net/play/586435/cca3d438-e4a4-4e68-8abb-32577f2b3f7d"
+    ],
+    estudio: "Desconocido",
+    fecha: "2024",
+    tags: ["Fantasía", "Oral", "Ninfómanas"],
+    tipo: "censurado",
+    descripcion: "Mira, una hermosa rubia que lame manzanas de caramelo para atraer clientes en el festival de verano donde abrió una tienda para el artículo de premio más vendido."
+},
 ];
