@@ -1417,7 +1417,7 @@ const baseDeDatos = [{
 {
     id: "H76",
     titulo: "Amai Ijiwaru",
-    poster: "https://iili.io/qjCkjwB.png",
+    poster: "https://iili.io/qjCkVbS.png",
     bg: [
         "https://iili.io/qjCkG5l.png",
         "https://iili.io/qjCkYsn.png",
@@ -1436,7 +1436,7 @@ const baseDeDatos = [{
 {
     id: "H77",
     titulo: "Dearest Blue",
-    poster: "https://iili.io/qjTfP0Q.png",
+    poster: "https://iili.io/qjTfWcQ.png",
     bg: [
         "https://iili.io/qjTflte.png",
         "https://iili.io/qjTfEMb.png",
@@ -1458,7 +1458,7 @@ const baseDeDatos = [{
 {
     id: "H78",
     titulo: "Fuuki Iin to Fuuzoku Katsudou",
-    poster: "https://iili.io/qjRxyB4.png",
+    poster: "https://iili.io/qjRxBI4.jpg",
     bg: [
         "https://iili.io/qjRxxBS.jpg",
         "https://iili.io/qjRxnQ2.jpg",
@@ -1478,7 +1478,7 @@ const baseDeDatos = [{
 {
     id: "H79",
     titulo: "Otome wa Boku ni Koi Shiteru Trinkle Stars",
-    poster: "https://iili.io/qN3H94a.jpg",
+    poster: "https://iili.io/qN3HGEJ.jpg",
     bg: [
         "https://iili.io/qN3HX7p.jpg",
         "https://iili.io/qN3HhkN.jpg",
@@ -1498,7 +1498,7 @@ const baseDeDatos = [{
 {
     id: "H80",
     titulo: "Otokonoko Delivery",
-    poster: "https://iili.io/qNFy0gV.png",
+    poster: "https://iili.io/qNFyf3v.png",
     bg: [
         "https://iili.io/qNFyXFj.png",
         "https://iili.io/qNFyA6G.png",
@@ -1517,29 +1517,7 @@ const baseDeDatos = [{
 {
     id: "H81",
     titulo: "Ochi Mono RPG Seikishi Ruvyrias",
-    poster: "https://iili.io/qNfLhP1.jpg",
-    bg: [
-        "https://iili.io/qNfQAmX.webp",
-        "https://iili.io/qNfQT7I.png",
-        "https://iili.io/qNfQ3e1.jpg",
-        "https://iili.io/qNfQ90Q.jpg"
-    ],
-    video: [
-        "https://www.burstcloud.co/embed/3b600879bb06f736eabe3d35c73a004ff059840f02fd15f238336560ef80adcd/ep1.mp4",
-        "https://www.burstcloud.co/embed/bc2c25830aed84d58297a16e1913741953c6adc39cfe5a45b0c1f9e6913e7838/ep2.mp4",
-        "https://www.burstcloud.co/embed/2e68d66f20920878a863947a265adabe23b859e13b8cd0be7838e6c37cb0ca0f/ep3.mp4",
-        "https://www.burstcloud.co/embed/37c7d73c83a31204a63e01e7cb6e345bd4dfd071d8a49cdfb6b17c9d9c229dac/ep4.mp4"
-    ],
-    estudio: "Majin Petit",
-    fecha: "2020",
-    tags: ["Fantasia", "Incesto", "Mounstros"],
-    tipo: "censurado",
-    descripcion: "Este mundo pacifico el cual es lo suficientemente abundante para proveer a todas las cosas vivientes a sido atacado por el rey demonio, pero sus planes se han vistos frustrados por una caballero sagrado, la cual pagara el precio o sera parte de su harem"
-},
-{
-    id: "H81",
-    titulo: "Ochi Mono RPG Seikishi Ruvyrias",
-    poster: "https://iili.io/qNfLhP1.jpg",
+    poster: "https://iili.io/qNfQIdN.png",
     bg: [
         "https://iili.io/qNfQAmX.webp",
         "https://iili.io/qNfQT7I.png",
@@ -1561,7 +1539,7 @@ const baseDeDatos = [{
 {
     id: "H82",
     titulo: "Ojou-sama wa H ga Osuki",
-    poster: "https://iili.io/qNBh52V.png",
+    poster: "https://iili.io/qNBu8DN.jpg",
     bg: [
         "https://iili.io/qNBueHv.webp",
         "https://iili.io/qNBujKg.jpg",
@@ -1581,7 +1559,7 @@ const baseDeDatos = [{
 {
     id: "H83",
     titulo: "Onaho Kyoushitsu: Joshi Zenin Ninshin Keikaku",
-    poster: "https://iili.io/qO1cwGf.png",
+    poster: "https://iili.io/qO1cUCl.png",
     bg: [
         "https://iili.io/qO1cr4S.jpg",
         "https://iili.io/qO1cgG2.webp",
@@ -1600,7 +1578,7 @@ const baseDeDatos = [{
 {
     id: "H84",
     titulo: "Otome Dori",
-    poster: "https://iili.io/qO8waXp.png",
+    poster: "https://iili.io/qgq8A5F.jpg",
     bg: [
         "https://iili.io/qO8jp7j.jpg",
         "https://iili.io/qO8jmdb.jpg",
@@ -1620,8 +1598,9 @@ const baseDeDatos = [{
 {
     id: "H85",
     titulo: "Ecchi na Onee-chan ni Shiboraretai",
-    poster: "https://iili.io/qOSTIu1.png",
+    poster: "https://iili.io/qgackcQ.jpg",
     bg: [
+        "https://iili.io/qOSTIu1.png",
         "https://iili.io/qOSTdN4.webp",
         "https://iili.io/qOSTHHG.webp",
         "https://iili.io/qOSTJRf.jpg",
@@ -1640,8 +1619,9 @@ const baseDeDatos = [{
 {
     id: "H86",
     titulo: "Inshoku Ou Demar",
-    poster: "https://iili.io/qOgHe9S.png",
+    poster: "https://iili.io/qWzMlPj.png",
     bg: [
+        "https://iili.io/qOgHe9S.png",
         "https://iili.io/qOgHUaS.png",
         "https://iili.io/qOgHSF2.png",
         "https://iili.io/qOgHSF2.png",
@@ -1659,8 +1639,9 @@ const baseDeDatos = [{
 {
     id: "H87",
     titulo: "Iinchou wa Saimin Appli o Shinjiteru",
-    poster: "https://iili.io/qSOj9S1.jpg",
+    poster: "https://iili.io/qgNUEOP.jpg",
     bg: [
+        "https://iili.io/qSOj9S1.jpg",
         "https://iili.io/qSOhyW7.jpg",
         "https://iili.io/qSOhpxS.jpg",
         "https://iili.io/qSOhtR4.webp",
@@ -1678,8 +1659,9 @@ const baseDeDatos = [{
 {
     id: "H88",
     titulo: "Mama Katsu: Midareru Mama-tachi no Himitsu",
-    poster: "https://iili.io/qSkCb0u.png",
+    poster: "https://iili.io/qO8jDru.jpg",
     bg: [
+        "https://iili.io/qSkCb0u.png",
         "https://iili.io/qSkCj3b.png",
         "https://iili.io/qSkC6Fa.png",
         "https://iili.io/qSkCWGe.png",
@@ -1700,8 +1682,9 @@ const baseDeDatos = [{
 {
     id: "H89",
     titulo: "Boku no Risou no Isekai Seikatsu",
-    poster: "https://iili.io/KT1Z6hP.png",
+    poster: "https://iili.io/qOSIySs.png",
     bg: [
+        "https://iili.io/KT1Z6hP.png",
         "https://iili.io/KT1ZXln.png",
         "https://iili.io/KT1ZNRf.png",
         "https://iili.io/KT1Z8VS.png",
@@ -1720,8 +1703,9 @@ const baseDeDatos = [{
 {
     id: "H90",
     titulo: "Imaria",
-    poster: "https://iili.io/qS80yVv.png",
+    poster: "https://iili.io/qOgH6ue.png",
     bg: [
+        "https://iili.io/qS80yVv.png",
         "https://iili.io/qS80aqu.png",
         "https://iili.io/qS80i1s.png",
         "https://iili.io/qS80XX1.png",
@@ -1744,8 +1728,9 @@ const baseDeDatos = [{
 {
     id: "H91",
     titulo: "Renseijutsushi Collet",
-    poster: "https://iili.io/qxYze0B.jpg",
+    poster: "https://iili.io/qSOhDOl.jpg",
     bg: [
+        "https://iili.io/qxYze0B.jpg",
         "https://iili.io/qxYzBII.jpg",
         "https://iili.io/qxYzF7R.jpg",
         "https://iili.io/qxYzfmN.jpg",
@@ -1766,8 +1751,9 @@ const baseDeDatos = [{
 {
     id: "H92",
     titulo: "Rikujoubu Joshi wa Ore no Nama Onaho!!!",
-    poster: "https://iili.io/qx700hX.png",
+    poster: "https://iili.io/qSkCX6u.png",
     bg: [
+        "https://iili.io/qx700hX.png",
         "https://iili.io/qx70qRn.jpg",
         "https://iili.io/qx70FSt.jpg",
         "https://iili.io/qx70BNs.jpg",
@@ -1786,8 +1772,9 @@ const baseDeDatos = [{
 {
     id: "H93",
     titulo: "Ruins Seeker",
-    poster: "https://iili.io/qx54HBI.jpg",
+    poster: "https://iili.io/qr3QZyg.jpg",
     bg: [
+        "https://iili.io/qx54HBI.jpg",
         "https://iili.io/qx54owG.jpg",
         "https://iili.io/qx54In4.jpg",
         "https://iili.io/qx545c7.jpg",
@@ -1806,8 +1793,9 @@ const baseDeDatos = [{
 {
     id: "H94",
     titulo: "Saishuu Chikan Densha Next",
-    poster: "https://iili.io/FkJMZ29.png",
+    poster: "https://iili.io/KT1ZMPt.md.jpg",
     bg: [
+        "https://iili.io/FkJMZ29.png",
         "https://iili.io/FkJGQ24.png",
         "https://iili.io/FkJGDpS.png",
         "https://iili.io/FkJM33x.md.png",
@@ -1826,8 +1814,9 @@ const baseDeDatos = [{
 {
     id: "H95",
     titulo: "Secret Journey",
-    poster: "https://iili.io/FkWhV4V.png",
+    poster: "https://iili.io/qS80wqg.png",
     bg: [
+        "https://iili.io/FkWhV4V.png",
         "https://iili.io/FkWhwkg.png",
         "https://iili.io/FkWheTJ.png",
         "https://iili.io/FkWhUEN.png",
@@ -1846,7 +1835,7 @@ const baseDeDatos = [{
 {
     id: "H96",
     titulo: "Shoujo Ramune",
-    poster: "https://iili.io/FkmiI3u.jpg",
+    poster: "https://iili.io/qSPFdEN.jpg",
     bg: [
         "https://iili.io/FkmiI3u.jpg",
         "https://iili.io/Fkmiuvj.png",
@@ -1870,8 +1859,9 @@ const baseDeDatos = [{
 {
     id: "H97",
     titulo: "Sei Brunehilde Gakuen Shoujo",
-    poster: "https://iili.io/Fvu0YVf.png",
+    poster: "https://iili.io/qrfLUcN.jpg",
     bg: [
+        "https://iili.io/Fvu0YVf.png",
         "https://iili.io/Fvu0VBR.png",
         "https://iili.io/Fvu0EhJ.png",
         "https://iili.io/Fvu0j2I.png",
@@ -1889,8 +1879,9 @@ const baseDeDatos = [{
 {
     id: "H98",
     titulo: "Sei Yariman Sisters Pakopako Nikki",
-    poster: "https://iili.io/F4Hm31S.png",
+    poster: "https://iili.io/qrafwCv.jpg",
     bg: [
+        "https://iili.io/F4Hm31S.png",
         "https://iili.io/F4HmI72.png",
         "https://iili.io/F4HmTeS.png",
         "https://iili.io/F4Hm5Xe.png",
@@ -1908,8 +1899,9 @@ const baseDeDatos = [{
 {
     id: "H99",
     titulo: "Seikatsu Shuukan",
-    poster: "https://iili.io/FPO511V.png",
+    poster: "https://iili.io/q4wziZJ.png",
     bg: [
+        "https://iili.io/FPO511V.png",
         "https://iili.io/FPO57LP.png",
         "https://iili.io/FPO55hB.png",
         "https://iili.io/FPO5umQ.png",
@@ -1928,8 +1920,9 @@ const baseDeDatos = [{
 {
     id: "H100",
     titulo: "Kyou wa Yubiwa o Hazusu kara",
-    poster: "https://iili.io/FLMiM9V.png",
+    poster: "https://iili.io/q6RZ6gf.jpg",
     bg: [
+        "https://iili.io/FLMiM9V.png",
         "https://iili.io/FLMidp2.png",
         "https://iili.io/FLMiFh7.png",
         "https://iili.io/FLMi3IS.png",
@@ -1948,8 +1941,9 @@ const baseDeDatos = [{
 {
     id: "H101",
     titulo: "Kuro Gal a La Carte",
-    poster: "https://iili.io/FLLxpzG.png",
+    poster: "https://iili.io/q6l9Usj.jpg",
     bg: [
+        "https://iili.io/FLLxpzG.png",
         "https://iili.io/FLLoDib.jpg",
         "https://iili.io/FLLomfj.png",
         "https://iili.io/FLLop0x.png",
@@ -1968,8 +1962,9 @@ const baseDeDatos = [{
 {
     id: "H102",
     titulo: "Immoral Game Master",
-    poster: "https://iili.io/FZskvjV.png",
+    poster: "https://iili.io/q6sDqhv.jpg",
     bg: [
+        "https://iili.io/FZskvjV.png",
         "https://iili.io/FZskA1S.jpg",
         "https://iili.io/FZsk729.png",
         "https://iili.io/FZskcmb.png",
@@ -1988,8 +1983,9 @@ const baseDeDatos = [{
 {
     id: "H103",
     titulo: "Shinsei Kourin Dacryon Luna",
-    poster: "https://iili.io/FmCGXnS.png",
+    poster: "https://iili.io/qi5PqRR.jpg",
     bg: [
+        "https://iili.io/FmCGXnS.png",
         "https://iili.io/FmCGZZv.png",
         "https://iili.io/FmCGDnR.png",
         "https://iili.io/FmCGbGp.png",
@@ -2008,8 +2004,9 @@ const baseDeDatos = [{
 {
     id: "H104",
     titulo: "Shigokare Ecchi na Joshi Daisei",
-    poster: "https://iili.io/FyQbM7V.png",
+    poster: "https://iili.io/qxYz3dv.jpg",
     bg: [
+        "https://iili.io/FyQbM7V.png",
         "https://iili.io/FyQbFfI.png",
         "https://iili.io/FyQbKlt.png",
         "https://iili.io/FyQbfUX.png",
@@ -2142,8 +2139,9 @@ const baseDeDatos = [{
 {
     id: "H110",
     titulo: "Mujin Eki",
-    poster: "https://iili.io/KCNsh5P.png",
+    poster: "https://iili.io/qiewbne.jpg",
     bg: [
+        "https://iili.io/KCNsh5P.png",
         "https://iili.io/KCNsam7.jpg",
         "https://iili.io/KCNsYeS.jpg",
         "https://iili.io/KCNs772.jpg",
@@ -2162,8 +2160,9 @@ const baseDeDatos = [{
 {
     id: "H111",
     titulo: "Koushoku no Chuugi Kunoichi Botan",
-    poster: "https://iili.io/fTMjv9p.png",
+    poster: "https://iili.io/qsWHj0F.jpg",
     bg: [
+        "https://iili.io/fTMjv9p.png",
         "https://iili.io/fTMj5dP.png",
         "https://iili.io/fTMj771.png",
         "https://iili.io/fTMjozb.png",
@@ -2182,8 +2181,9 @@ const baseDeDatos = [{
 {
     id: "H112",
     titulo: "Shachiku Cinderella",
-    poster: "https://iili.io/Ko8Y9PV.png",
+    poster: "https://iili.io/qQ2bWcg.jpg",
     bg: [
+        "https://iili.io/Ko8Y9PV.png",
         "https://iili.io/Ko8YJNp.png",
         "https://iili.io/Ko8YHRR.png",
         "https://iili.io/Ko8Y3xI.png",
@@ -2202,8 +2202,9 @@ const baseDeDatos = [{
 {
     id: "H113",
     titulo: "Pure Pure Pero Pero Princess",
-    poster: "https://iili.io/KIea2F2.png",
+    poster: "https://iili.io/qQn1ITv.jpg",
     bg: [
+        "https://iili.io/KIea2F2.png",
         "https://iili.io/KIea36G.png",
         "https://iili.io/KIeaq8l.png",
         "https://iili.io/KIeaIne.png",
@@ -2222,8 +2223,9 @@ const baseDeDatos = [{
 {
     id: "H114",
     titulo: "Secret Mission: Sennyuu Sousakan wa Zettai ni Makenai!",
-    poster: "https://iili.io/KANXhEg.png",
+    poster: "https://iili.io/qQz5oGt.jpg",
     bg: [
+        "https://iili.io/KANXhEg.png",
         "https://iili.io/KANX9i7.jpg",
         "https://iili.io/KANXJf9.png",
         "https://iili.io/KANWyVS.jpg",
@@ -2248,8 +2250,9 @@ const baseDeDatos = [{
 {
     id: "H115",
     titulo: "Seiso de Majime na Kanojo ga",
-    poster: "https://iili.io/KY7GNnS.png",
+    poster: "https://iili.io/qQur8TF.jpg",
     bg: [
+        "https://iili.io/KY7GNnS.png",
         "https://iili.io/KY7GcKB.png",
         "https://iili.io/KY7G0S1.png",
         "https://iili.io/KY7GhVR.png",
@@ -2267,8 +2270,9 @@ const baseDeDatos = [{
 {
     id: "H116",
     titulo: "Seito Kaichou Hikaru",
-    poster: "https://iili.io/Ka2A6S1.png",
+    poster: "https://iili.io/qQy1hkQ.jpg",
     bg: [
+        "https://iili.io/Ka2A6S1.png",
         "https://iili.io/Ka2A119.jpg",
         "https://iili.io/Ka2A0q7.jpg",
         "https://iili.io/Ka2AcsS.jpg",
@@ -2286,8 +2290,9 @@ const baseDeDatos = [{
 {
     id: "H117",
     titulo: "Sex Friend Osananajimi Shojo to Doutei wa Hazukashii tte Minna ga Iu kara",
-    poster: "https://iili.io/Kl7vW14.png",
+    poster: "https://iili.io/qttsqml.jpg",
     bg: [
+        "https://iili.io/Kl7vW14.png",
         "https://iili.io/Kl7vOiX.jpg",
         "https://iili.io/Kl7vkfn.png",
         "https://iili.io/Kl7vwxI.webp",
@@ -2305,8 +2310,9 @@ const baseDeDatos = [{
 {
     id: "H118",
     titulo: "Kakurenbo",
-    poster: "https://iili.io/K1kHPrG.png",
+    poster: "https://iili.io/qDn5hgf.jpg",
     bg: [
+        "https://iili.io/K1kHPrG.png",
         "https://iili.io/K1kHsb1.png",
         "https://iili.io/K1kHtsa.png",
         "https://iili.io/K1kHQzF.png",
@@ -2324,8 +2330,9 @@ const baseDeDatos = [{
 {
     id: "H119",
     titulo: "Shiawase nara Niku wo Morou",
-    poster: "https://iili.io/KMfvU0B.png",
+    poster: "https://iili.io/qDkSHsS.jpg",
     bg: [
+        "https://iili.io/KMfvU0B.png",
         "https://iili.io/KMfvDDx.jpg",
         "https://iili.io/KMfvQHu.jpg",
         "https://iili.io/KMfvZAb.png",
@@ -2343,8 +2350,9 @@ const baseDeDatos = [{
 {
     id: "H120",
     titulo: "Netorareta Bakunyuu Tsuma-tachi",
-    poster: "https://iili.io/KV87I7p.png",
+    poster: "https://iili.io/qDts0l4.png",
     bg: [
+        "https://iili.io/KV87I7p.png",
         "https://iili.io/KsmeDkQ.png",
         "https://iili.io/KV87jR9.png",
         "https://iili.io/KV87wNe.png",
@@ -2363,8 +2371,9 @@ const baseDeDatos = [{
 {
     id: "H121",
     titulo: "Kiken na Mori",
-    poster: "https://iili.io/fTtcLwN.png",
+    poster: "https://iili.io/qmGR0hb.jpg",
     bg: [
+        "https://iili.io/fTtcLwN.png",
         "https://iili.io/fTtcRjt.png",
         "https://iili.io/fTtc5ZX.png",
         "https://iili.io/fTtcVuS.png",
@@ -2383,8 +2392,9 @@ const baseDeDatos = [{
 {
     id: "H122",
     titulo: "Korette Nani?",
-    poster: "https://iili.io/KX1rv7S.png",
+    poster: "https://iili.io/qplfTPI.jpg",
     bg: [
+        "https://iili.io/KX1rv7S.png",
         "https://iili.io/KX1r8fn.png",
         "https://iili.io/KX1rkiX.png",
         "https://iili.io/KX1reVt.png",
@@ -2402,8 +2412,9 @@ const baseDeDatos = [{
 {
     id: "H123",
     titulo: "Sister Breeder",
-    poster: "https://iili.io/qBOKFPR.png",
+    poster: "https://iili.io/BF8NI1I.jpg",
     bg: [
+        "https://iili.io/qBOKFPR.png",
         "https://iili.io/qBOK9IV.jpg",
         "https://iili.io/qBOKHhB.jpg",
         "https://iili.io/qBOKoIp.png",
@@ -2412,7 +2423,7 @@ const baseDeDatos = [{
     video: [
         "https://www.burstcloud.co/embed/746ba07f9509671e8d374b6d2a46430b886f09b68046f03ccb04f5f23c25c860/ep1.mp4",
         "https://www.burstcloud.co/embed/78a99e65d4e12a06d75f582a181fc0b40d107b59a2bff8285664bc7ffd7c06cb/ep2.mp4",
-        "https://www.burstcloud.co/embed/6ed9ad11616579128a0a6bd31487aff3031792e90a504aaa4a849c9284a0da7c/ep3.mp4",
+        "https://www.burstcloud.co/embed/6ed9ad11616579128a0a6bd31487aff3031792e90a504aaa4a849c9284a0da7c/ep3.md.mp4",
         "https://www.burstcloud.co/embed/e6b7916bc108f7c546281baeeacac873f94fdcaf156bdafea3cf51351fbe6990/ep4.mp4"
     ],
     estudio: "Pink Pineapple",
@@ -2424,8 +2435,9 @@ const baseDeDatos = [{
 {
     id: "H124",
     titulo: "Shidoukan Day After",
-    poster: "https://iili.io/K88CUlS.png",
+    poster: "https://iili.io/BfLahRS.jpg",
     bg: [
+        "https://iili.io/K88CUlS.png",
         "https://iili.io/K88CxRa.jpg",
         "https://iili.io/K88CzOJ.png",
         "https://iili.io/K88CCUF.webp",
@@ -2708,8 +2720,9 @@ const baseDeDatos = [{
 {
     id: "H138",
     titulo: "Shoujo Kyouiku",
-    poster: "https://iili.io/f9yg06X.png",
+    poster: "https://iili.io/f9ygX94.jpg",
     bg: [
+        "https://iili.io/f9yg06X.png",
         "https://iili.io/f9yg8Ku.png",
         "https://iili.io/f9ygjN2.png",
         "https://iili.io/f9ygeV9.png",
@@ -2728,8 +2741,9 @@ const baseDeDatos = [{
 {
     id: "H139",
     titulo: "Shoujo x Shoujo x Shoujo",
-    poster: "https://iili.io/fdAuBne.png",
+    poster: "https://iili.io/fdAulcP.jpg",
     bg: [
+        "https://iili.io/fdAuBne.png",
         "https://iili.io/fdAuVDJ.png",
         "https://iili.io/fdAuEHF.png",
         "https://iili.io/fdAuMNa.png",
@@ -2748,8 +2762,9 @@ const baseDeDatos = [{
 {
     id: "H140",
     titulo: "Shounen Maid Kuro kun",
-    poster: "https://iili.io/fFOCMIn.png",
+    poster: "https://iili.io/fFOBiG4.jpg",
     bg: [
+        "https://iili.io/fFOCMIn.png",
         "https://iili.io/fFOBZaS.png",
         "https://iili.io/fFOBs6l.png",
         "https://iili.io/fFOBt87.png",
@@ -2767,8 +2782,9 @@ const baseDeDatos = [{
 {
     id: "H141",
     titulo: "Imaizumin-chi wa Douyara Gal",
-    poster: "https://iili.io/fDrhrWF.png",
+    poster: "https://iili.io/fqV4sON.png",
     bg: [
+        "https://iili.io/fDrhrWF.png",
         "https://iili.io/fqV4r0J.png",
         "https://iili.io/fqV4tWX.png",
         "https://iili.io/fqV4Dsn.png",
@@ -2791,8 +2807,9 @@ const baseDeDatos = [{
 {
     id: "H142",
     titulo: "Shunka Shuutou",
-    poster: "https://iili.io/fBT1Y6P.png",
+    poster: "https://iili.io/fBT1SMQ.jpg",
     bg: [
+        "https://iili.io/fBT1Y6P.png",
         "https://iili.io/fBT1XFS.jpg",
         "https://iili.io/fBT1MMl.webp",
         "https://iili.io/fBT1VP2.jpg",
@@ -2811,8 +2828,9 @@ const baseDeDatos = [{
 {
     id: "H143",
     titulo: "Maid Kyouiku",
-    poster: "https://iili.io/qnfUh29.png",
+    poster: "https://iili.io/foZy6mB.jpg",
     bg: [
+        "https://iili.io/qnfUh29.png",
         "https://iili.io/qnfUdpp.png",
         "https://iili.io/foZymdv.png",
         "https://iili.io/fot99mN.png",
@@ -2831,8 +2849,9 @@ const baseDeDatos = [{
 {
     id: "H144",
     titulo: "Sinisistar",
-    poster: "https://iili.io/fIqqvxf.png",
+    poster: "https://iili.io/fIqftTP.jpg",
     bg: [
+        "https://iili.io/fIqqvxf.png",
         "https://iili.io/fIqfyGa.jpg",
         "https://iili.io/fIqfDj1.webp",
         "https://iili.io/fIqfpCg.jpg",
@@ -2851,8 +2870,9 @@ const baseDeDatos = [{
 {
     id: "H145",
     titulo: "Mesu o Karu Mura",
-    poster: "https://iili.io/quEMOIn.png",
+    poster: "https://iili.io/fTuKg4e.png",
     bg: [
+        "https://iili.io/quEMOIn.png",
         "https://iili.io/quEMFyB.md.png",
         "https://iili.io/fTuK6Yb.png",
         "https://iili.io/fTuKSC7.png",
@@ -2871,8 +2891,9 @@ const baseDeDatos = [{
 {
     id: "H146",
     titulo: "Do S na Pet",
-    poster: "https://iili.io/funzYmv.png",
+    poster: "https://iili.io/funzNwX.jpg",
     bg: [
+        "https://iili.io/funzYmv.png",
         "https://iili.io/funz8Pf.png",
         "https://iili.io/funzOtn.png",
         "https://iili.io/funzvMG.png",
@@ -2891,8 +2912,9 @@ const baseDeDatos = [{
 {
     id: "H147",
     titulo: "Oshikake! Bakunyuu Gyaru Harem",
-    poster: "https://iili.io/fYPeBnf.png",
+    poster: "https://iili.io/fYPO8L7.jpg",
     bg: [
+        "https://iili.io/fYPeBnf.png",
         "https://iili.io/fYPO6db.png",
         "https://iili.io/fYPOg1e.png",
         "https://iili.io/fYPOsmQ.png",
@@ -2911,8 +2933,9 @@ const baseDeDatos = [{
 {
     id: "H148",
     titulo: "Nagachichi Nagai-san",
-    poster: "https://iili.io/faC7zYv.png",
+    poster: "https://iili.io/faC7WkQ.jpg",
     bg: [
+        "https://iili.io/faC7zYv.png",
         "https://iili.io/faC7kEg.png",
         "https://iili.io/faC7NQ1.png",
         "https://iili.io/faC7whP.png",
@@ -2931,8 +2954,9 @@ const baseDeDatos = [{
 {
     id: "H149",
     titulo: "Arisugawa Ren tte Honto wa Onna Nanda yo ne",
-    poster: "https://iili.io/f0ghjFf.png",
+    poster: "https://iili.io/f0ghGqP.png",
     bg: [
+        "https://iili.io/f0ghjFf.png",
         "https://iili.io/f0gh1LB.png",
         "https://iili.io/f0ghVrF.png",
         "https://iili.io/f0ghh7a.png",
@@ -2950,8 +2974,9 @@ const baseDeDatos = [{
 {
     id: "H150",
     titulo: "Iribitari Gal ni Manko Tsukawasete Morau Hanashi",
-    poster: "https://iili.io/f0Qv2K7.png",
+    poster: "https://iili.io/f0QvMSs.png",
     bg: [
+        "https://iili.io/f0Qv2K7.png",
         "https://iili.io/qFMOXov.png",
         "https://iili.io/qFMOhVR.png",
         "https://iili.io/f0QvhN4.png",
