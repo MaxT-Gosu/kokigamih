@@ -5275,5 +5275,409 @@ const baseDeDatos = [{
     tags: ["Anal", "Love", "Demonios"],
     tipo: "censurado",
     descripcion: "Amano Daiichi, tras ser rechazado por la princesa Suzuka, se encuentra con Akane, una mitad vampiro, y su vida cambia por completo."
-}
+},
+{
+    id: "H281",
+    titulo: "Lover in Law",
+    poster: "https://iili.io/qn3cCb9.jpg",
+    bg: [
+        "https://iili.io/qn3cHVs.jpg",
+        "https://iili.io/qn3amNt.png",
+        "https://iili.io/qn3cJiG.png",
+        "https://iili.io/qn3cFUl.jpg"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/1e51b289259d7a0477853a3b915082e1356f2fab5bac64bee80d2e070d153143/ep1.mp4",
+        "https://www.burstcloud.co/embed/f420104c81a18129c320e2aead139fec63a1968826e5cf74301dfb026bf4bfa1/ep2.mp4"
+    ],
+    estudio: "Discovery",
+    fecha: "2020",
+    tags: ["Anal", "Love", "Uncensored"],
+    tipo: "sincensura",
+    descripcion: "Tsutomu ayuda a su cuñada Mai con sus deseos tras encontrarla sola una noche. Sin embargo, la indiferencia de ella al día siguiente frustra al joven, quien toma la iniciativa."
+},
+{
+    id: "H282",
+    titulo: "Love Bitch Yasashii Onna",
+    poster: "https://iili.io/qn3cCb9.jpg",
+    bg: [
+        "https://iili.io/qnFczGa.png",
+        "https://iili.io/qnFcI6J.png",
+        "https://iili.io/qnFcAaR.png",
+        "https://iili.io/qnFcajt.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/5af11f7a618e294da89f4def38c19a472b87a4e0570cebe8b7b954e1aa00cc31/ep1.mp4"
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Anal", "Love", "Uncensored"],
+    tipo: "sincensura",
+    descripcion: "Satou está enamorado de Chisato, pero ella ya tiene una relación. Pero entonces su abusivo novio la deja, así que..."
+},
+{
+    id: "H283",
+    titulo: "Hump Bang",
+    poster: "https://iili.io/qn3cCb9.jpg",
+    bg: [
+        "https://iili.io/qnBRVUv.png",
+        "https://iili.io/qnBRhRp.png",
+        "https://iili.io/qnBReWX.png",
+        "https://iili.io/qnBRrJ4.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/43abb6ad14ff4ff3dde6ea131ed35023b73b11c9e370551a6840eb55978f954c/ep1.mp4",
+        "https://www.burstcloud.co/embed/cc0d79b6ddc7bb62c13bab49f136e20912c663f934e5f1fc8ab4c93060e3b96c/ep2.mp4"
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Harem", "Love", "Uncesored"],
+    tipo: "sincensura",
+    descripcion: "Kouji y Hiro están explorando su vida sexual, no con facilidad, pero con la aceptación gradual de los gustos del otro. Kouji actúa como el amo dominante y Hiro parece ser el esclavo dispuesto. ¿Funcionará este montaje para estos dos?"
+},
+{
+    id: "H284",
+    titulo: "Gibo no Toiki",
+    poster: "https://iili.io/qn3cCb9.jpg",
+    bg: [
+        "https://iili.io/qnn27EP.png",
+        "https://iili.io/qnn2c3F.png",
+        "https://iili.io/qnn2j4t.png",
+        "https://iili.io/qnn28uf.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/def8f37b65a6726ac6eb11d1e5261b0bff8ddb58be79118b54ac2100176658da/ep1.mp4",
+        "https://www.burstcloud.co/embed/710788aa0901348fcd1913e78c562965b17191b8ce0d6ae9b21aed91b910058e/ep2.mp4"
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Milfs", "Tetonas", "Uncesored"],
+    tipo: "sincensura",
+    descripcion: "Cuando su madre muere y su padre se vuelve a casar, Kaito se siente atraído por su nueva y sexy madrastra, Sayoko. Enloquecido por la lujuria, Kaito no tarda en espiarla y en colarse en su habitación para tener acción encubierta hasta altas horas de la noche."
+},
+{
+    id: "H285",
+    titulo: "Little Monica Monogatari",
+    poster: "https://iili.io/qn3cCb9.jpg",
+    bg: [
+        "https://iili.io/qnobKZP.png",
+        "https://iili.io/qnobBMF.png",
+        "https://iili.io/qnobz8v.png",
+        "https://iili.io/qnobAwN.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/d20834abea764f2bdee74c9aeb925a0d3156b1228486d4f5e166ee58ccf5667f/EP1.mp4",
+        "https://www.burstcloud.co/embed/6e7b9961de6d988bc8b6af8b6a69c1f2062508077076693f735dc96b413ac646/EP2.mp4"
+    ],
+    estudio: "Vanilla",
+    fecha: "2020",
+    tags: ["Harem", "Lolicon", "Uncesored"],
+    tipo: "sincensura",
+    descripcion: "Will regresa a su ciudad natal tras años, sólo para encontrar un lugar corrupto y decadente. En medio de la lujuria y el libertinaje, debe decidir si sucumbir a esa vida o luchar por recuperar la belleza de su hogar."
+},
+{
+    id: "H286",
+    titulo: "Swamp Stamp",
+    poster: "https://iili.io/qn3cCb9.jpg",
+    bg: [
+        "https://iili.io/qnkMGeI.png",
+        "https://iili.io/qnkXv7R.png",
+        "https://iili.io/qnkXi1s.png",
+        "https://iili.io/qnkXDp2.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/51ef4a95b69b093c2ea54ca6d918b3b5eae3c8f69cb5e792c6729434da01da47/ep1.mp4"
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Escolares", "Lolicon", "Uncesored"],
+    tipo: "sincensura",
+    descripcion: "Comienza como una simple curiosidad. Tiene una primera experiencia mediocre con una compañera de clase, su profesor la despierta a sus deseos, y finalmente mantiene a un violador para satisfacer sus deseos carnales."
+},
+{
+    id: "H287",
+    titulo: "Mayohiga no Onee-san",
+    poster: "https://iili.io/qn3cCb9.jpg",
+    bg: [
+        "https://iili.io/qojlZGa.png",
+        "https://iili.io/qojlt6J.png",
+        "https://iili.io/qojlpvp.png",
+        "https://iili.io/qoj0HuI.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/40449e72ee952e86a59177949aa3a334b2032a7b1afd360c5862d7fbc5c7ce8a/ep1.mp4"
+    ],
+    estudio: "Bootleg",
+    fecha: "2020",
+    tags: ["Maids", "Ninfomana", "Uncesored"],
+    tipo: "sincensura",
+    descripcion: "A diferencia de las casas de las misteriosas y espeluznantes historias de la leyenda, en esta versión moderna, Mayohiga es una cafetería atendida por la bella Onee-san."
+},
+{
+    id: "H288",
+    titulo: "Master Piece",
+    poster: "https://iili.io/qoNaONI.png",
+    bg: [
+        "https://iili.io/qoNarlf.png",
+        "https://iili.io/qoNaDiu.png",
+        "https://iili.io/qoNcHHQ.png",
+        "https://iili.io/qoNcC0J.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/ddc29bbd25649b2ab720a6a1d3f5dbd69f513be4f1143b468a0f97e80fe8bacd/ep1.mp4",
+        "https://www.burstcloud.co/embed/758262a27ca366cc5835af1d7ea2f305d9f92735e93f8dd9418c5e2b6705963c/ep2.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2020",
+    tags: ["Romance", "Tetonas", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "Viuda y madre de dos hijas gemelas. Su hobby estos días es seducir a su yerno. Una MILF débil a los besos."
+},
+{
+    id: "H289",
+    titulo: "Choisuji",
+    poster: "https://iili.io/qorW3TN.jpg",
+    bg: [
+        "https://iili.io/qorWqCX.png",
+        "https://iili.io/qorWKQt.png",
+        "https://iili.io/qorWa6u.png",
+        "https://iili.io/qorW0aj.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/d88fc043a0f8586e5a9dcf64f564553d951412172b8b8f270890d01e6eab3ad4/ep1.mp4",
+        "https://www.burstcloud.co/embed/0eb035635cf60dac2513056c9f73b2d7cfe941f8635e79a21ae6e1cfe651ad40/ep2).mp4"
+    ],
+    estudio: "Animac",
+    fecha: "2020",
+    tags: ["Escolares", "Lolicon", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "El primer volumen cuenta la historia de cómo un profesor utiliza una marioneta mágica para engañar a una alumna para que le haga una paja, una mamada y... digamos que no se queda ahí."
+},
+{
+    id: "H290",
+    titulo: "Mahou Touki Lilustear",
+    poster: "https://iili.io/qoihga9.jpg",
+    bg: [
+        "https://iili.io/qoihXvn.jpg",
+        "https://iili.io/qoihhps.jpg",
+        "https://iili.io/qoihma1.png",
+        "https://iili.io/qoij3nR.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/5a531140865aa4d414a4996911f0c15ca5a6e787ba6990728c56038df86b9ae2/ep1.mp4",
+        "https://www.burstcloud.co/embed/b8711403a493d496c49388a600fdc9ef7f80619bbea3fdb0496fc31074d0880e/ep2.mp4",
+        "https://www.burstcloud.co/embed/4663c7b8fcdb74dd335a57da041374b903fe7228b68b2bed3f4d8de122b2498d/ep3.mp4",
+        "https://www.burstcloud.co/embed/0df1719c89a9c733625aaad0f84a39cfb106ec169d1cb58e1525c23ec61cc354/ep4.mp4"
+    ],
+    estudio: "Majin Petit",
+    fecha: "2020",
+    tags: ["Escolares", "Mounstros", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "Los ejecutivos de Hameldar envían al monstruo Brosh para acabar con Lilstia. Ella frustra su intento de secuestro, pero es atrapada en una trampa subterránea donde Brosh se transforma en algo más aterrador."
+},
+{
+    id: "H291",
+    titulo: "Mazome Soap de Aimashou",
+    poster: "https://iili.io/qoLQyrB.jpg",
+    bg: [
+        "https://iili.io/qoLZ2mg.png",
+        "https://iili.io/qoLZC1p.png",
+        "https://iili.io/qoLZYB4.png",
+        "https://iili.io/qoLZaEl.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/192e66e0fb61ad16e9930dd171a384afd1d0fc5f80e97179f2129669c8093757/EP1.mp4",
+        "https://www.burstcloud.co/embed/c766a6e1a18cec9569c644814c8dc87300cf5e805362d2276617d2518a671497/ep2.mp4"
+    ],
+    estudio: "Queen Bee",
+    fecha: "2024",
+    tags: ["Escolares", "Mounstros", "Virgenes"],
+    tipo: "censurado",
+    descripcion: "Explora la vida secreta de Mitsurugi y Nagihara, destacando la tensión entre sus identidades diurnas y nocturnas, mientras profundiza en sus deseos y conflictos internos con una animación vívida y expresiva."
+},
+{
+    id: "H292",
+    titulo: "Maid Ane",
+    poster: "https://iili.io/qoZ5CjS.png",
+    bg: [
+        "https://iili.io/qoZ5zGe.png",
+        "https://iili.io/qoZ5R8x.png",
+        "https://iili.io/qoZ5cZP.png",
+        "https://iili.io/qoZ5VcJ.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/8e48f9077656cdf09b2a452ca9d36d37d30a887e8a4cb849143bf68f03cea15b/ep1.mp4",
+        "https://www.burstcloud.co/embed/12b043a03f0f4b053ae76b6cc5858296252b06e95e5beb7e0ba73288d10d570c/ep2.mp4"
+    ],
+    estudio: "Vanilla",
+    fecha: "2020",
+    tags: ["Maid", "Milf", "uncensored"],
+    tipo: "sincensura",
+    descripcion: "Un día, Yuuta vuelve a casa y descubre que su amiga de la infancia, Akie, ha regresado a su pueblo. Akie trabaja como criada en Tokio y Yuuta empieza a pensar en ella de una manera totalmente diferente."
+},
+{
+    id: "H293",
+    titulo: "Mankitsu Happening",
+    poster: "https://iili.io/qxlwLtR.jpg",
+    bg: [
+        "https://iili.io/qxlwmFt.png",
+        "https://iili.io/qxlNJAG.png",
+        "https://iili.io/qxlNCl9.png",
+        "https://iili.io/qxlNINj.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/a50d6dd16bb4933ec2547340ea7e704f4238e1088500188ef2caf1ba7dbffb06/EP1.mp4",
+        "https://www.burstcloud.co/embed/f99984949bf18ab639e43ffd98a30d69f2713cb17ddee6fd7a4f9d037cf192f6/ep2.mp4",
+        "https://www.burstcloud.co/embed/ed66f048aff5bce8d75fd908e94914fa69d8efa0b81488f3c126a47d42187d58/ep3.mp4",
+        "https://www.burstcloud.co/embed/9438e4b9a52257f69d5f98fc7cb765f1b00baf4c7f07062db49a135101bb64a6/ep4.mp4"
+    ],
+    estudio: "Collaboration Works",
+    fecha: "2020",
+    tags: ["Maid", "Milf", "uncensored"],
+    tipo: "sincensura",
+    descripcion: "Un tipo es despedido de nuevo de su trabajo. A regañadientes, decide trabajar con un amigo en una tienda de manga, con dos encantadoras compañeras de trabajo. "
+},
+{
+    id: "H294",
+    titulo: "Majo wa Kekkyoku Sono Kyaku",
+    poster: "https://iili.io/qx0LsSa.jpg",
+    bg: [
+        "https://iili.io/qx0LtNR.png",
+        "https://iili.io/qx0LQHJ.png",
+        "https://iili.io/qx0LZAv.png",
+        "https://iili.io/qx0LyPt.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/298c088ae727cc1417b4094dc3fe730d1e4a92383a197738d4788503cf910c92/ep1.mp4",
+        "https://www.burstcloud.co/embed/8220d30ea3a69dbca03266c011a2f635861fb60649f21d95c0869502f38e8a5b/ep2.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2023",
+    tags: ["Corridas", "Oral", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Pinkpineapple Studio lanzará en febrero de 2023 un anime hentai titulado, basado en el manga de Nishi Yoshiyuki."
+},
+{
+    id: "H295",
+    titulo: "Mahou Shoujo Noble Rose",
+    poster: "https://iili.io/qx1cPjt.jpg",
+    bg: [
+        "https://iili.io/qx1ckGa.png",
+        "https://iili.io/qx1ceCg.png",
+        "https://iili.io/qx1cUaR.png",
+        "https://iili.io/qx1cryN.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/131dc91dcf60adb36d22e8d9968bde5bac06fefb6f41f0f2700061e99b307004/ep1.mp4",
+        "https://www.burstcloud.co/embed/aba29115cb4c81ffe17613ea04456ab92623d7189202a062a6d2539c9ebc93c6/ep2.mp4"
+    ],
+    estudio: "Anime Antenna Iinkai",
+    fecha: "2023",
+    tags: ["Corridas", "Oral", "Lolicon"],
+    tipo: "censurado",
+    descripcion: "La chica se ha convertido en una chica mágica para proteger a sus seres queridos. Pero - su inocente cuerpo es despiadadamente pisoteado por sus tentáculos"
+},
+{
+    id: "H296",
+    titulo: "Muma no Machi Cornelica",
+    poster: "https://iili.io/qxNMfFj.png",
+    bg: [
+        "https://iili.io/qxNM2ne.jpg",
+        "https://iili.io/qxNM3Mu.jpg",
+        "https://iili.io/qxNMF6b.png",
+        "https://iili.io/qxNMn9V.jpg"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/87fef2438d24b986a6eb097de1ee4e8b128aeda9355f88e9c5707489b54ef5fd/ep1.mp4",
+        "https://www.burstcloud.co/embed/2f0fd9e2488e487f78ada76d6fe3d73af97848db523570cf5ec0bdeec5769f1d/ep2.mp4",
+        "https://www.burstcloud.co/embed/51aa1f107aa0e37b950f9a44afec22299c3869eb083287c924389f71c52ba11d/ep3.mp4",
+        "https://www.burstcloud.co/embed/16f94504f08e36ce43e8501eb9704a849e2e6fdc6f948034b2f5e52a734c3017/ep4.mp4"
+    ],
+    estudio: "Magin Label",
+    fecha: "2020",
+    tags: ["Haren", "Succubus", "Lolicon"],
+    tipo: "censurado",
+    descripcion: "Al vive en la Ciudad de los Demonios, Cornelica, donde también viven súcubos. A su lado está la súcubo Lily, que le protege. Vive su vida cotidiana con Lily protegiéndolo de otros súcubos que van tras su semen."
+},
+{
+    id: "H297",
+    titulo: "Mama x Holic",
+    poster: "https://iili.io/qxNpCNf.png",
+    bg: [
+        "https://iili.io/qxNpzV2.jpg",
+        "https://iili.io/qxNpxol.png",
+        "https://iili.io/qxNpuK7.png",
+        "https://iili.io/qxNpAl9.jpg"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/7e02a7e8b951cc496070aba99f7cb01e8fcf5e3c4e3081c7584e47a397fb815e/ep1.mp4",
+        "https://www.burstcloud.co/embed/63523c6008949515b8cbc51b38db670836d2bcadd538ee6244eae3ae3e320838/ep2.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2021",
+    tags: ["Haren", "Fantasia", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Un mundo moderno en el que existen humanos y semihumanos. Con la repentina aparición de un individuo muy especial, 3 mujeres se proponen exprimirlo al máximo."
+},
+{
+    id: "H298",
+    titulo: "Marshmallow Imouto Succubus",
+    poster: "https://iili.io/qxOBwe2.jpg",
+    bg: [
+        "https://iili.io/qxOBEsn.jpg",
+        "https://iili.io/qxOBMfs.jpg",
+        "https://iili.io/qxOB1WX.jpg",
+        "https://iili.io/qxOBV0G.jpg"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/6abc66bad60becb139509e5c924623ddc48d5e0512b98694a63f0a1b7c08820e/ep1.mp4",
+        "https://www.burstcloud.co/embed/ab15c3d7e6762e16ab9149e40c24f67e751f8bea19549e8d0866432434c37b4a/ep2.mp4"
+    ],
+    estudio: "Lune Pictures",
+    fecha: "2020",
+    tags: ["Succubus", "Fantasia", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Basado en el juego erótico de Dwarfsoft."
+},
+{
+    id: "H299",
+    titulo: "Mako chan Kaihatsu Nikki",
+    poster: "https://iili.io/qzctadQ.png",
+    bg: [
+        "https://iili.io/qzcQkap.png",
+        "https://iili.io/qzcQwMJ.png",
+        "https://iili.io/qzcQ5Zu.png",
+        "https://iili.io/qzcZy5N.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/6bf15b05f0480452e2e56c77b5536c6f4d1c6a1610afef8ae4832b12898af112/ep1.mp4",
+        "https://www.burstcloud.co/embed/3e14266a45de777771b88b0b168fa9edc46196c64d10861dd9dc0df93a6c0ceb/ep2.mp4",
+        "https://www.burstcloud.co/embed/3adfdac8168fcb01c174d5ddd64b3e9d49a6c7272e766fb0b9e16df953a19b82/ep3.mp4",
+        "https://www.burstcloud.co/embed/dcea84297e9bd4aa768c5dd9a2bf931d5dce96c291346cbdce40b405cb5effdd/ep4.mp4"
+    ],
+    estudio: "T-Rex",
+    fecha: "2023",
+    tags: ["Escolares", "Netorare", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "La protagonista es una chica hentai llamada Makoto Himemiya - una estudiante, una excelente alumna y una pequeña pervertida con una fuerte libido."
+},
+{
+    id: "H300",
+    titulo: "Mitasarete Mezameru Asa",
+    poster: "https://iili.io/qzleIgs.png",
+    bg: [
+        "https://iili.io/qzleBzN.png",
+        "https://iili.io/qzleKeR.png",
+        "https://iili.io/qzleF5v.png",
+        "https://iili.io/qzleCXI.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/a56aa101f05ff1afa33c5852686a32ebcb4c7f6f3c28b6db0bd10a98d320240d/ep1.mp4"
+    ],
+    estudio: "Showten",
+    fecha: "2024",
+    tags: ["Fantasia", "Masturbacion", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Los protagonistas hentai Kyotaru y Sayaka han roto recientemente con sus almas gemelas y en su reunión del instituto deciden consolarse mutuamente."
+},
 ];
