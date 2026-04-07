@@ -5098,7 +5098,7 @@ const baseDeDatos = [{
 },
 {
     id: "H272",
-    titulo: "Kotowari Kimi no Kokoro no Koboreta Kaker",
+    titulo: "Kotowari Kimi no Kokoro no Koboreta Kakeru",
     poster: "https://i.postimg.cc/hPrKck6Q/kotowari-1-1.jpg",
     bg: [
         "https://i.postimg.cc/JzzMnTCs/vlcsnap-2026-03-02-07h45m48s437.png",
@@ -5135,7 +5135,7 @@ const baseDeDatos = [{
     fecha: "2021",
     tags: ["Milfs", "Incesto", "Oral"],
     tipo: "censurado",
-    descripcion: "La cosa con los hentai viejos de la abeja es que son muchas historias, así que realmente no puedo hacer una sinopsis de esta madre. En la primera, hay un marika que se viste de trapo y se lo coge su hermana. Y en la siguiente se violan a una elfa tetona."
+    descripcion: "La cosa con los hentai viejos de la abeja es que son muchas historias, así que realmente no puedo hacer una sinopsis exacta. En la primera, un joven se viste de mujer y tiene relaciones con su hermana, mientras que en la siguiente ocurre con una elfa."
 },
 {
     id: "H274",
@@ -5175,7 +5175,7 @@ const baseDeDatos = [{
     fecha: "2023",
     tags: ["Escolares", "Tetonas", "Oral"],
     tipo: "censurado",
-    descripcion: "Kozukuri Ninkatsu-bu es una nueva obra del estudio Mary Jane 2023. El hentai hablará del club nacional del embarazo, muy común entre los jóvenes. El club organiza diversas actividades relacionadas con el embarazo."
+    descripcion: "Kozukuri Ninkatsu-bu es una obra del estudio Mary Jane de 2023. Trata sobre un club escolar enfocado en actividades de fertilidad y embarazo, un tema recurrente en este tipo de historias."
 },
 {
     id: "H276",
@@ -5195,7 +5195,7 @@ const baseDeDatos = [{
     fecha: "2024",
     tags: ["Escolares", "Tetonas", "Oral"],
     tipo: "censurado",
-    descripcion: "Kosuke ve a su madre Shiori como un obstáculo, pero tras un accidente con su amigo Yuta, sus deseos y emociones surgen; se desarrolla una conexión íntima entre ellos, transformando su relación maternal en deseo y atracción."
+    descripcion: "Kosuke ve a su madre Shiori como un obstáculo, pero tras un incidente con su amigo Yuta, surgen deseos inesperados que transforman su relación maternal en una de atracción."
 },
 {
     id: "H277",
@@ -5212,7 +5212,7 @@ const baseDeDatos = [{
     ],
     estudio: "Pink Pineapple",
     fecha: "2020",
-    tags: ["Anal", "Haren", "Romance"],
+    tags: ["Anal", "Harem", "Romance"],
     tipo: "censurado",
     descripcion: "Kouta, heredero del santuario, se centra en sus estudios mientras su vida se complica con Erina, su prometida, y Mai."
 },
@@ -5232,9 +5232,9 @@ const baseDeDatos = [{
     ],
     estudio: "Pink Pineapple",
     fecha: "2020",
-    tags: ["Anal", "Love", "Haren"],
+    tags: ["Anal", "Love", "Harem"],
     tipo: "censurado",
-    descripcion: "SUna niña llamada Aisha, que es la hija de Papá Noel, está terminando de repartir regalos. En la última casa, tropieza con la nieve del porche y se queda inconsciente al golpearse la cabeza. "
+    descripcion: "Una niña llamada Aisha, que es la hija de Papá Noel, está terminando de repartir regalos. En la última casa, tropieza con la nieve del porche y queda inconsciente."
 },
 {
     id: "H279",
@@ -5254,7 +5254,7 @@ const baseDeDatos = [{
     fecha: "2020",
     tags: ["Anal", "Love", "Vanilla"],
     tipo: "censurado",
-    descripcion: "Tres chicas de un instituto normal descubren que son las únicas de su clase que aún protegen su virginidad."
+    descripcion: "Tres chicas de un instituto normal descubren que son las únicas de su clase que aún conservan su virginidad."
 },
 {
     id: "H280",
@@ -5274,6 +5274,6 @@ const baseDeDatos = [{
     fecha: "2020",
     tags: ["Anal", "Love", "Demonios"],
     tipo: "censurado",
-    descripcion: "Amano Daiichi, tras ser rechazado por la princesa Suzuka, se encuentra con Akane, una mitad vampiro, y transforma su sangre en un elixir."
-},
+    descripcion: "Amano Daiichi, tras ser rechazado por la princesa Suzuka, se encuentra con Akane, una mitad vampiro, y su vida cambia por completo."
+}
 ];
