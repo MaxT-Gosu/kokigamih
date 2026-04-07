@@ -5877,4 +5877,312 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Tras la muerte de sus padres, Konno Azusa hereda la posada de sus padres. Todos los residentes de la posada se han ido excepto un huésped pervertido, por lo que ella tiene que cumplir todos sus deseos para evitar que él también se vaya."
 },
+{
+    id: "H311",
+    titulo: "Pisu Hame",
+    poster: "https://iili.io/qsWHj0F.jpg",
+    bg: [
+        "https://iili.io/qWtxwv4.png",
+        "https://iili.io/qWtxeu2.png",
+        "https://iili.io/qWtxQwB.png",
+        "https://iili.io/qWtzH8v.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/01cb24f5fb84c30670fdfa4e201626ed0f6429d24d872ff0a56efa674ed1c06b/ep1.mp4",
+        "https://www.burstcloud.co/embed/4e45c3adee217b601f8b97f6806670a95db989cb3d51373a0feb823497073847/ep2.mp4",
+        "https://www.burstcloud.co/embed/a5ebe0ba196cc6e04cd142f02477565e8db68c98613d9eac9338f54c671b80ed/ep3.mp4",
+        "https://www.burstcloud.co/embed/f9c8414b608f2ee599ed4d10924562af86f99afdef3e85024db32398d5b3a32d/ep4.mp4",
+        "https://www.burstcloud.co/embed/3169747b2cf0619c53ea983482c3159396a054ca5aef360b529b4b55b0809c95/ep5.mp4",
+        "https://www.burstcloud.co/embed/966ba0b874841dfd18213be91eca3ddf1b834c89b8a4f36dd645740732136a1b/ep6.mp4"
+    ],
+    estudio: "Queen Bee",
+    fecha: "2020",
+    tags: ["Escolares", "Romance", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Tamao Tsukamu, estudiante de segundo año de secundaria y miembro del club de Kendo, admira a su senpai, la capitana del club, Kiritani Konome."
+},
+{
+    id: "H312",
+    titulo: "Chitchana Onaka Naisho Desu yo",
+    poster: "https://iili.io/qQ2bWcg.jpg",
+    bg: [
+        "https://iili.io/qXHqnI4.png",
+        "https://iili.io/qXHqK2n.png",
+        "https://iili.io/qXHq21t.png",
+        "https://iili.io/qXHq9Xp.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/d84a8dcde5c21d4f94f18e5f7568633792c2c5d6880333252d1a13374ede44b9/ep1.mp4",
+        "https://www.burstcloud.co/embed/8ae8cb32a3f0bd1b5dd01313eded448630eb5b0f5089b87ca518e3720941b762/ep2.mp4",
+        "https://www.burstcloud.co/embed/65989a6315dc2a28271c696964411744e6b2f36e2201819d4ace438b771aa248/ep3.mp4"
+    ],
+    estudio: "Studio 9 Maiami",
+    fecha: "2020",
+    tags: ["Escolares", "Lolicon", "Tetonas"],
+    tipo: "censurado",
+    descripcion: "Basado en el manga para adultos de Ayumu Shouji."
+},
+{
+    id: "H313",
+    titulo: "Imouto Paradise 1",
+    poster: "https://iili.io/qQn1ITv.jpg",
+    bg: [
+        "https://iili.io/qX3Twrb.png",
+        "https://iili.io/qX3TWQ9.png",
+        "https://iili.io/qX3T6Eg.png",
+        "https://iili.io/qX3TLYv.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/a46d6e7b5c8a88ff83f33517b9c1e9ea1d8c7de92d5a55c320c20b150d549dc8/ep1.mp4",
+        "https://www.burstcloud.co/embed/1581bfcd1c594a32cd4bc38e09eb57bf7d2718269bd4ea5c65234306869c4a0b/ep2.mp4"
+    ],
+    estudio: "Moonstone Cherry",
+    fecha: "2020",
+    tags: ["Escolares", "Lolicon", "Incesto"],
+    tipo: "censurado",
+    descripcion: "Keiichi queda solo con sus cinco hermanas, quienes actúan agresivamente mientras sus padres están ausentes."
+},
+{
+    id: "H314",
+    titulo: "Imouto Paradise 2",
+    poster: "https://iili.io/qQz5oGt.jpg",
+    bg: [
+        "https://iili.io/qXBFsdQ.png",
+        "https://iili.io/qXBFQkB.png",
+        "https://iili.io/qXBFyBa.png",
+        "https://iili.io/qXBK3kN.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/b9843f131d9b21c7cb00e01aaf8d5a3f7aff7406416400f415e3f1115db51935/ep1.mp4",
+        "https://www.burstcloud.co/embed/9e2d4b3233271a399b6e213b54db0ccd07b9d87b68fb736a6f9cfaf5cc595475/ep2.mp4"
+    ],
+    estudio: "Moonstone Cherry",
+    fecha: "2020",
+    tags: ["Haren", "Virgenes", "Incesto"],
+    tipo: "censurado",
+    descripcion: "Ahora que sus padres están lejos, sus hermanas menores se lanzan a por él de forma agresiva. Por supuesto, él no puede contenerse."
+},
+{
+    id: "H315",
+    titulo: "Imouto Paradise 3",
+    poster: "https://iili.io/qQur8TF.jpg",
+    bg: [
+        "https://iili.io/qXzmczX.png",
+        "https://iili.io/qXzm7eI.png",
+        "https://iili.io/qXzmEqG.png",
+        "https://iili.io/qXzmMg4.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/07e06feaa38d8d8bc8c07232aad6b4bc44bd58b5014ada52c9f613d309f2b714/ep1.mp4",
+        "https://www.burstcloud.co/embed/5be22eb0e11ce65754cda50b845ead63f0919e9a375d4a6c4eab5ed7b6e37152/ep2.mp4"
+    ],
+    estudio: "Moonstone Cherry",
+    fecha: "2020",
+    tags: ["Haren", "Virgenes", "Incesto"],
+    tipo: "censurado",
+    descripcion: "Comenzando con un sueño lascivo sobre sus 5 hermanas en posiciones comprometedoras, ¡la vida de nuestro protagonista está a punto de subir de nivel!"
+},
+{
+    id: "H316",
+    titulo: "Succubus Yondara Haha ga Kita",
+    poster: "https://iili.io/qQy1hkQ.jpg",
+    bg: [
+        "https://iili.io/qSPFqps.png",
+        "https://iili.io/qSPF24I.png",
+        "https://iili.io/qSPFKYX.png",
+        "https://iili.io/qSPFT4S.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/96961affec45a14460c0450cc5ef8df35f47f73a864008e391c62a06b7fbcad9/ep1.mp4",
+        "https://www.burstcloud.co/embed/9c0cbab800eb5bb1888e1eee2156a21dff5833b1f6fc485cd7dcc4840986124b/ep2.mp4"
+    ],
+    estudio: "Bunnywalker",
+    fecha: "2022",
+    tags: ["Corridas", "Oral", "tetonas"],
+    tipo: "censurado",
+    descripcion: "Bunny Walker adaptará el hentai CG Succubus Yondara Haha Ga Kita!, sobre Morita Takashi, un estudiante que busca perder su virginidad con un súcubo."
+},
+{
+    id: "H317",
+    titulo: "Anata no Shiranai Kangofu",
+    poster: "https://iili.io/qttsqml.jpg",
+    bg: [
+        "https://iili.io/qgq8EgI.png",
+        "https://iili.io/qgq8csR.png",
+        "https://iili.io/qgq8jzG.png",
+        "https://iili.io/qgq8Ns4.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/5553376f40fc784ae25b90a41b7f50e314769a6057e0b7676d415bc0b24f0ec7/ep1.mp4",
+        "https://www.burstcloud.co/embed/020b2a0132a2fb9f83ac6ace41941cc3777679d95693a1fc96786495e2465b86/ep2.mp4"
+    ],
+    estudio: "Bunnywalker",
+    fecha: "2009",
+    tags: ["Enfermeras", "Oral", "Sin sensura"],
+    tipo: "sincensura",
+    descripcion: "Hospitalizan a un men y convierte a las enfermeras en su harem."
+},
+{
+    id: "H318",
+    titulo: "Mesu Kyoushi: Injoku no Kyoushitsu",
+    poster: "https://iili.io/qDn5hgf.jpg",
+    bg: [
+        "https://iili.io/qgacvSV.png",
+        "https://iili.io/qgacUAP.png",
+        "https://iili.io/qgaciiJ.png",
+        "https://iili.io/qgacDHN.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/d8f654f60f3b2cdcd011b89e486036b18edda5a28dc4b61442b36b159a402e8c/ep1.mp4",
+        "https://www.burstcloud.co/embed/f8f280a1eb0f29dbe8632832e27ea904391d78791e5c12490c7de9f8c1c24374/ep2.mp4",
+        "https://www.burstcloud.co/embed/f85f989f605b442d8698705d1f27f2d3407cc13882949d3ba57474b6c26c5385/ep3.mp4"
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Anal", "Haren", "Sin sensura"],
+    tipo: "sincensura",
+    descripcion: "Miyuki, profesora, pierde su virginidad con Takuya, hermanastro de Eiji, quien seduce a otras profesoras."
+},
+{
+    id: "H319",
+    titulo: "Hitozuma Koukan Nikki",
+    poster: "https://iili.io/qDkSHsS.jpg",
+    bg: [
+        "https://iili.io/qgNUXsa.png",
+        "https://iili.io/qgNUVzF.png",
+        "https://iili.io/qgNUeJp.png",
+        "https://iili.io/qgNU8bt.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/b8db2af3fa4db46cb26a3cf8fbfaa8eb3c4cf55d4414f7eaa76ee3dce68c6e15/Video.mp4",
+        "https://www.burstcloud.co/embed/ccbde02f78dc287fff4325bfae703bf36537c721d8d600e7f771efb35ef13656/EP2.mp4"
+    ],
+    estudio: "Vanilla",
+    fecha: "2020",
+    tags: ["Anal", "Haren", "Sin sensura"],
+    tipo: "sincensura",
+    descripcion: "Kouichi, cansado de su vida, acepta intercambiar esposas y busca emoción en el engaño."
+},
+{
+    id: "H320",
+    titulo: "Mama Puri",
+    poster: "https://iili.io/qDts0l4.png",
+    bg: [
+        "https://iili.io/qr3QmZv.png",
+        "https://iili.io/qr3QbwJ.png",
+        "https://iili.io/qr3QDua.png",
+        "https://iili.io/qr3ZH6N.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/7acf8ae0c78b6bb2f1ba25b60a0d328127b9dd3d4d9da3358baa8c53d8d48502/EP1.mp4",
+        "https://www.burstcloud.co/embed/2ed2c06e7725b3231805a5f9ab7bda1ad34a2557ccc88e7bc072742b3618153d/EP2.mp4"
+    ],
+    estudio: "Digital Works",
+    fecha: "2020",
+    tags: ["Orgia", "Romance", "Sin sensura"],
+    tipo: "sincensura",
+    descripcion: "Keita, tras la muerte de su madre en la infancia, se siente triste pero acepta su ausencia. Su padre presenta cuatro mujeres, buscando una nueva figura materna para él."
+},
+{
+    id: "H321",
+    titulo: "Mitama Nin",
+    poster: "https://iili.io/qmGR0hb.jpg",
+    bg: [
+        "https://iili.io/qrfL6AX.png",
+        "https://iili.io/qrfL49t.png",
+        "https://iili.io/qrfLPNn.png",
+        "https://iili.io/qrfLits.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/9f7097d07814bae51f7d736ddcc3be293c14a4e6bdc7e185cab787551b887b03/ep1.mp4",
+        "https://www.burstcloud.co/embed/ffc39997ef4a6d0c50d80e93338e3494895c5f503a478da8435f34c2ed21c2d9/ep2.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2009",
+    tags: ["Orgia", "Ninja", "Sin sensura"],
+    tipo: "censurado",
+    descripcion: "Tres Tesoros Imperiales de Japón están dispersos; ninjas y una sacerdotisa buscan recuperarlos a través de mapas ocultos en mujeres."
+},
+{
+    id: "H322",
+    titulo: "Oppai no Ouja 48",
+    poster: "https://iili.io/qplfTPI.jpg",
+    bg: [
+        "https://iili.io/qrafO4p.png",
+        "https://iili.io/qrafk3N.png",
+        "https://iili.io/qrafiG4.png",
+        "https://iili.io/qrafNGR.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/cd9099bac284cccc2ce3cf252192c57905834a4ab244e828539c2c16bef33f95/ep1.mp4",
+        "https://www.burstcloud.co/embed/cce217cbf8a4c5a8a6eb3e0cef46f659efece9d42d010e5b3719ed1fc82be90f/ep2.mp4"
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Orgia", "Anal", "Sin sensura"],
+    tipo: "sincensura",
+    descripcion: "Recibo una carta con billetes de sexo y debato participar en un juego para encontrar pechos."
+},
+{
+    id: "H323",
+    titulo: "Maid in Heaven SuperS",
+    poster: "https://iili.io/BF8NI1I.jpg",
+    bg: [
+        "https://iili.io/q4wzQGR.png",
+        "https://iili.io/q4wzZ4p.png",
+        "https://iili.io/q4wI2nf.png",
+        "https://iili.io/q4wzD3N.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/820ab6c14621ee5892b0450e35f6c3ff27d245b5086a32bf2257520b7b4fd837/EP1.mp4",
+        "https://www.burstcloud.co/embed/2588f33403b084e91603199fee4ee93e886e3738fb700a0253b33781548fb5ea/EP2.mp4"
+    ],
+    estudio: "Green Bunny",
+    fecha: "2020",
+    tags: ["Orgia", "Anal", "Sin sensura"],
+    tipo: "sincensura",
+    descripcion: "Matsudo Yuusuke ve cumplido su sueño con su amiga Nagisa, quien se convierte en su criada y compañera nocturna."
+},
+{
+    id: "H324",
+    titulo: "Discode Ijou Seiai",
+    poster: "https://iili.io/BfLahRS.jpg",
+    bg: [
+        "https://iili.io/q6Rtd5Q.png",
+        "https://iili.io/q6RZy0b.png",
+        "https://iili.io/q6RtRII.png",
+        "https://iili.io/q6RtaBn.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/5b7750c225da1efc2ce5eb247561488782d45672e5ad9d864a34ce2c673a832c/EP1.mp4",
+        "https://www.burstcloud.co/embed/0dfb8bb35f43b7439e079f0ff631bf822da74c7288e65cf1d1345747f333963d/EP2.mp4",
+        "https://www.burstcloud.co/embed/287109f77bfccf440593e5ff7739789be04d4fd46d244adfa08daee69d912519/ep3.mp4"
+    ],
+    estudio: "Desconocido",
+    fecha: "2009",
+    tags: ["Futanari", "Anal", "Sin sensura"],
+    tipo: "sincensura",
+    descripcion: "Futaba lidia con deseos sexuales reprimidos en la escuela, generando situaciones inesperadas y emocionantes."
+},
+{
+    id: "H325",
+    titulo: "Requiem",
+    poster: "https://iili.io/BqZyra1.jpg",
+    bg: [
+        "https://iili.io/q6l940Q.png",
+        "https://iili.io/q6l9idB.png",
+        "https://iili.io/q6l9tzg.png",
+        "https://iili.io/q6l9bLJ.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/230c497904af07778e241727a64971c113dd4dfb7a3288ca060ea1d07fb8c517/ep1.mp4",
+        "https://www.burstcloud.co/embed/5cc08c47daa35a3bc30dc406c0c9cfcc8999fab13fb6a6775422f6b634915955/ep2.mp4"
+    ],
+    estudio: "MS Pictures",
+    fecha: "2010",
+    tags: ["Tentaculos", "Anal", "Sin sensura"],
+    tipo: "sincensura",
+    descripcion: "Cannone es un violín poderoso; Ceillia lo sella. Akio lo descubre en la academia, mientras otra chica busca robarlo."
+},
+
 ];
