@@ -3938,8 +3938,8 @@ const baseDeDatos = [{
 },
 {
     id: "H197",
-    titulo: "https://iili.io/fjUsVh7.jpg",
-    poster: "https://iili.io/fMK6E9S.png",
+    titulo: "Yamitsuki Mura: Melty Limit",
+    poster: "https://iili.io/fjUsVh7.jpg",
     bg: [
         "https://iili.io/f6d83dv.png",
         "https://iili.io/f6d8Kep.png",
@@ -4000,21 +4000,21 @@ const baseDeDatos = [{
 },
 {
     id: "H200",
-    titulo: "3 Piece",
+    titulo: "Aikagi",
     poster: "https://iili.io/fNsXvbS.jpg",
     bg: [
-        "https://iili.io/fiauFob.png",
-        "https://iili.io/fiau2Du.png",
-        "https://iili.io/fiauClV.png",
-        "https://iili.io/fiauzR1.png"
+        "https://iili.io/fsLlYw7.png",
+        "https://iili.io/fsLlat9.png",
+        "https://iili.io/fsLl7uS.png",
+        "https://iili.io/fsLlV8Q.png"
     ],
     video: [
-        "https://iframe.mediadelivery.net/play/586435/cca3d438-e4a4-4e68-8abb-32577f2b3f7d"
+        "https://iframe.mediadelivery.net/play/586435/94827f22-1144-4294-8192-99cb34a3177e"
     ],
     estudio: "Desconocido",
     fecha: "2024",
-    tags: ["Fantasía", "Oral", "Ninfómanas"],
+    tags: ["Romance", "Oral", "Tetonas"],
     tipo: "censurado",
-    descripcion: "Mira, una hermosa rubia que lame manzanas de caramelo para atraer clientes en el festival de verano donde abrió una tienda para el artículo de premio más vendido."
+    descripcion: "Kazuhara se siente perdido ante los exámenes de ingreso y la graduación. Le dicen que se independice y viva solo. Intenta encontrar una habitación, pero no tiene muchos aciertos. Al verle en esa situación, su amiga de la infancia, Takanashi Shiori, le propone vivir con ella."
 },
 ];
