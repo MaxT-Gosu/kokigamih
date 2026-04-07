@@ -1378,7 +1378,7 @@ const baseDeDatos = [{
 {
     id: "H74",
     titulo: "Ore wa kanojo o shinjiteru",
-    poster: "https://iili.io/qhEKm79.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/ore-wa-kanojo-o-shinjiteru-1-1.jpg",
     bg: [
         "https://iili.io/qhEKZXt.jpg",
         "https://iili.io/qhEKsmN.jpg",
@@ -2024,7 +2024,7 @@ const baseDeDatos = [{
 {
     id: "H105",
     titulo: "Soikano Gyutto Dakishimete",
-    poster: "https://iili.io/KH0BVXp.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/soikano-gyutto-dakishimete-1-1.png",
     bg: [
         "https://iili.io/KH0Bnkb.png",
         "https://iili.io/KH0BCYu.png",
@@ -2063,7 +2063,7 @@ const baseDeDatos = [{
 {
     id: "H107",
     titulo: "Saimin Sheishidou",
-    poster: "https://iili.io/KKar7sV.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/saimin-seishidou-6-cv1.png",
     bg: [
         "https://iili.io/KKarfEb.jpg",
         "https://iili.io/KKarKCu.webp",
@@ -2087,7 +2087,7 @@ const baseDeDatos = [{
 {
     id: "H108",
     titulo: "Seika Jogakuin Koutoubu Kounin Sao Oji-San",
-    poster: "https://iili.io/KfqlMfS.png",
+    poster: "https://veohentai.com/wp-content/uploads/2024/10/Seika-Jogakuin-Koutoubu-Kounin-Sao-Oji-San-Episode-6.jpg",
     bg: [
         "https://iili.io/KfqlMfS.png",
         "https://iili.io/Kfql1Wl.png",
@@ -2111,7 +2111,7 @@ const baseDeDatos = [{
 {
     id: "H109",
     titulo: "Sakusei Byoutou",
-    poster: "https://iili.io/KqmLZqN.png",
+    poster: "https://veohentai.com/wp-content/uploads/2023/04/Sakusei-Byoutou-The-Animation-Episode-5.jpg",
     bg: [
         "https://iili.io/KqmLSTl.jpg",
         "https://iili.io/KqmLUj2.jpg",
@@ -2456,7 +2456,7 @@ const baseDeDatos = [{
 {
     id: "H125",
     titulo: "Shigokare Ecchi na Joshi Daisei to Doki x2 Love Lesson",
-    poster: "https://iili.io/KSYZkzb.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/shigokare-ecchi-na-joshi-daisei-to-doki-x2-love-lesson-1-cv1.png",
     bg: [
         "https://iili.io/K88CxRa.jpg",
         "https://iili.io/K88CzOJ.png",
@@ -2475,7 +2475,7 @@ const baseDeDatos = [{
 {
     id: "H126",
     titulo: "Shihai no Kyoudan",
-    poster: "https://iili.io/KUdvP4f.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/shihai-no-kyoudan-4-cv1.png",
     bg: [
         "https://iili.io/KUdvqHG.png",
         "https://iili.io/KUdvKSs.png",
@@ -2497,7 +2497,7 @@ const baseDeDatos = [{
 {
     id: "H127",
     titulo: "Shikiyoku INFINITE",
-    poster: "https://iili.io/Kg5rL0B.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/shikiyoku-infinite-2-cv1.png",
     bg: [
         "https://iili.io/Kg5r5KB.png",
         "https://iili.io/Kg5rYS1.png",
@@ -2538,7 +2538,7 @@ const baseDeDatos = [{
 {
     id: "H129",
     titulo: "Shikoyaka naru Toki mo Hameru",
-    poster: "https://iili.io/KPKY2pS.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/shikoyaka-naru-toki-mo-hameru-toki-mo-2-cv1.png",
     bg: [
         "https://iili.io/KPKYj9V.jpg",
         "https://iili.io/KPKYWcx.webp",
@@ -2558,7 +2558,7 @@ const baseDeDatos = [{
 {
     id: "H130",
     titulo: "H na Gishi Series",
-    poster: "https://iili.io/KLvBvP2.png",
+    poster: "https://veohentai.com/wp-content/uploads/2025/11/H-na-Gishi-Series-The-Animation-Episode-1.jpg",
     bg: [
         "https://iili.io/KLvB3hX.png",
         "https://iili.io/KLvBJpI.png",
@@ -2578,7 +2578,7 @@ const baseDeDatos = [{
 {
     id: "H131",
     titulo: "Natsu Zuma",
-    poster: "https://iili.io/KQ3ByXp.png",
+    poster: "https://veohentai.com/wp-content/uploads/2025/11/Natsu-Zuma-Episode-2.jpg",
     bg: [
         "https://iili.io/KQ3BZcQ.png",
         "https://iili.io/KQ3BsPj.png",
@@ -2598,7 +2598,7 @@ const baseDeDatos = [{
 {
     id: "H132",
     titulo: "Seikon no Aria",
-    poster: "https://iili.io/KZmOunS.png",
+    poster: "https://veohentai.com/wp-content/uploads/2025/11/Seikon-no-Aria-Episode-1.jpg",
     bg: [
         "https://iili.io/KZmO7Mg.png",
         "https://iili.io/KZmOcKJ.png",
@@ -2618,7 +2618,7 @@ const baseDeDatos = [{
 {
     id: "H133",
     titulo: "Honey Blonde 2",
-    poster: "https://iili.io/KDLqvNf.png",
+    poster: "https://veohentai.com/wp-content/uploads/2026/04/Honey-Blonde-2-Episode-4.jpg",
     bg: [
         "https://iili.io/qT2AqZu.png",
         "https://iili.io/KDLqIhQ.png",
@@ -2639,7 +2639,7 @@ const baseDeDatos = [{
 {
     id: "H134",
     titulo: "Choro Mesu Days",
-    poster: "https://iili.io/KbkUQhP.png",
+    poster: "https://veohentai.com/wp-content/uploads/2025/11/Choro-Mesu-Days-Episode-1.jpg",
     bg: [
         "https://iili.io/KbkUnI9.png",
         "https://iili.io/KbkUBm7.png",
@@ -2658,7 +2658,7 @@ const baseDeDatos = [{
 {
     id: "H135",
     titulo: "Reika wa Karei na Boku no Joou",
-    poster: "https://iili.io/KmX4Z7I.png",
+    poster: "https://tiohentai.com/uploads/portadas/864.jpg",
     bg: [
         "https://iili.io/KmX4EhB.png",
         "https://iili.io/KmX4VB1.png",
@@ -2678,7 +2678,7 @@ const baseDeDatos = [{
 {
     id: "H136",
     titulo: "Shishunki Sex",
-    poster: "https://iili.io/Ky95pYv.png",
+    poster: "https://tiohentai.com/uploads/portadas/605.jpg",
     bg: [
         "https://iili.io/Ky9RyXf.png",
         "https://iili.io/Ky959s4.png",
