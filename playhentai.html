@@ -43,8 +43,8 @@
         }
         .episode-card:active { transform: scale(0.98); }
         .ep-thumb { width: 110px; height: 62px; background: #000; border-radius: 8px; overflow: hidden; margin-right: 15px; position: relative; flex-shrink: 0; }
-        .ep-thumb img { width: 100%; height: 100%; object-fit: cover; opacity: 0.7; }
-        .ep-thumb i { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #fff; font-size: 18px; }
+        .ep-thumb img { width: 100%; height: 100%; object-fit: cover; opacity: 0.8; }
+        .ep-thumb i { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #fff; font-size: 18px; text-shadow: 0 0 10px rgba(0,0,0,0.8); }
         .ep-info { font-size: 14px; font-weight: 600; }
 
         /* RECOMENDADOS */
@@ -140,7 +140,10 @@
         document.title = item.titulo + " - Cinemax";
         document.getElementById("item-title").innerText = item.titulo;
         document.getElementById("item-desc").innerText = item.descripcion;
-        document.getElementById("item-bg").src = item.bg || item.poster;
+
+        // Si bg es un arreglo, tomamos la primera imagen para el fondo superior
+        document.getElementById("item-bg").src = Array.isArray(item.bg) ? item.bg[0] : (item.bg || item.poster);
+        
         document.getElementById("item-meta").innerHTML = `
             <span>${item.fecha}</span>
             <span>${item.estudio}</span>
@@ -149,12 +152,17 @@
 
         const list = document.getElementById("episodes-list");
         const videos = Array.isArray(item.video) ? item.video : [item.video];
+        const backgrounds = Array.isArray(item.bg) ? item.bg : [item.poster];
         
         videos.forEach((link, index) => {
+            // Lógica corregida: Toma la imagen del arreglo bg usando el resto de la división
+            // Esto hace que si hay 8 episodios y 4 fotos, el ep 5 vuelva a usar la foto 1.
+            const fotoEpisodio = backgrounds[index % backgrounds.length];
+
             list.innerHTML += `
                 <div class="episode-card" onclick="playVideo('${link}')">
                     <div class="ep-thumb">
-                        <img src="${item.poster}">
+                        <img src="${fotoEpisodio}">
                         <i class="fas fa-play"></i>
                     </div>
                     <div class="ep-info">Capítulo ${index + 1}</div>
