@@ -4446,7 +4446,7 @@ const baseDeDatos = [{
 {
     id: "H240",
     titulo: "Bitch Na In'ane-Sama",
-    poster: "https://iili.io/qK8Qm3u.png",
+    poster: "https://iili.io/qK8QzHN.png",
     bg: [
         "https://iili.io/qK8Qcl4.png",
         "https://iili.io/qK8QMb9.png",
@@ -4468,7 +4468,7 @@ const baseDeDatos = [{
 {
     id: "H241",
     titulo: "JK Bitch ni Shiborareta",
-    poster: "https://iili.io/qfJyP1I.png",
+    poster: "https://iili.io/qfJpimX.jpg",
     bg: [
         "https://iili.io/qfJpb14.png",
         "https://iili.io/qfJy3hu.png",
@@ -4488,7 +4488,7 @@ const baseDeDatos = [{
 {
     id: "H242",
     titulo: "Cleavage",
-    poster: "https://iili.io/qf3iIov.png",
+    poster: "https://iili.io/qf3iHEN.jpg",
     bg: [
         "https://iili.io/qf3ixG2.png",
         "https://iili.io/qf3iqTG.png",
@@ -4508,7 +4508,7 @@ const baseDeDatos = [{
 {
     id: "H243",
     titulo: "Inko",
-    poster: "https://iili.io/qfB89kP.png",
+    poster: "https://iili.io/qfB8T21.png",
     bg: [
         "https://iili.io/qfB87TJ.png",
         "https://iili.io/qfB80EN.png",
@@ -4529,7 +4529,7 @@ const baseDeDatos = [{
 {
     id: "H244",
     titulo: "JK Fuuzoku Gakuensai",
-    poster: "https://iili.io/qfxmTzN.png",
+    poster: "https://iili.io/qfxmMgI.png",
     bg: [
         "https://iili.io/qfxmNzG.png",
         "https://iili.io/qfxmjbs.png",
@@ -4549,7 +4549,7 @@ const baseDeDatos = [{
 {
     id: "H245",
     titulo: "JK Genkai Koubi Goui Sounyuu de Bachibachi Nikuan",
-    poster: "https://iili.io/qfzx4zx.png",
+    poster: "https://iili.io/qfzxGJn.jpg",
     bg: [
         "https://iili.io/qfzxVOG.png",
         "https://iili.io/qfzxjWl.png",
@@ -4569,7 +4569,7 @@ const baseDeDatos = [{
 {
     id: "H246",
     titulo: "Katei Kyoushi x Saimin 2",
-    poster: "https://iili.io/qfzwi3X.png",
+    poster: "https://iili.io/qfzjgFS.jpg",
     bg: [
         "https://iili.io/qfzjP9e.png",
         "https://iili.io/qfzwFov.png",
@@ -4589,7 +4589,7 @@ const baseDeDatos = [{
 {
     id: "H247",
     titulo: "Tsundere Inran Shoujo Sukumi",
-    poster: "https://iili.io/qfangse.png",
+    poster: "https://iili.io/qfan1ON.jpg",
     bg: [
         "https://iili.io/qfanVWX.png",
         "https://iili.io/qfanwgf.png",
@@ -4609,7 +4609,7 @@ const baseDeDatos = [{
 {
     id: "H248",
     titulo: "Kafun Shoujo Chuuihou",
-    poster: "https://iili.io/qfa79eS.png",
+    poster: "https://iili.io/qfa7v3P.png",
     bg: [
         "https://iili.io/qfa7hjj.jpg",
         "https://iili.io/qfa7NCQ.jpg",
@@ -4631,7 +4631,7 @@ const baseDeDatos = [{
 {
     id: "H249",
     titulo: "Kanojo ga Nekomimi ni Kigaetara",
-    poster: "https://iili.io/qflvH0v.png",
+    poster: "https://iili.io/qflvuQj.jpg",
     bg: [
         "https://iili.io/qflvcYP.png",
         "https://iili.io/qflv5EQ.png",
@@ -4650,7 +4650,7 @@ const baseDeDatos = [{
 {
     id: "H250",
     titulo: "Kanojo ga Nekomimi ni Kigaetara",
-    poster: "https://iili.io/qfVsAsR.png",
+    poster: "https://iili.io/qfVsTzJ.png",
     bg: [
         "https://iili.io/qfVsAsR.png",
         "https://iili.io/qfVs1bs.png",
@@ -4667,5 +4667,413 @@ const baseDeDatos = [{
     tags: ["Romance", "Uncensored", "Oral"],
     tipo: "sincensura",
     descripcion: "Tras ganar una apuesta decisiva, un joven descubre que su novia debe cumplir todas sus peticiones, comenzando una dinámica de juegos y sumisión inesperada."
+},
+{
+    id: "H251",
+    titulo: "Imako System",
+    poster: "https://iili.io/qfWxBrQ.jpg",
+    bg: [
+        "https://iili.io/qfWxuhg.png",
+        "https://iili.io/qfWx0vI.png",
+        "https://iili.io/qfWxVQs.png",
+        "https://iili.io/qfWxhGf.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/ca760d8a14068ffbe7c48a7844abb3e1fae95f6d425cee2e7af00b121a38c5cc/ep1.mp4",
+        "https://www.burstcloud.co/embed/d2a6c4ea2ceac61115a7150f07ad489d2d9e56be39125fbb65746b37cea326a4/ep2.mp4"
+    ],
+    estudio: "MediaBank",
+    fecha: "2020",
+    tags: ["Escolares", "Lolicons", "Ninfomanas"],
+    tipo: "censurado",
+    descripcion: "Una adaptación impactante basada en el popular manga para adultos de Midori no Ruupe, explorando situaciones provocativas y cómicas."
+},
+{
+    id: "H252",
+    titulo: "Drop Out",
+    poster: "https://iili.io/qfWL0UN.jpg",
+    bg: [
+        "https://iili.io/qfWLEJI.png",
+        "https://iili.io/qfWLMOX.png",
+        "https://iili.io/qfWLVbn.png",
+        "https://iili.io/qfWLXxs.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/2c952e3a7cd5b1e119a87e2fd8fde57957da09192a71164c7291bf489b315188/ep1.mp4",
+        "https://www.burstcloud.co/embed/b94db3f73b6489cdcba7273b0d4970b7a29cec09a8688cc7e5c2e2c4e923d719/ep2.mp4"
+    ],
+    estudio: "Edge",
+    fecha: "2020",
+    tags: ["Anal", "Bondage", "Ninfomanas"],
+    tipo: "censurado",
+    descripcion: "Reika, desertora académica, se convierte en esclava sexual de Niimi-kun para ayudarle con sus estudios, mientras enfrenta complejos celos y el descubrimiento de su propio pasado."
+},
+{
+    id: "H253",
+    titulo: "Starless",
+    poster: "https://iili.io/qfUwPlR.jpg",
+    bg: [
+        "https://iili.io/qfUwtDX.png",
+        "https://iili.io/qfUNJUl.png",
+        "https://iili.io/qfUNM5N.png",
+        "https://iili.io/qfUNTJV.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/06c13cae3304c9b24bc866630bedbd331b3dd6bc8653ef77fd75141e2d09b863/ep1.mp4",
+        "https://www.burstcloud.co/embed/435fab07a2e267e5d6b84d4bef67459d41068562a3b6fc574625039659f1bbd6/ep2.mp4",
+        "https://www.burstcloud.co/embed/c50ec6e777b19813f42396295cf345743b3a293f147c20efb280142356906b5b/ep3.mp4",
+        "https://www.burstcloud.co/embed/75cb86b671ca6df32a84d286ad56a009da6619c66161fdf076cf5725d1b70740/ep4.mp4"
+    ],
+    estudio: "MediaBank",
+    fecha: "2020",
+    tags: ["Anal", "Bondage", "Ninfomanas"],
+    tipo: "censurado",
+    descripcion: "Yukito busca trabajo como criado en una mansión, sorprendiéndose por el alto sueldo, pero enfrenta una prueba inesperada junto a Mitarai Yuuna."
+},
+{
+    id: "H254",
+    titulo: "Kansen Ball Buster",
+    poster: "https://iili.io/qfgRJ7R.png",
+    bg: [
+        "https://iili.io/qfgRKXt.png",
+        "https://iili.io/qfgRFII.png",
+        "https://iili.io/qfgRBBn.png",
+        "https://iili.io/qfgRIkl.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/759e161c5b8ad9a3d67d148e6d1c57b6b56d33461312a5d9513261752057cf17/ep1.mp4"
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Anal", "Bondage", "Ninfomanas"],
+    tipo: "censurado",
+    descripcion: "Basado en el juego erótico de Speed, una historia cargada de intensidad y situaciones extremas."
+},
+{
+    id: "H255",
+    titulo: "Kanojo X Kanojo X Kanojo",
+    poster: "https://iili.io/qfrP3mu.jpg",
+    bg: [
+        "https://iili.io/qfrPorB.png",
+        "https://iili.io/qfrPTkF.png",
+        "https://iili.io/qfrPGkX.png",
+        "https://iili.io/qfrPMpn.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/71f53f063806ec2b332238e766f5784247cef9a98338817f2f37ab879cf93676/EP1.mp4",
+        "https://www.burstcloud.co/embed/bf2f99aaf622d7391565ad80e35db87e801d39989a55c04984e93a0662dc42b0/ep2.mp4",
+        "https://www.burstcloud.co/embed/289b835d9bf35c012fec5511bed645619491973ae97f740fb133f3c6c2ff55ec/ep3.mp4"
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Harem", "Romance", "Comedia"],
+    tipo: "censurado",
+    descripcion: "Tres hermanas con personalidades distintas generan situaciones románticas y divertidas."
+},
+{
+    id: "H256",
+    titulo: "Kaede to Suzu",
+    poster: "https://iili.io/qfPOgmx.jpg",
+    bg: [
+        "https://iili.io/qfPOPLB.png",
+        "https://iili.io/qfPOL11.png",
+        "https://iili.io/qfPOD7a.png",
+        "https://iili.io/qfPObkJ.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/278d7567fe7a12d5701298837903a3552514605fd155918f85d764c29a6bee83/ep1.mp4",
+        "https://www.burstcloud.co/embed/cd99d9db4a7f02b5986c1b69ab9e6a75c0a23a2cb8e622cfa1256ebcd1da6e6b/ep2.mp4",
+        "https://www.burstcloud.co/embed/d4156ad7ada0d9141e0a20b472f4a8ecff50142c2c125561304ee85d3cb95085/ep3.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2022",
+    tags: ["Corridas", "Maid", "Romance"],
+    tipo: "censurado",
+    descripcion: "Una comedia romántica con gemelas idénticas y situaciones divertidas."
+},
+{
+    id: "H257",
+    titulo: "Stretta",
+    poster: "https://iili.io/qfLO7Gp.jpg",
+    bg: [
+        "https://iili.io/qfLOlat.png",
+        "https://iili.io/qfLOMwG.png",
+        "https://iili.io/qfLOjP2.png",
+        "https://iili.io/qfLOeS9.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/72fe5611f9c23fff79e7ff39dfffdf688fc17c5291c8caa5f0a2d4818635207c/ep1.mp4",
+        "https://www.burstcloud.co/embed/ed9040882abdefa3a3dc20ddf299804e94abd8c357a84dd4b5c9f5eda1371158/ep2.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2020",
+    tags: ["Corridas", "Anal", "Escolares"],
+    tipo: "censurado",
+    descripcion: "Ruma es popular, atractiva y seductora; busca encuentros sexuales con compañeros en cualquier momento."
+},
+{
+    id: "H258",
+    titulo: "Demon Busters Ecchi na Ecchi na Demon Taiji",
+    poster: "https://iili.io/qfQyBta.jpg",
+    bg: [
+        "https://iili.io/qfQyoMv.png",
+        "https://iili.io/qfQyTcN.png",
+        "https://iili.io/qfQyR9t.png",
+        "https://iili.io/qfQycoG.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/4350508d3d73bbff2471752655aff60d0e87b1028405bb25ca9d816a60a8b8c1/ep1.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2020",
+    tags: ["Corridas", "Anal", "Tentaculos"],
+    tipo: "censurado",
+    descripcion: "Kou es miembro del comité de moral pública de Moriyaji Gakuen, junto con su amiga Ai y su kouhai Karen."
+},
+{
+    id: "H259",
+    titulo: "Hishoka Drop",
+    poster: "https://iili.io/qfZ1GHv.jpg",
+    bg: [
+        "https://iili.io/qfZ1VNp.png",
+        "https://iili.io/qfZ1hxI.png",
+        "https://iili.io/qfZ1jVt.png",
+        "https://iili.io/qfZ1els.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/df576464ef848147ecd12ed27d389cad43f5ed0c5e5c096b594c19787cf822af/ep1.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2020",
+    tags: ["Corridas", "Anal", "Tentaculos"],
+    tipo: "censurado",
+    descripcion: "Un joven ayudante se encuentra rodeado de señoras de la oficina y termina envuelto en situaciones comprometedoras."
+},
+{
+    id: "H260",
+    titulo: "Kanojo ga Yatsu ni Idakareta Hi",
+    poster: "https://iili.io/qqdw7kJ.png",
+    bg: [
+        "https://iili.io/qqdwlXp.png",
+        "https://iili.io/qqdwEBI.png",
+        "https://iili.io/qqdw0LN.png",
+        "https://iili.io/qqdwcIR.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/0e174412507b700adc767fb26295d9bb960eebefced40b1066ed1b7e2cf6f344/EP1.mp4",
+        "https://www.burstcloud.co/embed/bff81c7304c685d5f7044a8db72098aa248a03aef091353f2a6f31c85bc29da2/ep2.mp4",
+        "https://www.burstcloud.co/embed/a02f7ca6846a2733a70009a2b821fd90b4505ef62b27af4375b490161d39fd96/ep3.mp4",
+        "https://www.burstcloud.co/embed/cbea10b9a52280e487ac7d5d769cdebcac4d813335b91655b250160e95289dc3/ep4.mp4"
+    ],
+    estudio: "nur",
+    fecha: "2020",
+    tags: ["Netorare", "Anal", "Violacion"],
+    tipo: "censurado",
+    descripcion: "Dos compañeros de trabajo que se conocieron y se enamoraron en el trabajo acaban convirtiéndose en recién casados y comparten una velada romántica."
+},
+{
+    id: "H261",
+    titulo: "kanojo face",
+    poster: "https://iili.io/qq2ULF4.jpg",
+    bg: [
+        "https://iili.io/qq2UQcl.png",
+        "https://iili.io/qq2UD9S.png",
+        "https://iili.io/qq2Upte.png",
+        "https://iili.io/qq2gJPj.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/d24888a82d6761c1a47a8955b7699cf93c20c3eb3c2fa0ccaf864f1b4c333eb0/ep1.mp4",
+        "https://www.burstcloud.co/embed/bca6fe6e025afe40fce2ebc32f3b9f264b5daf642f19a55fccc1b32e575ebdd5/ep2.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2025",
+    tags: ["Netorare", "Anal", "Violacion"],
+    tipo: "censurado",
+    descripcion: "Es un anime para adultos que explora relaciones íntimas. El episodio 1 presenta a Konishi y Sanae, cuyo romance estancado se complica tras un hallazgo inesperado."
+},
+{
+    id: "H262",
+    titulo: "Kagachi-sama Onagusame",
+    poster: "https://iili.io/qq3z9vs.jpg",
+    bg: [
+        "https://iili.io/qq3zKn2.png",
+        "https://iili.io/qq3z2j4.png",
+        "https://iili.io/qq3zduf.png",
+        "https://iili.io/qq3zq67.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/46e8b3edf4ac0160b213f4bfe98a89f88c21569d29ac89a2e26af38b5fe2dcda/EP1.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2020",
+    tags: ["Netorare", "Trio", "Violacion"],
+    tipo: "censurado",
+    descripcion: "Takahiko regresa a su pueblo natal junto con su esposa Manami. Allí se reencuentra con Ayaka, su primer amor, que se ha casado con su padre. A pesar de que ahora es su madrastra, Takahiko intenta hacer suya a Ayaka."
+},
+{
+    id: "H263",
+    titulo: "Kakushi Dere",
+    poster: "https://iili.io/qqK64wl.jpg",
+    bg: [
+        "https://iili.io/qqK6LP9.png",
+        "https://iili.io/qqK6tcu.png",
+        "https://iili.io/qqK6pAx.png",
+        "https://iili.io/qqKPdMP.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/b1670f286fe17d0442cb058c9df79024f18e554521357fd04f631626758b305c/EP1.mp4",
+        "https://www.burstcloud.co/embed/3820bc7e3df2a0fae1312b80908aaf778110d16d6f9d00ff378d0fe9a7dd6a9f/EP2.mp4",
+        "https://www.burstcloud.co/embed/316e891fd8ce5cce033d577d7d8a1b121cfefe059cd4ebe70d1b7c0ab0eb0633/EP3.mp4"
+    ],
+    estudio: "Pashmina",
+    fecha: "2020",
+    tags: ["Escolares", "Uncensored", "Incesto"],
+    tipo: "sincensura",
+    descripcion: "Nonoka se desvive por hacer una confesión por escrito al hermano mayor de uno de sus compañeros de clase, pero éste ni siquiera lee las cartas."
+},
+{
+    id: "H264",
+    titulo: "Kaa-chan no Tomodachi",
+    poster: "https://iili.io/qqoG0sj.png",
+    bg: [
+        "https://iili.io/qqoGG0Q.png",
+        "https://iili.io/qqoGMgV.png",
+        "https://iili.io/qqoGWdB.png",
+        "https://iili.io/qqoGhe1.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/82e919e04bd6f13b32e9f64607a40216546fd7a484f3b3bba5b921d4d9bb92e2/ep1.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2022",
+    tags: ["Corridas", "Maid", "Romance"],
+    tipo: "censurado",
+    descripcion: "La amiga de mi madre vive en la casa de al lado, y siempre ha estado ahí para ayudar a cuidar de mí."
+},
+{
+    id: "H265",
+    titulo: "Kateikyoushi no Onee–san",
+    poster: "https://iili.io/qqlVcMJ.jpg",
+    bg: [
+        "https://iili.io/qqlVEap.png",
+        "https://iili.io/qqlV1FR.png",
+        "https://iili.io/qqlVV9I.png",
+        "https://iili.io/qqlVXwX.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/9a5efa14e16468f6e73c373ecf187cec7271d07de547691779efee33a126fb9d/ep1.mp4",
+        "https://www.burstcloud.co/embed/9087d914bdd73394999e80fcfe2ffd8ccfbb5e33ccaed97db88b221a1ae7c88a/ep2.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2022",
+    tags: ["Corridas", "Tetonas", "Harem"],
+    tipo: "censurado",
+    descripcion: "Touya pasa sus vacaciones de verano con 4 tutores a domicilio. Sin embargo, sus lecciones no se limitan a aprender de los libros..."
+},
+{
+    id: "H266",
+    titulo: "Kemonokko Tsuushin",
+    poster: "https://iili.io/qq0Xjlj.jpg",
+    bg: [
+        "https://iili.io/qq0XvDP.png",
+        "https://iili.io/qq0XLRp.png",
+        "https://iili.io/qq0Xyfs.png",
+        "https://iili.io/qq0hFbS.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/d904b94fb73dfb1b4ed03920baddcbc04a3b2178c5b8d8bfb9bdeda030f57555/ep1.mp4",
+        "https://www.burstcloud.co/embed/7f7451c4459ba40daf9cf884eac91d892ed5f1c0a70152fbeeba6c82d7cc8985/ep2.mp4",
+        "https://www.burstcloud.co/embed/622f5a28e8b44b9f1d3162f710051e7cafad7ed32a443277d04043fd383e2e7d/ep3.mp4",
+        "https://www.burstcloud.co/embed/e2afc9f059a87f06b7abad9a7bc0f269fb1e7c5fdf893f727ac3a4cdb7070f88/ep4.mp4"
+    ],
+    estudio: "Rojiura Jack",
+    fecha: "2021",
+    tags: ["Oral", "Tetonas", "Harem"],
+    tipo: "censurado",
+    descripcion: "El protagonista está preocupado por su baja estatura, pero Belle le da leche casera, la ayuda a ordeñar y hace esto y aquello a cambio..."
+},
+{
+    id: "H267",
+    titulo: "Kimi wa Yasashiku Netorareru",
+    poster: "https://iili.io/qq1jT0u.jpg",
+    bg: [
+        "https://iili.io/qq1hbNp.jpg",
+        "https://iili.io/qq1j9Vt.jpg",
+        "https://iili.io/qq1hyxI.png",
+        "https://iili.io/qq1hmDN.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/43d21de0c5fd4ac1aace2430b6bfa04f9d0cf882ac93e13bf95aaab0a23883ff/ep1.mp4",
+        "https://www.burstcloud.co/embed/dd6a5c1ea4509772a1c657bcd0e92e69c3d36be2fd486e26d35a23524f233671/ep2.mp4",
+        "https://www.burstcloud.co/embed/57cd8f3a29b33e5364475b8f53741bf2913294ad578433c022c279e841f02edd/ep3.mp4",
+        "https://www.burstcloud.co/embed/1909904c5f4bf1aedfc79c8370c457473f4a7c066ec86640d59c34496ed3f59d/ep4.mp4",
+        "https://www.burstcloud.co/embed/ef0852694d572f9b29bce0a6c61739cabed093d1e8ef8c4d7bf0f8022b5fc061/ep5.mp4",
+        "https://www.burstcloud.co/embed/0c92ea068278c55feed1052d40a92a5913b8b8fd2ca4f560c8fc3f1e0ce20ca0/ep6.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2024",
+    tags: ["Oral", "Tetonas", "Harem"],
+    tipo: "censurado",
+    descripcion: "Nanoka anhela el futuro mientras Kaito la llama. Al abrir la puerta, ve a Rio excitado. Con un disfraz, Nanoka experimenta placer junto a ellos."
+},
+{
+    id: "H268",
+    titulo: "Kiriya Hakushaku Ke no Roku Shimai",
+    poster: "https://iili.io/qqE13Pf.jpg",
+    bg: [
+        "https://iili.io/qqE1fcl.png",
+        "https://iili.io/qqE1C9S.png",
+        "https://iili.io/qqE15cQ.png",
+        "https://iili.io/qqE1aHB.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/604e79a2a83156b86c67a74f10a20b8052da8034d6096973c2ccfeecb2c54e0b/EP1.mp4",
+        "https://www.burstcloud.co/embed/90e7d4421f63db09c36ede55b5009c619249cfecd5652453ba20417783f3c807/EP2.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2020",
+    tags: ["Incesto", "Ninfomanas", "Harem"],
+    tipo: "censurado",
+    descripcion: "El ex reportero Tokitsu Daisuke llega a una sospechosa mansión de estilo occidental construida en una colina que domina un pueblo de provincias."
+},
+{
+    id: "H269",
+    titulo: "Kimekoi! Takane no Hana",
+    poster: "https://iili.io/qqGJKqQ.jpg",
+    bg: [
+        "https://iili.io/qqGJCdP.png",
+        "https://iili.io/qqGJn71.png",
+        "https://iili.io/qqGJokF.png",
+        "https://iili.io/qqGJRBR.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/efb499aa994ca61a3593b222e3e5e27baeb3131a9ef0be270533fa337aae8376/EP1.mp4",
+        "https://www.burstcloud.co/embed/f54652b58012e74c5a45235ce76f9c3a26ea4cd970a95b512a4223e9bbff9255/EP2.mp4"
+    ],
+    estudio: "Mary Jane",
+    fecha: "2020",
+    tags: ["Incesto", "Ninfomanas", "Escolares"],
+    tipo: "censurado",
+    descripcion: "Un chico enamorado busca una droga para conquistar a la chica más bella, pero enfrenta situaciones inesperadas con su amiga científica."
+},
+{
+    id: "H270",
+    titulo: "Kimi ga suki",
+    poster: "https://iili.io/qqW9vp9.png",
+    bg: [
+        "https://iili.io/qqW9SIe.png",
+        "https://iili.io/qqW9Uhu.png",
+        "https://iili.io/qqW94Bj.png",
+        "https://iili.io/qqW96Ex.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/8a173e2ef7a0e7bc0a61c0b979b2a93391c030eb98bacce2052164546311f7bf/EP1.mp4",
+        "https://www.burstcloud.co/embed/d1b55f0a55596d793e0e7658f3988df7761281de785d1ba3c6338a65850efacd/EP2.mp4"
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2020",
+    tags: ["Vanilla", "Romance", "Escolares"],
+    tipo: "censurado",
+    descripcion: "Eran sus últimas vacaciones de verano... mientras todo llegaba a su fin y los fuegos artificiales se apagaban, ella decidió que finalmente iba a dar ese último paso..."
 },
 ];
