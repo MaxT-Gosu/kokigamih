@@ -6184,5 +6184,30 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Cannone es un violín poderoso; Ceillia lo sella. Akio lo descubre en la academia, mientras otra chica busca robarlo."
 },
+{
+    id: "H326",
+    titulo: "Nikuyome Takayanagi Ke no Hitobito",
+    poster: "https://iili.io/BapSJGs.jpg",
+    bg: [
+        "https://iili.io/BapUxON.png",
+        "https://iili.io/BapSmUx.png",
+        "https://iili.io/BapUzbI.png",
+        "https://iili.io/BapU6rJ.png",
+		"https://iili.io/BapgMpp.png",
+		"https://iili.io/BapgXjI.png",
+		"https://iili.io/BapgQ3b.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/230c497904af07778e241727a64971c113dd4dfb7a3288ca060ea1d07fb8c517/ep1.mp4",
+        "https://www.burstcloud.co/embed/5cc08c47daa35a3bc30dc406c0c9cfcc8999fab13fb6a6775422f6b634915955/ep2.mp4",
+		"https://www.burstcloud.co/embed/5cc08c47daa35a3bc30dc406c0c9cfcc8999fab13fb6a6775422f6b634915955/ep2.mp4",
+		"https://www.burstcloud.co/embed/5cc08c47daa35a3bc30dc406c0c9cfcc8999fab13fb6a6775422f6b634915955/ep2.mp4"
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Harem", "Anal", "Sin sensura"],
+    tipo: "sincensura",
+    descripcion: "Mitsuko, ama de casa sencilla, se muda con la familia de su esposo y, al hacer un favor, se encuentra atrapada en un mundo de lujuria con su suegro."
+},
 
 ];
