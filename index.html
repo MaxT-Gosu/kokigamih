@@ -3,222 +3,221 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kokigamih - Hentai</title>
+    <title>Kokigamih - Premium Streaming</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
         :root { 
             --bg-color: #141414; 
             --bg-color-alt: #1a1a1a; 
-            --accent-color: #E50914; 
+            --accent-color: #ff0055; /* Un tono rosado/rojo para Kokigamih */
             --text-color: #ffffff;
             --text-color-sec: #b3b3b3; 
             --skeleton-bg: #222222; 
         }
         
         * { margin:0; padding:0; box-sizing:border-box; outline: none; }
-        body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background: var(--bg-color); color: var(--text-color); overflow-x:hidden; }
+        body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background: var(--bg-color); color: var(--text-color); overflow-x:hidden; -webkit-tap-highlight-color: transparent; }
         
+        /* Animación Skeleton */
         @keyframes shimmer { 0% { background-position: -200% 0; } 100% { background-position: 200% 0; } }
         .skeleton { background: linear-gradient(90deg, var(--bg-color-alt) 25%, var(--skeleton-bg) 50%, var(--bg-color-alt) 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: 4px; }
         
+        .container { width:100%; padding-bottom:100px; }
+        
         header { 
-            display: flex; justify-content: center; align-items: center; 
-            padding: 15px 20px; background: rgba(20, 20, 20, 0.9); 
-            position: fixed; top: 0; width: 100%; z-index: 100; backdrop-filter: blur(10px);
-            border-bottom: 1px solid rgba(255,255,255,0.05);
+            display: flex; justify-content: space-between; align-items: center; 
+            padding: 15px 20px; background: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%, transparent 100%); 
+            position: fixed; width: 100%; z-index: 100;
         }
-        header h1 { font-size: 26px; color: var(--accent-color); font-weight: 900; text-transform: uppercase; }
+        header h1 { font-size: 28px; color: var(--accent-color); font-weight: 900; letter-spacing: -1px; text-transform: uppercase; font-family: 'Arial Black', sans-serif;}
 
-        .container { width:100%; padding-bottom:100px; padding-top: 60px; } 
-
-        /* HERO CAROUSEL */
-        .hero-carousel { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; width: 100%; height: 50vh; background: #000; }
-        .hero-carousel::-webkit-scrollbar { display: none; }
-        .hero-item { flex: 0 0 100%; scroll-snap-align: start; position: relative; height: 100%; }
-        .hero-item img { width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 1s ease; }
-        .hero-item::after { content: ''; position: absolute; bottom: 0; left: 0; width: 100%; height: 80%; background: linear-gradient(to top, var(--bg-color), transparent); }
-        .hero-content { position: absolute; bottom: 30px; width: 100%; padding: 0 20px; z-index: 5; }
-        .hero-content h2 { font-size: 22px; margin-bottom: 10px; text-shadow: 0 2px 4px rgba(0,0,0,0.8); }
-        .hero-content button { background: var(--accent-color); color: #fff; border: none; padding: 10px 20px; border-radius: 4px; font-weight: bold; cursor: pointer; }
+        /* HERO ESTILO CINEMAX */
+        .hero { 
+            position: relative; width: 100%; height: 70vh; overflow: hidden; background: #000; 
+        }
+        .hero img { 
+            width: 100%; height: 100%; object-fit: cover; object-position: top; opacity: 0; transition: opacity 1.2s ease-in-out; 
+        }
+        .hero::after { 
+            content: ''; position: absolute; inset: 0;
+            background: linear-gradient(to top, var(--bg-color) 2%, transparent 40%),
+                        linear-gradient(to right, rgba(20,20,20,0.7) 0%, transparent 60%);
+        }
+        .hero-content { position: absolute; bottom: 10%; left: 5%; width: 90%; z-index: 10; }
+        .hero-content h2 { font-size: clamp(24px, 7vw, 42px); font-weight: 900; margin-bottom: 15px; line-height: 1.1; text-shadow: 2px 2px 10px rgba(0,0,0,0.8); }
+        .hero-btns button { 
+            background: var(--accent-color); color: #fff; border: none;
+            padding: 12px 24px; font-size: 15px; font-weight: 700; 
+            border-radius: 4px; cursor: pointer; display: flex; align-items: center; gap: 10px;
+        }
 
         /* SECCIONES */
-        .section { margin: 25px 0; padding-left: 15px; }
-        .section h2 { font-size: 17px; margin-bottom: 12px; font-weight: 700; }
-        .scroll-row { display: flex; overflow-x: auto; gap: 12px; padding-bottom: 12px; scrollbar-width: none; }
+        #sections-container { margin-top: -20px; position: relative; z-index: 20; }
+        .section { margin-bottom: 25px; padding-left: 15px; }
+        .section h2 { font-size: 17px; margin-bottom: 12px; font-weight: 700; color: var(--text-color); }
+        
+        .scroll-row { display: flex; overflow-x: auto; gap: 12px; padding-bottom: 12px; scrollbar-width: none; padding-right: 20px; }
         .scroll-row::-webkit-scrollbar { display: none; }
-
-        .card-item { flex-shrink: 0; cursor: pointer; transition: transform 0.2s; }
+        
+        .card-item { flex-shrink: 0; cursor: pointer; transition: transform 0.2s; position: relative; }
         .card-item:active { transform: scale(0.95); }
-        .card-title { font-size: 11px; margin-top: 5px; text-align: center; color: var(--text-color-sec); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding: 0 5px; }
+        .img-wrapper { width: 100%; border-radius: 4px; overflow: hidden; background: var(--skeleton-bg); border: 1px solid rgba(255,255,255,0.05); }
+        .img-wrapper img { width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.5s; }
+        
+        /* Tipos de fila */
+        .row-h .card-item { width: 220px; } 
+        .row-h .img-wrapper { aspect-ratio: 16/9; }
+        .row-v .card-item { width: 135px; } 
+        .row-v .img-wrapper { aspect-ratio: 2/3; }
 
-        /* BUSCADOR MODAL */
+        /* BUSCADOR */
         #modal-busqueda { display: none; position: fixed; inset: 0; background: rgba(20, 20, 20, 0.98); z-index: 2000; padding: 20px; backdrop-filter: blur(15px); overflow-y: auto; }
         .search-box-modal { background: rgba(255,255,255,0.1); border-radius: 4px; display: flex; align-items: center; padding: 12px 15px; margin-top: 60px; }
-        .search-box-modal input { background: transparent; border: none; color: #fff; width: 100%; font-size: 16px; outline: none; }
+        .search-box-modal input { background: transparent; border: none; color: #fff; width: 100%; font-size: 16px; }
         #resultados-busqueda { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 20px; }
         .res-item { background: var(--bg-color-alt); border-radius: 4px; overflow: hidden; aspect-ratio: 2/3; position: relative; }
         .res-item img { width: 100%; height: 100%; object-fit: cover; }
 
-        /* MENU INFERIOR */
-        .bottom-menu { position: fixed; bottom: 0; width: 100%; background: #000; display: flex; justify-content: space-around; padding: 10px 0; border-top: 1px solid #333; z-index: 1000; }
-        .menu-item { color: #888; text-decoration: none; font-size: 10px; display: flex; flex-direction: column; align-items: center; border:none; background:none; }
+        /* MENÚ INFERIOR PREMIUM */
+        .bottom-menu { position: fixed; bottom: 0; left: 0; width: 100%; background: rgba(0, 0, 0, 0.95); backdrop-filter: blur(20px); display: flex; justify-content: space-around; padding: 12px 0; z-index: 1000; border-top: 1px solid rgba(255, 255, 255, 0.05); }
+        .menu-item { display: flex; flex-direction: column; align-items: center; color: var(--text-color-sec); text-decoration: none; font-size: 10px; background: none; border: none; cursor: pointer; width: 25%; font-weight: 500;}
+        .menu-item i { font-size: 20px; margin-bottom: 5px; }
         .menu-item.active { color: var(--accent-color); }
-        .menu-item i { font-size: 20px; margin-bottom: 3px; }
     </style>
 </head>
 <body>
 
-    <header><h1>Kokigamih</h1></header>
+<div class="container">
+    <header><h1>KOKIGAMIH</h1></header>
 
     <div id="modal-busqueda">
         <button onclick="cerrarBuscador()" style="position:absolute; top:20px; right:20px; color:#fff; background:none; border:none; font-size:24px;">&times;</button>
         <div class="search-box-modal">
-            <i class="fas fa-search" style="margin-right: 15px;"></i>
-            <input type="text" id="input-buscador" placeholder="Buscar...">
+            <i class="fas fa-search" style="margin-right: 12px; color: var(--text-color-sec);"></i>
+            <input type="text" id="input-buscador" placeholder="Buscar en Kokigamih...">
         </div>
         <div id="resultados-busqueda"></div>
     </div>
+    
+    <div class="hero skeleton" id="hero-box">
+        <img id="hero-img" src="" alt="">
+        <div class="hero-content">
+            <h2 id="hero-title">Cargando...</h2>
+            <div class="hero-btns">
+                <button id="hero-btn-play"><i class="fas fa-play"></i> VER AHORA</button>
+            </div>
+        </div>
+    </div>
 
-    <div class="container">
-        <div class="hero-carousel" id="hero-carousel"></div>
-
+    <div id="sections-container">
         <div class="section">
-            <h2>Agregados recientes</h2>
-            <div class="scroll-row" id="row-recientes"></div>
+            <h2>Agregados recientemente</h2>
+            <div class="scroll-row row-h" id="row-recientes"></div>
         </div>
 
         <div class="section">
             <h2>Hentais más vistos</h2>
-            <div class="scroll-row" id="row-mas-vistos"></div>
+            <div class="scroll-row row-v" id="row-mas-vistos"></div>
         </div>
 
         <div class="section">
             <h2>Hentais sin censura</h2>
-            <div class="scroll-row" id="row-sincensura"></div>
+            <div class="scroll-row row-v" id="row-sincensura"></div>
         </div>
     </div>
+</div>
 
-    <nav class="bottom-menu">
-        <a href="index.html" class="menu-item active"><i class="fas fa-home"></i><span>Inicio</span></a>
-        <a href="hentais.html" class="menu-item"><i class="fas fa-layer-group"></i><span>Hentai</span></a>
-        <a href="sincensura.html" class="menu-item"><i class="fas fa-eye-slash"></i><span>Sin Censura</span></a>
-        <button onclick="abrirBuscador()" class="menu-item"><i class="fas fa-search"></i><span>Buscar</span></button>
-    </nav>
+<nav class="bottom-menu">
+    <a href="index.html" class="menu-item active"><i class="fas fa-home"></i><span>Inicio</span></a>
+    <a href="hentais.html" class="menu-item"><i class="fas fa-layer-group"></i><span>Hentai</span></a>
+    <a href="sincensura.html" class="menu-item"><i class="fas fa-eye-slash"></i><span>Sin Censura</span></a>
+    <button class="menu-item" onclick="abrirBuscador()"><i class="fas fa-search"></i><span>Buscar</span></button>
+</nav>
 
-    <script src="hentaibase.js"></script>
-    <script>
-        document.addEventListener("DOMContentLoaded", () => {
-            if (typeof baseDeDatos !== 'undefined') {
-                window.db = baseDeDatos;
-                cargarInicio();
-            } else {
-                setTimeout(() => {
-                    if (typeof baseDeDatos !== 'undefined') {
-                        window.db = baseDeDatos;
-                        cargarInicio();
-                    }
-                }, 500);
-            }
+<script src="hentaibase.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        if (typeof baseDeDatos !== 'undefined') {
+            window.db = baseDeDatos;
+            cargarApp();
+        }
+    });
+
+    function cargarApp() {
+        // --- LOGICA HERO ---
+        const itemHero = window.db[Math.floor(Math.random() * window.db.length)];
+        const imgHero = document.getElementById("hero-img");
+        const boxHero = document.getElementById("hero-box");
+        
+        imgHero.src = (Array.isArray(itemHero.bg) ? itemHero.bg[0] : itemHero.bg) || itemHero.poster;
+        document.getElementById("hero-title").innerText = itemHero.titulo;
+        document.getElementById("hero-btn-play").onclick = () => abrirReproductor(itemHero.id);
+        
+        imgHero.onload = () => {
+            imgHero.style.opacity = '0.7';
+            boxHero.classList.remove('skeleton');
+        };
+
+        // --- FILA RECIENTES (Horizontal) ---
+        const rowRecientes = document.getElementById('row-recientes');
+        [...window.db].reverse().slice(0, 8).forEach(item => {
+            const horizontalImg = (Array.isArray(item.bg) ? item.bg[1] || item.bg[0] : item.bg) || item.poster;
+            rowRecientes.appendChild(crearCard(item, horizontalImg, true));
         });
 
-        function cargarInicio() {
-            const heroCarousel = document.getElementById('hero-carousel');
-            const heroItems = [...window.db].sort(() => 0.5 - Math.random()).slice(0, 5);
-            
-            heroItems.forEach(item => {
-                const slide = document.createElement('div');
-                slide.className = 'hero-item';
-                const heroImg = (Array.isArray(item.bg) ? item.bg[0] : item.bg) || item.poster;
-                slide.innerHTML = `
-                    <img src="${heroImg}" onload="this.style.opacity='0.6'" loading="lazy">
-                    <div class="hero-content">
-                        <h2>${item.titulo}</h2>
-                        <button onclick="abrirReproductor('${item.id}')">VER AHORA</button>
-                    </div>
-                `;
-                heroCarousel.appendChild(slide);
+        // --- FILA MAS VISTOS (Vertical) ---
+        const rowMasVistos = document.getElementById('row-mas-vistos');
+        [...window.db].sort(() => 0.5 - Math.random()).slice(0, 8).forEach(item => {
+            rowMasVistos.appendChild(crearCard(item, item.poster, false));
+        });
+
+        // --- FILA SIN CENSURA (Vertical) ---
+        const rowSinCensura = document.getElementById('row-sincensura');
+        window.db.filter(item => item.tipo === 'sincensura').slice(0, 8).forEach(item => {
+            rowSinCensura.appendChild(crearCard(item, item.poster, false));
+        });
+
+        configurarBuscador();
+    }
+
+    // Función unificada para crear cards con el nuevo diseño
+    function crearCard(item, imgUrl, esHorizontal) {
+        const div = document.createElement('div');
+        div.className = 'card-item';
+        div.onclick = () => abrirReproductor(item.id);
+        
+        div.innerHTML = `
+            <div class="img-wrapper skeleton">
+                <img src="${imgUrl}" onload="this.style.opacity='1'; this.parentElement.classList.remove('skeleton')" loading="lazy">
+            </div>
+        `;
+        return div;
+    }
+
+    function abrirReproductor(id) {
+        localStorage.setItem('hentai_id', id); // Mantiene tu lógica de comunicación
+        window.location.href = "playhentai.html";
+    }
+
+    function abrirBuscador() { document.getElementById('modal-busqueda').style.display = 'block'; }
+    function cerrarBuscador() { document.getElementById('modal-busqueda').style.display = 'none'; }
+
+    function configurarBuscador() {
+        const buscador = document.getElementById('input-buscador');
+        buscador.addEventListener('input', (e) => {
+            const texto = e.target.value.toLowerCase().trim();
+            const resultadosDiv = document.getElementById('resultados-busqueda');
+            resultadosDiv.innerHTML = "";
+            if (texto.length < 2) return;
+            window.db.filter(item => item.titulo.toLowerCase().includes(texto)).forEach(item => {
+                const resItem = document.createElement('div');
+                resItem.className = 'res-item';
+                resItem.onclick = () => abrirReproductor(item.id);
+                resItem.innerHTML = `<img src="${item.poster}">`;
+                resultadosDiv.appendChild(resItem);
             });
-
-            // 1. RECIENTES (USA BG - HORIZONTAL)
-            const rowRecientes = document.getElementById('row-recientes');
-            const recientes = [...window.db].reverse().slice(0, 8);
-            recientes.forEach(item => {
-                const card = document.createElement('div');
-                card.className = 'card-item';
-                card.style.width = '180px';
-                card.onclick = () => abrirReproductor(item.id);
-                const horizontalImg = (Array.isArray(item.bg) ? item.bg[1] || item.bg[0] : item.bg) || item.poster;
-                card.innerHTML = `
-                    <div style="width:100%; aspect-ratio:16/9; overflow:hidden; border-radius:4px;" class="skeleton">
-                        <img src="${horizontalImg}" onload="this.style.opacity='1'; this.parentElement.classList.remove('skeleton')" style="width:100%; height:100%; object-fit:cover; opacity:0;">
-                    </div>
-                    <div class="card-title">${item.titulo}</div>
-                `;
-                rowRecientes.appendChild(card);
-            });
-
-            // 2. MÁS VISTOS (USA POSTER - VERTICAL)
-            const rowMasVistos = document.getElementById('row-mas-vistos');
-            const masVistos = [...window.db].sort(() => 0.5 - Math.random()).slice(0, 8);
-            masVistos.forEach(item => {
-                const card = document.createElement('div');
-                card.className = 'card-item';
-                card.style.width = '110px'; // Tamaño vertical
-                card.onclick = () => abrirReproductor(item.id);
-                card.innerHTML = `
-                    <div style="width:100%; aspect-ratio:2/3; overflow:hidden; border-radius:4px;" class="skeleton">
-                        <img src="${item.poster}" onload="this.style.opacity='1'; this.parentElement.classList.remove('skeleton')" style="width:100%; height:100%; object-fit:cover; opacity:0;">
-                    </div>
-                    <div class="card-title">${item.titulo}</div>
-                `;
-                rowMasVistos.appendChild(card);
-            });
-
-            // 3. SIN CENSURA (USA POSTER - VERTICAL)
-            const rowSincensura = document.getElementById('row-sincensura');
-            const sinCensura = window.db.filter(item => item.tipo === 'sincensura').slice(0, 8);
-            sinCensura.forEach(item => {
-                const card = document.createElement('div');
-                card.className = 'card-item';
-                card.style.width = '110px'; // Tamaño vertical
-                card.onclick = () => abrirReproductor(item.id);
-                card.innerHTML = `
-                    <div style="width:100%; aspect-ratio:2/3; overflow:hidden; border-radius:4px;" class="skeleton">
-                        <img src="${item.poster}" onload="this.style.opacity='1'; this.parentElement.classList.remove('skeleton')" style="width:100%; height:100%; object-fit:cover; opacity:0;">
-                    </div>
-                    <div class="card-title">${item.titulo}</div>
-                `;
-                rowSincensura.appendChild(card);
-            });
-
-            configurarBuscador();
-        }
-
-        function abrirReproductor(id) {
-            localStorage.setItem('hentai_id', id);
-            window.location.href = "playhentai.html";
-        }
-
-        function abrirBuscador() { document.getElementById('modal-busqueda').style.display = 'block'; }
-        function cerrarBuscador() { document.getElementById('modal-busqueda').style.display = 'none'; }
-
-        function configurarBuscador() {
-            const buscador = document.getElementById('input-buscador');
-            buscador.addEventListener('input', (e) => {
-                const texto = e.target.value.toLowerCase().trim();
-                const resultadosDiv = document.getElementById('resultados-busqueda');
-                resultadosDiv.innerHTML = "";
-                if (texto.length < 2) return;
-                const filtrados = window.db.filter(item => item.titulo.toLowerCase().includes(texto));
-                filtrados.forEach(item => {
-                    const div = document.createElement('div');
-                    div.className = 'res-item';
-                    div.onclick = () => abrirReproductor(item.id);
-                    div.innerHTML = `<img src="${item.poster}">`;
-                    resultadosDiv.appendChild(div);
-                });
-            });
-        }
-    </script>
+        });
+    }
+</script>
 </body>
 </html>
