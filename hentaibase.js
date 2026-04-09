@@ -6233,9 +6233,31 @@ const baseDeDatos = [{
     ],
     estudio: "MS Pictures",
     fecha: "2020",
-    tags: ["Incesto", "Anal", "Sin sensura"],
-    tipo: "sincensura",
+    tags: ["Incesto", "Anal", "Censura"],
+    tipo: "censurado",
     descripcion: "Minoru recibe un correo de Akane por error y siente un extraño vínculo. Tras encontrarse accidentalmente, sus emociones se desatan, generando confusión sobre su conexión y deseos."
+},
+{
+    id: "H327",
+    titulo: "Anal Mania Otaku to Ananii Daisuki na Ojou-sama",
+    poster: "https://iili.io/B1lHx4f.jpg",
+    bg: [
+        "https://iili.io/B1lHI24.png",
+        "https://iili.io/B1lHTYl.png",
+        "https://iili.io/B1lHuv2.png",
+        "https://iili.io/B1lH5T7.png",
+		"https://iili.io/B01XZCX.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/541daba37919a90ab6343b557daf1ea003e7971f45096c20bc35c209dec6fee7/ep1.mp4",
+
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2026",
+    tags: ["Escolares", "Anal", "Censura"],
+    tipo: "sincensura",
+    descripcion: "Takuma Ota, un otaku pervertido, es descubierto grabando a chicas en el baño por la idol Shizue Yukihira, quien le pide que la entrene en prácticas anales, generando una relación intensa y corruptora."
 },
 
 ];
