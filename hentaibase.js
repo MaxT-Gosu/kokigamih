@@ -4195,10 +4195,12 @@ const baseDeDatos = [{
         "https://iili.io/fyzdvTP.png",
         "https://iili.io/fyzdeyB.png",
         "https://iili.io/fyzdh4j.png",
-        "https://iili.io/fyzd0pS.png"
+        "https://iili.io/B0VSXUl.png",
+		"https://iili.io/B0VSWl4.png"
     ],
     video: [
-        "https://www.burstcloud.co/embed/47e3b5f655a5e8e28c8b3f86b6ad5943511c876492a8c8c4aa45e26eab26e174/EP1.mp4"
+        "https://www.burstcloud.co/embed/47e3b5f655a5e8e28c8b3f86b6ad5943511c876492a8c8c4aa45e26eab26e174/EP1.mp4",
+		"https://www.burstcloud.co/embed/434aee12523836f3d4296c9e2b41189073489cfa6cfbbf5e882db7508523eac2/ep2.mp4"
     ],
     estudio: "Desconocido",
     fecha: "2023",
