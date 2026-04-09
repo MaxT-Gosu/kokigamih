@@ -2623,12 +2623,14 @@ const baseDeDatos = [{
         "https://iili.io/qT2AqZu.png",
         "https://iili.io/KDLqIhQ.png",
         "https://iili.io/qT2Afje.png",
-        "https://iili.io/KDLqACB.png"
+        "https://iili.io/KDLqACB.png",
+		"https://iili.io/B0M7zFV.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/0627565245318e0a333af715923569c310ab5eb75f9691aa268d1c5556b27770/ep1.mp4",
         "https://www.burstcloud.co/embed/87c0a23d814b6751949007f8b1758e20d45c0879efaa24fd416a0de3e87e6dd3/ep2.mp4",
-        "https://www.burstcloud.co/embed/e745d1f56a5133d58de6a0081ab695a26c3c72e58571a8b97620d6cdea53f82a/ep3.mp4"
+        "https://www.burstcloud.co/embed/e745d1f56a5133d58de6a0081ab695a26c3c72e58571a8b97620d6cdea53f82a/ep3.mp4",
+		"https://www.burstcloud.co/embed/f98802d40375816dea10d628e3b19aca16d6e7219c19eb9eb78ab7eeb0eabddd/ep4.mp4"
     ],
     estudio: "Desconocido",
     fecha: "2026",
