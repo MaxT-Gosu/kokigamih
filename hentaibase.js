@@ -6209,5 +6209,29 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Mitsuko, ama de casa sencilla, se muda con la familia de su esposo y, al hacer un favor, se encuentra atrapada en un mundo de lujuria con su suegro."
 },
+{
+    id: "H327",
+    titulo: "Futago no Haha Seihonnou",
+    poster: "https://iili.io/B01X8Eg.jpg",
+    bg: [
+        "https://iili.io/B01XsjI.png",
+        "https://iili.io/B01X4vR.png",
+        "https://iili.io/B01hdjS.png",
+        "https://iili.io/B01X6pp.png",
+		"https://iili.io/B01XZCX.png",
+		"https://iili.io/B01hFn9.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/aed0f3ba5d3b2e402b96d9c43416a59b881bf8a29e268e7992fcc86ea05d153a/ep1.mp4",
+        "https://www.burstcloud.co/embed/d9ce03c2e6b715122af8ba910e04a8e9f1f9106361959c72f7d566b932543ec9/ep2.mp4",
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Incesto", "Anal", "Sin sensura"],
+    tipo: "sincensura",
+    descripcion: "Minoru recibe un correo de Akane por error y siente un extraño vínculo. Tras encontrarse accidentalmente, sus emociones se desatan, generando confusión sobre su conexión y deseos."
+},
 
 ];
