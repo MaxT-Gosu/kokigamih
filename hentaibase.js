@@ -6259,5 +6259,27 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Takuma Ota, un otaku pervertido, es descubierto grabando a chicas en el baño por la idol Shizue Yukihira, quien le pide que la entrene en prácticas anales, generando una relación intensa y corruptora."
 },
+{
+    id: "H328",
+    titulo: "Hebi to Kumo",
+    poster: "https://iili.io/BGUA45X.jpg",
+    bg: [
+        "https://iili.io/BGUAszG.png",
+        "https://iili.io/BGUAQs4.png",
+        "https://iili.io/BGUALXf.png",
+        "https://iili.io/BGUR3Lx.png",
+		"https://iili.io/BGURn71.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/70c923a70a1f06145fdf888197796b1f4488661780ae43c654fbb652b3ed43a6/ep1.mp4",
+
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2026",
+    tags: ["Milfs", "Tetonas", "Censura"],
+    tipo: "Censurado",
+    descripcion: "Saeki, un oficinista descontento, vive con su novia deseando matrimonio, mientras descarga su frustración con su jefa Misaki. Su admiración y envidia lo llevan a un intento de acoso."
+},
 
 ];
