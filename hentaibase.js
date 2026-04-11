@@ -6238,7 +6238,7 @@ const baseDeDatos = [{
     descripcion: "Minoru recibe un correo de Akane por error y siente un extraño vínculo. Tras encontrarse accidentalmente, sus emociones se desatan, generando confusión sobre su conexión y deseos."
 },
 {
-    id: "H327",
+    id: "H328",
     titulo: "Anal Mania Otaku to Ananii Daisuki na Ojou-sama",
     poster: "https://iili.io/B1lHx4f.jpg",
     bg: [
@@ -6260,7 +6260,7 @@ const baseDeDatos = [{
     descripcion: "Takuma Ota, un otaku pervertido, es descubierto grabando a chicas en el baño por la idol Shizue Yukihira, quien le pide que la entrene en prácticas anales, generando una relación intensa y corruptora."
 },
 {
-    id: "H328",
+    id: "H329",
     titulo: "Hebi to Kumo",
     poster: "https://iili.io/BGUA45X.jpg",
     bg: [
@@ -6280,6 +6280,29 @@ const baseDeDatos = [{
     tags: ["Milfs", "Tetonas", "Censura"],
     tipo: "Censurado",
     descripcion: "Saeki, un oficinista descontento, vive con su novia deseando matrimonio, mientras descarga su frustración con su jefa Misaki. Su admiración y envidia lo llevan a un intento de acoso."
+},
+{
+    id: "H330",
+    titulo: "Seikatsu Shidou",
+    poster: "https://iili.io/BV9dXg2.jpg",
+    bg: [
+        "https://iili.io/BV9d8sj.png",
+        "https://iili.io/BV9dg0Q.png",
+        "https://iili.io/BV92dmX.png",
+        "https://iili.io/BV92Ahu.png",
+		"https://iili.io/BV92RLb.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/8375409e4ce83f474ee7644c3ba988f7a5eb88f92b5ed5aaa52e44fb02e3edd5/ep1.mp4",
+		"https://www.burstcloud.co/embed/debd50bb291135d81d81b76edc49b0ba003f83e275800ba2faebeb68ad298d1c/ep2.mp4"
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Lolicon", "Virgenes", "Censurado"],
+    tipo: "Censurado",
+    descripcion: "Basado en el Doujinshi de Uran."
 },
 
 ];
