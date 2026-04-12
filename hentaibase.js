@@ -5303,7 +5303,7 @@ const baseDeDatos = [{
 {
     id: "H282",
     titulo: "Love Bitch Yasashii Onna",
-    poster: "https://iili.io/qn3cCb9.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/love-bitch-1.jpg",
     bg: [
         "https://iili.io/qnFczGa.png",
         "https://iili.io/qnFcI6J.png",
@@ -5322,7 +5322,7 @@ const baseDeDatos = [{
 {
     id: "H283",
     titulo: "Hump Bang",
-    poster: "https://iili.io/qn3cCb9.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/hump-bang-2-cv1.png",
     bg: [
         "https://iili.io/qnBRVUv.png",
         "https://iili.io/qnBRhRp.png",
@@ -5342,7 +5342,7 @@ const baseDeDatos = [{
 {
     id: "H284",
     titulo: "Gibo no Toiki",
-    poster: "https://iili.io/qn3cCb9.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/gibo-no-toiki-2.jpg",
     bg: [
         "https://iili.io/qnn27EP.png",
         "https://iili.io/qnn2c3F.png",
@@ -5362,7 +5362,7 @@ const baseDeDatos = [{
 {
     id: "H285",
     titulo: "Little Monica Monogatari",
-    poster: "https://iili.io/qn3cCb9.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/little-monica-monogatari-2-1.png",
     bg: [
         "https://iili.io/qnobKZP.png",
         "https://iili.io/qnobBMF.png",
@@ -5382,7 +5382,7 @@ const baseDeDatos = [{
 {
     id: "H286",
     titulo: "Swamp Stamp",
-    poster: "https://iili.io/qn3cCb9.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/swamp-stamp-1-gSDtEnLDWH.jpg",
     bg: [
         "https://iili.io/qnkMGeI.png",
         "https://iili.io/qnkXv7R.png",
@@ -5401,7 +5401,7 @@ const baseDeDatos = [{
 {
     id: "H287",
     titulo: "Mayohiga no Onee-san",
-    poster: "https://iili.io/qn3cCb9.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/mayohiga-no-onee-san-the-animation-1-JVlXhvSQJA.jpg",
     bg: [
         "https://iili.io/qojlZGa.png",
         "https://iili.io/qojlt6J.png",
