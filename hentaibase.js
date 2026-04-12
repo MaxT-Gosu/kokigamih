@@ -5537,8 +5537,8 @@ const baseDeDatos = [{
     ],
     estudio: "Collaboration Works",
     fecha: "2020",
-    tags: ["Maid", "Milf", "uncensored"],
-    tipo: "sincensura",
+    tags: ["Maid", "Milf", "Censurado"],
+    tipo: "censurado",
     descripcion: "Un tipo es despedido de nuevo de su trabajo. A regañadientes, decide trabajar con un amigo en una tienda de manga, con dos encantadoras compañeras de trabajo. "
 },
 {
@@ -6256,7 +6256,7 @@ const baseDeDatos = [{
     estudio: "Pink Pineapple",
     fecha: "2026",
     tags: ["Escolares", "Anal", "Censura"],
-    tipo: "sincensura",
+    tipo: "censurado",
     descripcion: "Takuma Ota, un otaku pervertido, es descubierto grabando a chicas en el baño por la idol Shizue Yukihira, quien le pide que la entrene en prácticas anales, generando una relación intensa y corruptora."
 },
 {
