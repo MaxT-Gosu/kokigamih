@@ -6304,5 +6304,28 @@ const baseDeDatos = [{
     tipo: "Censurado",
     descripcion: "Basado en el Doujinshi de Uran."
 },
+{
+    id: "H331",
+    titulo: "Nosewasure",
+    poster: "https://iili.io/BWoJMej.jpg",
+    bg: [
+        "https://iili.io/BWo36LQ.png",
+        "https://iili.io/BWo325u.png",
+        "https://iili.io/BWo2yfS.png",
+        "https://iili.io/BWo3T5g.png",
+		"https://iili.io/BWoqcjs.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/2cd89d1974e9c7f4ca96fbebe1b83cf905ab73b08dfaf3feace0abed77ba6f43/ep1.mp4",
+		"https://www.burstcloud.co/embed/b95ef083b1872251e8c09d074fba9ccd23acdd64f1ef5f1d1066fce76d5cfd32/ep2.mp4"
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Lolicon", "Romance", "Censurado"],
+    tipo: "Censurado",
+    descripcion: "Un día, descubre algo increíble en la basura del Club de Ocultismo: una foto de una chica con genitales masculinos."
+},
 
 ];
