@@ -6327,5 +6327,27 @@ const baseDeDatos = [{
     tipo: "Censurado",
     descripcion: "Un día, descubre algo increíble en la basura del Club de Ocultismo: una foto de una chica con genitales masculinos."
 },
+{
+    id: "H332",
+    titulo: "Phantom Alchemia: Silvia no Dokidoki Sakusei Toshi Keikaku",
+    poster: "https://iili.io/BXE4CWQ.jpg",
+    bg: [
+        "https://iili.io/BXE4z0P.png",
+        "https://iili.io/BXE4xqB.png",
+        "https://iili.io/BXE4udF.png",
+        "https://iili.io/BXE4Yzv.png",
+		"https://iili.io/BXE40qN.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/ee58982135dbc8dc788811d919c9428496b2081bf9fd3b94e88443b63dd859dc/ep1.mp4",
+
+    ],
+    estudio: "Magin Label",
+    fecha: "2026",
+    tags: ["Corridas", "Duendes", "Censurado"],
+    tipo: "Censurado",
+    descripcion: "Sylvia, una chica protegida, sufre una violación por Steve, despertando un talento oculto para la alquimia. Con su poder, busca revitalizar Elanberg recolectando "esencia vital" de hombres para mejorar la ciudad. Su viaje es erótico."
+},
 
 ];
