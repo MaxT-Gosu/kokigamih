@@ -6347,7 +6347,30 @@ const baseDeDatos = [{
     fecha: "2026",
     tags: ["Corridas", "Duendes", "Censurado"],
     tipo: "Censurado",
-    descripcion: "Sylvia, una chica protegida, sufre una violación por Steve, despertando un talento oculto para la alquimia. Con su poder, busca revitalizar Elanberg recolectando "esencia vital" de hombres para mejorar la ciudad. Su viaje es erótico."
+    descripcion: "Sylvia, una chica protegida, sufre una violación por Steve, despertando un talento oculto para la alquimia. Con su poder, busca revitalizar Elanberg recolectando esencia vital de hombres para mejorar la ciudad. Su viaje es erótico."
+},
+{
+    id: "H333",
+    titulo: "Mrs. Junkie",
+    poster: "https://iili.io/BwrLAXt.jpg",
+    bg: [
+        "https://iili.io/BwrLarG.png",
+        "https://iili.io/BwrL1kl.png",
+        "https://iili.io/BwrLO2j.png",
+        "https://iili.io/BwrLeYx.png",
+		"https://iili.io/BwrLkkQ.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/920b74686ccb16eae07699ac1a53179f0a81e58269e88f4a267d73d382207a65/ep1.mp4",
+		"https://www.burstcloud.co/embed/9c525c99503e474aa516b60665384d560f471deb6359ebffb48b9e13c7abb5fd/ep2.mp4"
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2026",
+    tags: ["Milf", "Tetonas", "Sin Censura"],
+    tipo: "sincensura",
+    descripcion: "Hayami Kouta es el superintendente de un edificio de apartamentos, donde residen dos amas de casa pechugonas y muy cachondas."
 },
 
 ];
