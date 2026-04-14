@@ -3600,15 +3600,16 @@ const baseDeDatos = [{
 {
     id: "H180",
     titulo: "Seihou Shouka Saint Lime",
-    poster: "https://iili.io/fVTcIjt.jpg",
+    poster: "https://iili.io/BeRujx2.jpg",
     bg: [
-        "https://iili.io/fjUswrb.png",
-        "https://iili.io/fjUsO2j.png",
-        "https://iili.io/fjUsjEu.png",
-        "https://iili.io/fjUskkQ.png"
+        "https://iili.io/BeRuSHb.png",
+        "https://iili.io/BeRukle.png",
+        "https://iili.io/BeRuPWB.png",
+        "https://iili.io/BeRuQ0F.png"
     ],
     video: [
-        "https://hentaiplayer.com/v/aVtY5ReT65XAG7B/"
+        "https://www.burstcloud.co/embed/4b78fb49827fe85db4d328a6919812311d80dd260765b6525931bd89b6d251b2/ep1.mp4",
+		"https://www.burstcloud.co/embed/4a1eb42cdc884350386316ef1108e51bc1019029ae1c8b74e63c661dcf37af4e/ep2.mp4"
     ],
     estudio: "Fantasy Soft",
     fecha: "2026",
