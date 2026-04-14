@@ -6373,5 +6373,28 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Hayami Kouta es el superintendente de un edificio de apartamentos, donde residen dos amas de casa pechugonas y muy cachondas."
 },
+{
+    id: "H334",
+    titulo: "Vampire",
+    poster: "https://iili.io/Be7VZDN.jpg",
+    bg: [
+        "https://iili.io/Be7VbVt.png",
+        "https://iili.io/Be7WdJf.png",
+        "https://iili.io/Be7W9ls.png",
+        "https://iili.io/Be7Wo0u.png",
+		
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/24e9cacc07dff6a8c62847870bd5a369f198dcefb19ecb8901c1dc0a0c67611a/ep1.mp4",
+		"https://www.burstcloud.co/embed/70a02e08284cd56b82da99bd315e281773a6ded83e025ddc4a0c79bba4670e46/ep2.mp4"
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2026",
+    tags: ["Vampira", "Tetonas", "Sin Censura"],
+    tipo: "sincensura",
+    descripcion: "Aprovechando su voluptuoso cuerpo, seduce a Yuuto. Sin embargo, Selena es en realidad un vampiro, y sus parejas no viven más allá de un día."
+},
 
 ];
