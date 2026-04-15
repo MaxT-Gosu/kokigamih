@@ -6441,7 +6441,7 @@ const baseDeDatos = [{
     estudio: "MS Pictures",
     fecha: "2020",
     tags: ["Milfs", "Incesto", "Censurado"],
-    tipo: "censurado",
+    tipo: "Censurado",
     descripcion: "Es el momento de la fiesta local de verano y Kentarou acompaña a Shizue, que ha venido de visita después de haber estado fuera durante unos años."
 },
 
