@@ -187,13 +187,11 @@
         </button>
     </div>
 
-    <div class="catalog-container" id="catalog-main">
-        </div>
+    <div class="catalog-container" id="catalog-main"></div>
 
     <div id="modal-detalles" class="modal">
         <button class="close-modal" onclick="cerrarDetalles()">×</button>
-        <div class="modal-content" id="modal-content-body">
-            </div>
+        <div class="modal-content" id="modal-content-body"></div>
     </div>
 
     <div id="modal-busqueda">
@@ -213,15 +211,12 @@
 
     <script src="hentaibase.js"></script>
     <script>
-        // CARGA INICIAL DEL CATÁLOGO
         function cargarCatalogo() {
             const container = document.getElementById('catalog-main');
             container.innerHTML = "";
             
-            // Filtramos por tipo "censurado" / "sensurado" y REVERTIMOS para ver lo último primero
-            const filtrados = baseDeDatos
-                .filter(h => h.tipo === "censurado" || h.tipo === "sensurado")
-                .reverse(); 
+            // Filtramos y aplicamos REVERSE para que el último agregado sea el primero
+            const filtrados = baseDeDatos.filter(h => h.tipo === "censurado" || h.tipo === "sensurado").reverse();
 
             filtrados.forEach(h => {
                 const card = document.createElement('div');
@@ -238,8 +233,6 @@
 
             const modal = document.getElementById('modal-detalles');
             const content = document.getElementById('modal-content-body');
-
-            // Elegir un fondo aleatorio de los disponibles
             const randomBg = h.bg[Math.floor(Math.random() * h.bg.length)];
 
             content.innerHTML = `
@@ -267,7 +260,6 @@
                     ` : ''}
 
                     <p class="details-desc" style="margin-top:20px;">${h.descripcion}</p>
-                    
                     <div style="margin-top:20px;">
                         <h3 style="font-size:16px; margin-bottom:10px; color:#888;">Etiquetas</h3>
                         <div style="display:flex; flex-wrap:wrap; gap:8px;">
@@ -276,45 +268,35 @@
                     </div>
                 </div>
             `;
-
             modal.style.display = 'block';
             document.body.style.overflow = 'hidden';
         }
 
-        function verVideo(url) {
-            window.location.href = url;
-        }
-
+        function verVideo(url) { window.location.href = url; }
         function cerrarDetalles() {
             document.getElementById('modal-detalles').style.display = 'none';
             document.body.style.overflow = 'auto';
         }
-
         function quitarSkeleton(img) {
             img.style.opacity = "1";
             img.parentElement.classList.remove("skeleton");
         }
-
         function abrirBuscador() {
             document.getElementById('modal-busqueda').style.display = 'block';
             document.getElementById('input-buscador').focus();
         }
+        function cerrarBuscador() { document.getElementById('modal-busqueda').style.display = 'none'; }
 
-        function cerrarBuscador() {
-            document.getElementById('modal-busqueda').style.display = 'none';
-        }
-
-        // BUSCADOR CON ORDEN DE ÚLTIMOS AGREGADOS PRIMERO
         document.getElementById('input-buscador').addEventListener('input', (e) => {
             const texto = e.target.value.toLowerCase().trim();
             const resultadosDiv = document.getElementById('resultados-busqueda');
             resultadosDiv.innerHTML = "";
             if (texto.length < 2) return;
 
-            // Filtramos por texto, categoría Y REVERTIMOS
-            const filtrados = baseDeDatos
-                .filter(h => (h.tipo === "censurado" || h.tipo === "sensurado") && h.titulo.toLowerCase().includes(texto))
-                .reverse(); 
+            // Filtramos y aplicamos REVERSE también en la búsqueda
+            const filtrados = baseDeDatos.filter(h => 
+                (h.tipo === "censurado" || h.tipo === "sensurado") && h.titulo.toLowerCase().includes(texto)
+            ).reverse();
             
             filtrados.forEach(h => {
                 const item = document.createElement('div');
@@ -330,7 +312,6 @@
             });
         });
 
-        // Inicializar
         window.onload = cargarCatalogo;
     </script>
 </body>
