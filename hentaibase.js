@@ -6280,7 +6280,7 @@ const baseDeDatos = [{
     estudio: "Pink Pineapple",
     fecha: "2026",
     tags: ["Milfs", "Tetonas", "Censura"],
-    tipo: "Censurado",
+    tipo: "censurado",
     descripcion: "Saeki, un oficinista descontento, vive con su novia deseando matrimonio, mientras descarga su frustración con su jefa Misaki. Su admiración y envidia lo llevan a un intento de acoso."
 },
 {
@@ -6303,7 +6303,7 @@ const baseDeDatos = [{
     estudio: "MS Pictures",
     fecha: "2020",
     tags: ["Lolicon", "Virgenes", "Censurado"],
-    tipo: "Censurado",
+    tipo: "censurado",
     descripcion: "Basado en el Doujinshi de Uran."
 },
 {
@@ -6326,7 +6326,7 @@ const baseDeDatos = [{
     estudio: "MS Pictures",
     fecha: "2020",
     tags: ["Lolicon", "Romance", "Censurado"],
-    tipo: "Censurado",
+    tipo: "censurado",
     descripcion: "Un día, descubre algo increíble en la basura del Club de Ocultismo: una foto de una chica con genitales masculinos."
 },
 {
@@ -6348,7 +6348,7 @@ const baseDeDatos = [{
     estudio: "Magin Label",
     fecha: "2026",
     tags: ["Corridas", "Duendes", "Censurado"],
-    tipo: "Censurado",
+    tipo: "censurado",
     descripcion: "Sylvia, una chica protegida, sufre una violación por Steve, despertando un talento oculto para la alquimia. Con su poder, busca revitalizar Elanberg recolectando esencia vital de hombres para mejorar la ciudad. Su viaje es erótico."
 },
 {
@@ -6441,7 +6441,7 @@ const baseDeDatos = [{
     estudio: "MS Pictures",
     fecha: "2020",
     tags: ["Milfs", "Incesto", "Censurado"],
-    tipo: "Censurado",
+    tipo: "censurado",
     descripcion: "Es el momento de la fiesta local de verano y Kentarou acompaña a Shizue, que ha venido de visita después de haber estado fuera durante unos años."
 },
 
