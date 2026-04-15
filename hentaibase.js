@@ -3589,7 +3589,8 @@ const baseDeDatos = [{
         "https://iili.io/fjUuOZl.png"
     ],
     video: [
-        "https://storage.googleapis.com/h3n/Cool%20de%20M/Video.mp4"
+        "https://www.burstcloud.co/embed/5e2540d9d8f90cf83037ab79ec4f914a00c521e778a735863cec3cad218d8a5a/ep1.mp4",
+		"https://www.burstcloud.co/embed/8607210cb5febd7d9c86500e04848df50df7c04d1f15f15e89fbe07975cd5f83/ep2.mp4"
     ],
     estudio: "Premium",
     fecha: "2026",
@@ -6418,6 +6419,30 @@ const baseDeDatos = [{
     tags: ["Milfs", "Tetonas", "Sin Censura"],
     tipo: "sincensura",
     descripcion: "Todo eso cambió el día en que conoció a una persona que se acaba de mudar al condominio en el que viven él y su madre, y que traerá un cambio drástico en su vida.."
+},
+{
+    id: "H336",
+    titulo: "Enbi",
+    poster: "https://iili.io/Bv3aBdN.jpg",
+    bg: [
+        "https://iili.io/Bv3aIXs.png",
+        "https://iili.io/Bv3aTLG.png",
+        "https://iili.io/Bv3aomX.png",
+        "https://iili.io/Bv3a5rl.png",
+		"https://iili.io/Bv3aGLb.png"
+		
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/14519a90b08d0e3d4032932a526f0dc6dff76b17ecc793b593f80a5855b31952/EP1.mp4",
+		"https://www.burstcloud.co/embed/6d424e67dfb01cdc66fbb9fbf8677d439577c508625ef9105929d91c2f8603dc/EP2.mp4"
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Milfs", "Incesto", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Es el momento de la fiesta local de verano y Kentarou acompaña a Shizue, que ha venido de visita después de haber estado fuera durante unos años."
 },
 
 ];
