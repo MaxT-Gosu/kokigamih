@@ -6444,5 +6444,29 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Es el momento de la fiesta local de verano y Kentarou acompaña a Shizue, que ha venido de visita después de haber estado fuera durante unos años."
 },
+{
+    id: "H337",
+    titulo: "Genkaku Cool na Sensei ga Aheboteochi",
+    poster: "https://iili.io/BvQaNXR.jpg",
+    bg: [
+        "https://iili.io/BvQaUdX.png",
+        "https://iili.io/BvQag7n.png",
+        "https://iili.io/BvQav1I.png",
+        "https://iili.io/BvQapku.png",
+		"https://iili.io/BvQcdLQ.png"
+		
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/7811b0b41a90d34366dae73dd0057cfcfc02782e44b42a0cb4f5df45e59e350e/ep1.mp4",
+		"https://www.burstcloud.co/embed/951d775f592990954e8cb862ffd1b0551738e5f787187fae9826e388bd6e7f9b/ep2.mp4"
+
+    ],
+    estudio: "Mary Jane",
+    fecha: "2020",
+    tags: ["Milfs", "Anal", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Un estudiante de secundaria siente algo por su profesora y decide escribirle una carta de amor. La profesora rompe la carta en pedazos delante de la clase, humillándolo."
+},
 
 ];
