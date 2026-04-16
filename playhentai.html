@@ -6,6 +6,8 @@
     <title>Reproductor - Cinemax</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     
+    <script src="https://pl29062398.profitablecpmratenetwork.com/af/eb/ec/afebec1047ca54166c18910d53e08540.js"></script>
+
     <style>
         :root { 
             --accent: #e50914; 
@@ -126,22 +128,13 @@
 
 <div class="video-player" id="player">
     <button class="close-v" onclick="stopVideo()"><i class="fas fa-times"></i></button>
-    <iframe id="video-frame" style="width:100%; height:100%; border:none;" 
-        allow="autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" 
-        allowfullscreen></iframe>
+    <iframe id="video-frame" style="width:100%; height:100%; border:none;" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 <script src="hentaibase.js"></script>
 <script>
     const urlId = localStorage.getItem('hentai_id');
     const item = baseDeDatos.find(h => h.id === urlId);
-
-    // URL de YouTube (Publicidad propia)
-    const YOUTUBE_URL = "https://www.youtube.com/watch?v=XpSrXCncTWU";
-    
-    // Variable para saber qué video estamos viendo
-    let currentOriginalUrl = ""; 
-    let isShowingAd = false;
 
     if(item) {
         document.title = item.titulo + " - Cinemax";
@@ -159,7 +152,7 @@
         
         videos.forEach((link, index) => {
             list.innerHTML += `
-                <div class="episode-card" onclick="startSequence('${link}')">
+                <div class="episode-card" onclick="playVideo('${link}')">
                     <div class="ep-thumb">
                         <img src="${item.poster}">
                         <i class="fas fa-play"></i>
@@ -170,42 +163,6 @@
         });
 
         cargarRecomendados();
-    }
-
-    // Paso 1: Mostrar video de YouTube
-    function startSequence(originalUrl) {
-        currentOriginalUrl = originalUrl; // Guardamos el link real para después
-        isShowingAd = true;
-        
-        const p = document.getElementById("player");
-        document.getElementById("video-frame").src = YOUTUBE_URL;
-        
-        p.style.display = "flex";
-        p.classList.add("active");
-        document.body.style.overflow = "hidden";
-        window.history.pushState({view: 'player'}, '');
-    }
-
-    // Paso 2: Manejar el cierre o retroceso
-    function stopVideo() {
-        const p = document.getElementById("player");
-        const frame = document.getElementById("video-frame");
-
-        if (isShowingAd) {
-            // Si estaba viendo el video de YouTube y cerró/retrocedió,
-            // cargamos automáticamente el video real.
-            isShowingAd = false;
-            frame.src = currentOriginalUrl;
-            
-            // Mantenemos el reproductor abierto pero con el contenido real
-            console.log("Cambiando a video original...");
-        } else {
-            // Si ya estaba viendo el video real y cerró, limpiamos todo
-            frame.src = "";
-            p.style.display = "none";
-            p.classList.remove("active");
-            document.body.style.overflow = "auto";
-        }
     }
 
     function cargarRecomendados() {
@@ -228,11 +185,27 @@
         });
     }
 
-    // El popstate maneja el botón físico de retroceso del celular
-    window.onpopstate = (event) => {
-        stopVideo();
-    };
+    function playVideo(url) {
+        const p = document.getElementById("player");
+        document.getElementById("video-frame").src = url;
+        p.style.display = "flex";
+        p.classList.add("active");
+        document.body.style.overflow = "hidden";
+        window.history.pushState({view: 'player'}, '');
+    }
+
+    function stopVideo() {
+        const p = document.getElementById("player");
+        document.getElementById("video-frame").src = "";
+        p.style.display = "none";
+        p.classList.remove("active");
+        document.body.style.overflow = "auto";
+    }
+
+    window.onpopstate = () => stopVideo();
 </script>
+
+<script src="https://pl29062449.profitablecpmratenetwork.com/8c/d5/43/8cd5434138a8ba8dbe80676cd61a2885.js"></script>
 
 </body>
 </html>
