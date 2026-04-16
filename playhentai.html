@@ -32,7 +32,6 @@
         .meta { display: flex; gap: 8px; margin-bottom: 20px; }
         .meta span { background: #252525; padding: 4px 10px; border-radius: 4px; font-size: 12px; color: #ccc; }
         .synopsis { font-size: 14px; color: #b3b3b3; line-height: 1.5; margin-bottom: 30px; }
-
         .section-label { font-size: 18px; font-weight: bold; margin-bottom: 15px; border-left: 4px solid var(--accent); padding-left: 10px; }
         
         /* LISTA DE EPISODIOS */
@@ -57,31 +56,12 @@
 
         /* MENU INFERIOR */
         .bottom-menu { 
-            position: fixed; 
-            bottom: 0; 
-            left: 0; 
-            width: 100%; 
-            background: rgba(0, 0, 0, 0.98); 
-            backdrop-filter: blur(20px); 
-            display: flex; 
-            justify-content: space-around; 
-            padding: 12px 0; 
-            z-index: 1000; 
-            border-top: 1px solid rgba(255, 255, 255, 0.03); 
+            position: fixed; bottom: 0; left: 0; width: 100%; 
+            background: rgba(0, 0, 0, 0.98); backdrop-filter: blur(20px); 
+            display: flex; justify-content: space-around; padding: 12px 0; 
+            z-index: 1000; border-top: 1px solid rgba(255, 255, 255, 0.03); 
         }
-        .menu-item { 
-            text-decoration: none; 
-            color: #888; 
-            font-size: 10px; 
-            font-weight: 500; 
-            display: flex; 
-            flex-direction: column; 
-            align-items: center; 
-            background: none; 
-            border: none; 
-            cursor: pointer; 
-            width: 25%; 
-        }
+        .menu-item { text-decoration: none; color: #888; font-size: 10px; display: flex; flex-direction: column; align-items: center; width: 25%; }
         .menu-item i { font-size: 19px; margin-bottom: 5px; }
         .menu-item.active { color: var(--accent); }
 
@@ -113,7 +93,7 @@
         <div id="episodes-list"></div>
 
         <div class="related-section">
-            <div class="section-label">Hentais que te podrían gustar</div>
+            <div class="section-label">Recomendados para ti</div>
             <div class="related-grid" id="related-grid"></div>
         </div>
     </div>
@@ -136,12 +116,15 @@
     const urlId = localStorage.getItem('hentai_id');
     const item = baseDeDatos.find(h => h.id === urlId);
 
+    // --- CONFIGURACIÓN DE ENLACES (PON TUS LINKS AQUÍ) ---
+    const AD_LINK = "https://pl29062398.profitablecpmratenetwork.com/af/eb/ec/afebec1047ca54166c18910d53e08540.js"; 
+    const YT_LINK = "https://www.youtube.com/embed/ID_DE_TU_VIDEO?autoplay=1"; // Usa el link de 'embed'
+    const TIEMPO_BLOQUEO = 5 * 60 * 1000; // 5 minutos de paz sin anuncios
+
     if(item) {
         document.title = item.titulo + " - Cinemax";
         document.getElementById("item-title").innerText = item.titulo;
         document.getElementById("item-desc").innerText = item.descripcion;
-
-        // Si bg es un arreglo, tomamos la primera imagen para el fondo superior
         document.getElementById("item-bg").src = Array.isArray(item.bg) ? item.bg[0] : (item.bg || item.poster);
         
         document.getElementById("item-meta").innerHTML = `
@@ -155,12 +138,9 @@
         const backgrounds = Array.isArray(item.bg) ? item.bg : [item.poster];
         
         videos.forEach((link, index) => {
-            // Lógica corregida: Toma la imagen del arreglo bg usando el resto de la división
-            // Esto hace que si hay 8 episodios y 4 fotos, el ep 5 vuelva a usar la foto 1.
             const fotoEpisodio = backgrounds[index % backgrounds.length];
-
             list.innerHTML += `
-                <div class="episode-card" onclick="playVideo('${link}')">
+                <div class="episode-card" onclick="gestionarFlujo('${link}')">
                     <div class="ep-thumb">
                         <img src="${fotoEpisodio}">
                         <i class="fas fa-play"></i>
@@ -169,7 +149,6 @@
                 </div>
             `;
         });
-
         cargarRecomendados();
     }
 
@@ -177,7 +156,6 @@
         const grid = document.getElementById("related-grid");
         const filtrados = baseDeDatos.filter(h => h.id !== urlId);
         const randoms = filtrados.sort(() => 0.5 - Math.random()).slice(0, 5);
-
         randoms.forEach(h => {
             const relCard = document.createElement("div");
             relCard.className = "related-item";
@@ -185,17 +163,45 @@
                 localStorage.setItem('hentai_id', h.id);
                 window.location.reload(); 
             };
-            relCard.innerHTML = `
-                <img src="${h.poster}">
-                <p>${h.titulo}</p>
-            `;
+            relCard.innerHTML = `<img src="${h.poster}"><p>${h.titulo}</p>`;
             grid.appendChild(relCard);
         });
     }
 
-    function playVideo(url) {
+    // --- LÓGICA DE MONETIZACIÓN Y REPRODUCCIÓN ---
+    function gestionarFlujo(urlPelicula) {
+        const ahora = Date.now();
+        const ultimoBloqueo = parseInt(localStorage.getItem('cinemax_ad_block_time') || 0);
+        const clicks = parseInt(localStorage.getItem('cinemax_click_count') || 0);
+
+        // Si estamos en el periodo de 5 minutos, reproducir directo la película
+        if (ahora - ultimoBloqueo < TIEMPO_BLOQUEO) {
+            abrirPlayer(urlPelicula);
+            return;
+        }
+
+        if (clicks === 0) {
+            // CLIC 1: Publicidad + YouTube
+            localStorage.setItem('cinemax_click_count', 1);
+            
+            // Abre publicidad en pestaña nueva (dinero para ti)
+            window.open(AD_LINK, '_blank');
+            
+            // Carga video de YouTube en el reproductor (vistas para tu canal)
+            abrirPlayer(YT_LINK);
+            
+        } else {
+            // CLIC 2: Cargar la película real y activar el bloqueo de 5 min
+            localStorage.setItem('cinemax_click_count', 0);
+            localStorage.setItem('cinemax_ad_block_time', ahora);
+            abrirPlayer(urlPelicula);
+        }
+    }
+
+    function abrirPlayer(url) {
         const p = document.getElementById("player");
-        document.getElementById("video-frame").src = url;
+        const frame = document.getElementById("video-frame");
+        frame.src = url;
         p.style.display = "flex";
         p.classList.add("active");
         document.body.style.overflow = "hidden";
@@ -212,8 +218,6 @@
 
     window.onpopstate = () => stopVideo();
 </script>
-
-<script src="https://pl29062449.profitablecpmratenetwork.com/8c/d5/43/8cd5434138a8ba8dbe80676cd61a2885.js"></script>
 
 </body>
 </html>
