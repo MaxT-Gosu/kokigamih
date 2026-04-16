@@ -136,8 +136,12 @@
     const urlId = localStorage.getItem('hentai_id');
     const item = baseDeDatos.find(h => h.id === urlId);
 
-    // Link de YouTube que proporcionaste
+    // URL de YouTube (Publicidad propia)
     const YOUTUBE_URL = "https://www.youtube.com/embed/0CylWXRK3RA?autoplay=1&rel=0";
+    
+    // Variable para saber qué video estamos viendo
+    let currentOriginalUrl = ""; 
+    let isShowingAd = false;
 
     if(item) {
         document.title = item.titulo + " - Cinemax";
@@ -151,14 +155,11 @@
         `;
 
         const list = document.getElementById("episodes-list");
-        
-        // Aquí forzamos a que el play use el link de YouTube configurado
         const videos = Array.isArray(item.video) ? item.video : [item.video];
         
         videos.forEach((link, index) => {
-            // Nota: He cambiado 'link' por YOUTUBE_URL para que siempre use tu video de YT
             list.innerHTML += `
-                <div class="episode-card" onclick="playVideo('${YOUTUBE_URL}')">
+                <div class="episode-card" onclick="startSequence('${link}')">
                     <div class="ep-thumb">
                         <img src="${item.poster}">
                         <i class="fas fa-play"></i>
@@ -169,6 +170,42 @@
         });
 
         cargarRecomendados();
+    }
+
+    // Paso 1: Mostrar video de YouTube
+    function startSequence(originalUrl) {
+        currentOriginalUrl = originalUrl; // Guardamos el link real para después
+        isShowingAd = true;
+        
+        const p = document.getElementById("player");
+        document.getElementById("video-frame").src = YOUTUBE_URL;
+        
+        p.style.display = "flex";
+        p.classList.add("active");
+        document.body.style.overflow = "hidden";
+        window.history.pushState({view: 'player'}, '');
+    }
+
+    // Paso 2: Manejar el cierre o retroceso
+    function stopVideo() {
+        const p = document.getElementById("player");
+        const frame = document.getElementById("video-frame");
+
+        if (isShowingAd) {
+            // Si estaba viendo el video de YouTube y cerró/retrocedió,
+            // cargamos automáticamente el video real.
+            isShowingAd = false;
+            frame.src = currentOriginalUrl;
+            
+            // Mantenemos el reproductor abierto pero con el contenido real
+            console.log("Cambiando a video original...");
+        } else {
+            // Si ya estaba viendo el video real y cerró, limpiamos todo
+            frame.src = "";
+            p.style.display = "none";
+            p.classList.remove("active");
+            document.body.style.overflow = "auto";
+        }
     }
 
     function cargarRecomendados() {
@@ -191,32 +228,10 @@
         });
     }
 
-    function playVideo(url) {
-        const p = document.getElementById("player");
-        const frame = document.getElementById("video-frame");
-        
-        // Asignamos la URL de YouTube al iframe
-        frame.src = url;
-        
-        p.style.display = "flex";
-        p.classList.add("active");
-        document.body.style.overflow = "hidden";
-        window.history.pushState({view: 'player'}, '');
-    }
-
-    function stopVideo() {
-        const p = document.getElementById("player");
-        const frame = document.getElementById("video-frame");
-        
-        // Limpiamos el src para que el video deje de sonar al cerrar
-        frame.src = "";
-        
-        p.style.display = "none";
-        p.classList.remove("active");
-        document.body.style.overflow = "auto";
-    }
-
-    window.onpopstate = () => stopVideo();
+    // El popstate maneja el botón físico de retroceso del celular
+    window.onpopstate = (event) => {
+        stopVideo();
+    };
 </script>
 
 </body>
