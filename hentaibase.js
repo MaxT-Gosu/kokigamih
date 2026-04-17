@@ -6495,5 +6495,28 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Un estudiante de secundaria siente algo por su profesora y decide escribirle una carta de amor. La profesora rompe la carta en pedazos delante de la clase, humillándolo."
 },
+{
+    id: "H339",
+    titulo: "En`yoku",
+    poster: "https://iili.io/BUQjcmB.jpg",
+    bg: [
+        "https://iili.io/BUQj1X1.png",
+        "https://iili.io/BUQjELF.png",
+        "https://iili.io/BUQjMqg.png",
+        "https://iili.io/BUQjV1a.png",
+		"https://iili.io/BUQjWrJ.png"
+		
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/293a0c918515e9bb72df0e1103e08f81f308710cce38f0277f587232e68f2fad/ep1.mp4",
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Harem", "Milfs", " Sin Censurada"],
+    tipo: "sincensura",
+    descripcion: "Todos los días se masturba pensando en él, incluso cuando está dando una clase no puede dejar de mirarlo y tener pensamientos sucios."
+},
 
 ];
