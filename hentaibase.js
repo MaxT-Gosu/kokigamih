@@ -6518,5 +6518,29 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Todos los días se masturba pensando en él, incluso cuando está dando una clase no puede dejar de mirarlo y tener pensamientos sucios."
 },
+{
+    id: "H340",
+    titulo: "Shimaizuma",
+    poster: "https://iili.io/BgIQJHP.jpg",
+    bg: [
+        "https://iili.io/BgIQdR1.png",
+        "https://iili.io/BgIQ3Dg.png",
+        "https://iili.io/BgIQKxa.png",
+        "https://iili.io/BgIQfWJ.png",
+		"https://iili.io/BgIQqiv.png"
+		
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/c8d6e4c522f7b227564283835bfd4c12b36be151e371619023f8ea50a3332069/ep1.mp4",
+		"https://www.burstcloud.co/embed/dc27d3e7b1c7fe896469d4d86097f69f158b2faae207395d078f5e0956c986d4/ep2.mp4"
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Harem", "Milfs", " Sin Censurada"],
+    tipo: "sincensura",
+    descripcion: "Kenta, un estudiante de arte, se inspira al conocer a la mujer del pintor que lo guía, descuidando su pintura por el tango y el romance."
+},
 
 ];
