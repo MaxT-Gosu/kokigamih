@@ -6542,5 +6542,29 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Kenta, un estudiante de arte, se inspira al conocer a la mujer del pintor que lo guía, descuidando su pintura por el tango y el romance."
 },
+{
+    id: "H341",
+    titulo: "Maro No Kanja Wa Gatenkei",
+    poster: "https://iili.io/BrnBiCu.jpg",
+    bg: [
+        "https://iili.io/BrnCauS.png",
+        "https://iili.io/BrnCIGs.png",
+        "https://iili.io/BrnC58l.png",
+        "https://iili.io/BrnClt9.png",
+		"https://iili.io/BrnCVFj.png"
+		
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/e5507c5e383e49328d6bafbef4e27205afbffbabd49af7bc271a0423e7d4521d/ep1.mp4",
+		"https://www.burstcloud.co/embed/ce2fc340020ffe0c231bf4c4d61bb02807f90ccc56bc16ca5c7a085f5488efd9/ep2.mp4"
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Harem", "Milfs", "Censura"],
+    tipo: "censurado",
+    descripcion: "Maro, un médico pervertido, aprovecha la confianza de Sakimi y la acaricia, pero su marido le rompe las manos, y ella se convierte en su ayuda."
+},
 
 ];
