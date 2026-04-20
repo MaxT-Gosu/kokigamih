@@ -139,7 +139,7 @@
         document.getElementById("item-title").innerText = item.titulo;
         document.getElementById("item-desc").innerText = item.descripcion;
         
-        // Se aplicó la corrección aquí para que lea el primer elemento del arreglo 'bg'
+        // Mantenemos la cabecera con la primera imagen bg para que se vea bien
         document.getElementById("item-bg").src = (item.bg && item.bg.length > 0) ? item.bg[0] : item.poster;
         
         document.getElementById("item-meta").innerHTML = `
@@ -152,10 +152,17 @@
         const videos = Array.isArray(item.video) ? item.video : [item.video];
         
         videos.forEach((link, index) => {
+            // LÓGICA NUEVA: Buscar una miniatura distinta para cada capítulo usando el array bg
+            let thumbImg = item.poster; // Por defecto usa el poster
+            if (item.bg && item.bg.length > 0) {
+                // Si existe la imagen para ese número de capítulo, la usa. Si no, usa la primera.
+                thumbImg = item.bg[index] ? item.bg[index] : item.bg[0];
+            }
+
             list.innerHTML += `
                 <div class="episode-card" onclick="playVideo('${link}')">
                     <div class="ep-thumb">
-                        <img src="${item.poster}">
+                        <img src="${thumbImg}">
                         <i class="fas fa-play"></i>
                     </div>
                     <div class="ep-info">Capítulo ${index + 1}</div>
