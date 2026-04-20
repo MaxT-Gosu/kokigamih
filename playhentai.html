@@ -6,8 +6,6 @@
     <title>Reproductor - Cinemax</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     
-    <script src="https://pl29062398.profitablecpmratenetwork.com/af/eb/ec/afebec1047ca54166c18910d53e08540.js"></script>
-
     <style>
         :root { 
             --accent: #e50914; 
@@ -140,7 +138,10 @@
         document.title = item.titulo + " - Cinemax";
         document.getElementById("item-title").innerText = item.titulo;
         document.getElementById("item-desc").innerText = item.descripcion;
-        document.getElementById("item-bg").src = item.bg || item.poster;
+        
+        // Se aplicó la corrección aquí para que lea el primer elemento del arreglo 'bg'
+        document.getElementById("item-bg").src = (item.bg && item.bg.length > 0) ? item.bg[0] : item.poster;
+        
         document.getElementById("item-meta").innerHTML = `
             <span>${item.fecha}</span>
             <span>${item.estudio}</span>
@@ -204,8 +205,6 @@
 
     window.onpopstate = () => stopVideo();
 </script>
-
-<script src="https://pl29062449.profitablecpmratenetwork.com/8c/d5/43/8cd5434138a8ba8dbe80676cd61a2885.js"></script>
 
 </body>
 </html>
