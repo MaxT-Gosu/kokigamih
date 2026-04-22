@@ -6566,5 +6566,28 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Maro, un médico pervertido, aprovecha la confianza de Sakimi y la acaricia, pero su marido le rompe las manos, y ella se convierte en su ayuda."
 },
+{
+    id: "H342",
+    titulo: "Kyouiku Shidou",
+    poster: "https://iili.io/B4Ivczv.jpg",
+    bg: [
+        "https://iili.io/B4IvMgt.png",
+        "https://iili.io/B4IvEqN.png",
+        "https://iili.io/B4IvG1I.png",
+        "https://iili.io/B4IvX7n.png",
+
+		
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/8a5922da0ad4c23c5f8b63922f95a08bf68ddffdb6d4221143d685bd50512077/ep1.mp4",
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Harem", "Milfs", "Sin Censura"],
+    tipo: "sincensurado",
+    descripcion: "Ahora que ha tenido sexo con casi todas las estudiantes, decide cambiarse de escuela. Su siguiente escuela es una famosa escuela de chicas"
+},
 
 ];
