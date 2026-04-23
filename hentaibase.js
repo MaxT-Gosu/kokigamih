@@ -6589,5 +6589,28 @@ const baseDeDatos = [{
     tipo: "sincensurado",
     descripcion: "Ahora que ha tenido sexo con casi todas las estudiantes, decide cambiarse de escuela. Su siguiente escuela es una famosa escuela de chicas"
 },
+{
+    id: "H343",
+    titulo: "Dainiji Ura Nyuugaku Shiken",
+    poster: "https://iili.io/B4vL16b.jpg",
+    bg: [
+        "https://iili.io/B4vLV8Q.png",
+        "https://iili.io/B4vLMcx.png",
+        "https://iili.io/B4vLGFj.png",
+        "https://iili.io/B4vLhAB.png",
+
+		
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/3284df54b24f99ed199583cf487b9b91be8ab7ac8c1dd510ad2b1260c82dbfae/ep1.mp4",
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Alan", "Ninfomanas", "Sin Censura"],
+    tipo: "sincensurado",
+    descripcion: "Basado en el doujin manga de Migumigu."
+},
 
 ];
