@@ -6586,7 +6586,7 @@ const baseDeDatos = [{
     estudio: "MS Pictures",
     fecha: "2020",
     tags: ["Harem", "Milfs", "Sin Censura"],
-    tipo: "sincensurado",
+    tipo: "sincensura",
     descripcion: "Ahora que ha tenido sexo con casi todas las estudiantes, decide cambiarse de escuela. Su siguiente escuela es una famosa escuela de chicas"
 },
 {
@@ -6609,8 +6609,35 @@ const baseDeDatos = [{
     estudio: "MS Pictures",
     fecha: "2020",
     tags: ["Alan", "Ninfomanas", "Sin Censura"],
-    tipo: "sincensurado",
+    tipo: "sincensura",
     descripcion: "Basado en el doujin manga de Migumigu."
+},
+{
+    id: "H344",
+    titulo: "Ryoujoku Hitozuma Onsen",
+    poster: "https://iili.io/B68skjs.jpg",
+    bg: [
+        "https://iili.io/B68ss99.png",
+        "https://iili.io/B68sLue.png",
+        "https://iili.io/B68s4F2.png",
+        "https://iili.io/B68s6aS.png",
+		"https://iili.io/B68LFta.png",
+		"https://iili.io/B68Ld91.png",
+		"https://iili.io/B68L2AF.png"
+
+		
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/1781dae39111c121a94a98d99a0f690416410e37c198ab02d955c775b3fd92af/ep1.mp4",
+		"https://www.burstcloud.co/embed/794ada3c853954f9734109ca8205bcfbc83a867d6c4dc256f99320a7ffce80c0/ep2.mp4"
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Anal", "Netorare", "Sin Censura"],
+    tipo: "sincensura",
+    descripcion: "Primero, la joven propietaria y una camarera fueron víctimas de él. No estando satisfecho con ellas, los siguientes partidos a los que apunta son tres jóvenes casadas que se alojan en el hotel."
 },
 
 ];
