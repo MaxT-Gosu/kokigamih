@@ -6722,5 +6722,32 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Kousuke, un universitario, enfrenta pesadillas demoníacas y un encuentro sexual inesperado con diosa Fauna y Jordh."
 },
+{
+    id: "H348",
+    titulo: "Tsuma to Mama to Boin",
+    poster: "https://iili.io/qsWHj0F.jpg",
+    bg: [
+        "https://iili.io/qsWHOJa.png",
+        "https://iili.io/qsWHe5J.png",
+        "https://iili.io/qsWHkOv.png",
+        "https://iili.io/qsWHvbR.png",
+		"https://iili.io/qsWHUWN.png",
+		"https://iili.io/qsWHgsI.png"
+
+
+		
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/59611819c7c661d7b7010f57cd3d6eb35fcf3f462464bc8c9306ce67f7317d8f/ep1.mp4",
+		"https://www.burstcloud.co/embed/7c44036b6b7dcd0d98546465e774125a85acd995fa761a90ed9ffe53fa54e7bd/ep2.mp4"
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["anal", "Harem", "Sin Censura"],
+    tipo: "sincensura",
+    descripcion: "Viñetas de mujeres con grandes bustos, hombres atractivos y un deseo común: ser madres, buscando cumplir sus anhelos."
+},
 
 ];
