@@ -6693,5 +6693,34 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Es lo que se llama una diva: cara bonita, cuerpo esbelto con las curvas perfectas y, por último, un busto muy bien formado. Pero hay más en ella de lo que parece."
 },
+{
+    id: "H347",
+    titulo: "Megachu",
+    poster: "https://iili.io/BsB69KG.jpg",
+    bg: [
+        "https://iili.io/BsB6qx9.png",
+        "https://iili.io/BsB6Ciu.png",
+        "https://iili.io/BsB6BVe.png",
+        "https://iili.io/BsB6xlj.png",
+		"https://iili.io/BsB6THQ.png",
+		"https://iili.io/BsB6AOB.png",
+		"https://iili.io/BsB67x1.png"
+
+		
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/6ea9cc9518e1a12c1d5b28f0f1f0491318bb726a8b25a7f8b4c7fea307f51d38/ep1.mp4",
+		"https://www.burstcloud.co/embed/bc39652143e84e7bf69e8bc8345d1b848a7212113b638767cd8522f6b87243bf/ep2.mp4",
+		"https://www.burstcloud.co/embed/824b4548d65695f75d3c3d606e87d74ed035d74864634c6471dfe19c3e447ac6/ep3.mp4"
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Gore", "Harem", "Sin Censura"],
+    tipo: "sincensura",
+    descripcion: "Kousuke, un universitario, enfrenta pesadillas demoníacas y un encuentro sexual inesperado con diosa Fauna y Jordh."
+},
 
 ];
