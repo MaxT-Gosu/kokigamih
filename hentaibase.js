@@ -6749,5 +6749,32 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Viñetas de mujeres con grandes bustos, hombres atractivos y un deseo común: ser madres, buscando cumplir sus anhelos."
 },
+{
+    id: "H349",
+    titulo: "Netorare Zuma",
+    poster: "https://iili.io/Bs12DW7.png",
+    bg: [
+        "https://iili.io/Bs12y0u.png",
+        "https://iili.io/Bs12bs9.png",
+        "https://iili.io/Bs12pfe.png",
+        "https://iili.io/Bs13JJj.png",
+		"https://iili.io/Bs13d5x.png",
+		"https://iili.io/Bs132OQ.png"
+
+
+		
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/9658cbdb08ecea4f96ace579010daf48696bc9e5b275b76b8ed77772fa6db3a0/ep1.mp4",
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Casadas", "Netorare", "Sin Censura"],
+    tipo: "sincensura",
+    descripcion: "Reiko está frustrada sexualmente porque su marido está obsesionado con una ídolo que se parece a ella y sólo dice el nombre del ídolo durante el sexo."
+},
 
 ];
