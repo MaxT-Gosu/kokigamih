@@ -6776,5 +6776,37 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Reiko está frustrada sexualmente porque su marido está obsesionado con una ídolo que se parece a ella y sólo dice el nombre del ídolo durante el sexo."
 },
+{
+    id: "H350",
+    titulo: "Shin Bible Black",
+    poster: "https://iili.io/Bs85494.jpg",
+    bg: [
+        "https://iili.io/Bs85PN2.png",
+        "https://iili.io/Bs856Al.png",
+        "https://iili.io/Bs85itS.png",
+        "https://iili.io/Bs85QV9.png",
+		"https://iili.io/Bs85DKu.png",
+		"https://iili.io/Bs85bcb.png"
+
+
+		
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/f9234af23deacec249897be6769a23a6f5febbb70ec792b254429ab66ac5a116/ep1.mp4",
+		"https://www.burstcloud.co/embed/e5c784d253fdfe389a8f68ed1decc67ad2074833ed99515db7224844fc9d9c5e/ep2.mp4",
+		"https://www.burstcloud.co/embed/6e3ab0dc2b0e70c074076f3d583ab1a7a3e9a2a3c3261bd8b4210f8815478e3b/ep3.mp4",
+		"https://www.burstcloud.co/embed/951a94507462918fb57b822cfd50a35c17671384433679906b972e1c2c5b0f7b/ep4.mp4",
+		"https://www.burstcloud.co/embed/4a629e27332057481f57fd568bd0e421c3e3df11c21e0bcd6765cc1d12035729/ep5.mp4",
+		"https://www.burstcloud.co/embed/a7193826fa532ce4bbee8183afc34dbf30e48ce2face0f0a767b40b43163f704/ep6.mp4"
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Futanari", "Milfs", "Sin Censura"],
+    tipo: "sincensura",
+    descripcion: "Años después de la Noche de Walpugis, se suceden asesinatos en serie en parejas. Un equipo de detectives, Tokken, liderado por Imari, investiga el misterio de la "Lanza de Longinus" y un culto relacionado."
+},
 
 ];
