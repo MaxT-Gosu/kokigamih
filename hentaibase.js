@@ -6831,4 +6831,28 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Rina y su novia, tras recibir una factura excesiva, enfrentan a miembros de una banda con comentarios despectivos, mostrando su fuerza y empoderamiento como mujeres."
 },
+{
+    id: "H352",
+    titulo: "Otaku no Boku ga Ichigun Gal to Tsukiaerumade no Hanashi",
+    poster: "https://iili.io/BLcZnaf.png",
+    bg: [
+        "https://iili.io/BLcZq4s.png",
+        "https://iili.io/BLcZfGn.png",
+        "https://iili.io/BLcZKCX.png",
+        "https://iili.io/BLcZov4.png",
+		"https://iili.io/BLcZxyl.png"
+	
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/ba872169562f7b0946e4d595316ff0d368b67d31615dcc749280458778cbe83f/ep1.mp4",
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Escolares", "Gordo", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Rina y su novia, tras recibir una factura excesiva, enfrentan a miembros de una banda con comentarios despectivos, mostrando su fuerza y empoderamiento como mujeres."
+},
 ];
