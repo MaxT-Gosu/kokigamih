@@ -6855,4 +6855,29 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Rina y su novia, tras recibir una factura excesiva, enfrentan a miembros de una banda con comentarios despectivos, mostrando su fuerza y empoderamiento como mujeres."
 },
+{
+    id: "H353",
+    titulo: "Kimihagu",
+    poster: "https://iili.io/BLmWKtj.jpg",
+    bg: [
+        "https://iili.io/BLmWCPV.png",
+        "https://iili.io/BLmWBMQ.png",
+        "https://iili.io/BLmWqox.png",
+        "https://iili.io/BLmWoKB.png",
+		"https://iili.io/BLmWzS1.png"
+	
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/f175305bd9bfab0e104e43c5e72daef15edc79964d48a46dc7fb7b64fe03b9ff/ep1.mp4",
+		"https://www.burstcloud.co/embed/9ff6cc300443201bd124bfbdf12d467ff43c258f4b75b85038f496fd0956c199/ep2.mp4"
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Escolares", "Harem", "Sin Censura"],
+    tipo: "sincensura",
+    descripcion: "La presidenta del Comité de Disciplina prohíbe el romanticismo en la escuela; el club del amor se oculta para estudiar el amor en secreto."
+},
 ];
