@@ -6908,4 +6908,29 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Basado en el juego de PC para adultos de Silky's."
 },
+{
+    id: "H355",
+    titulo: "Etsuraku no Tane",
+    poster: "https://iili.io/BZ3RvmQ.jpg",
+    bg: [
+        "https://iili.io/BZ3RUhB.png",
+        "https://iili.io/BZ3RgLP.png",
+        "https://iili.io/BZ3RSIV.png",
+        "https://iili.io/BZ3R4B1.png",
+		"https://iili.io/BZ3R6EF.png",
+		"https://iili.io/BZ3RPrg.png",
+		"https://iili.io/BZ3Rs2a.png",
+		"https://iili.io/BQj0U2s.png"	
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/bafa16f5416704ae67fd760f86280056ead8c002541549f40b0729f4b848adfe/ep1.mp4",
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Bondage", "Anal", "Sincensura"],
+    tipo: "sincensura",
+    descripcion: "El cuerpo de una hermosa chica está habitado por un monstruo con tentáculos que la obliga a atacar a otras chicas guapas."
+},
 ];
