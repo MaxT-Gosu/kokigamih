@@ -6933,4 +6933,28 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "El cuerpo de una hermosa chica está habitado por un monstruo con tentáculos que la obliga a atacar a otras chicas guapas."
 },
+{
+    id: "H356",
+    titulo: "Kara no Shoujo",
+    poster: "https://iili.io/BZOLYan.jpg",
+    bg: [
+        "https://iili.io/BZOL1j4.png",
+        "https://iili.io/BZOL0uf.png",
+        "https://iili.io/BZOLcyG.png",
+        "https://iili.io/BZOLEZl.png",
+		"https://iili.io/BZOLMn2.png",
+		"https://iili.io/BZOLVGS.png"	
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/5c789e36eb8aee01d3999bbfe4c4f75c0cc9b032edc35fc43b8054ed1906b31a/ep1.mp4",
+		"https://www.burstcloud.co/embed/879d45669895138e65afadbcda10c06e0771b2ee0227beec7c681da6cfade3a5/ep2.mp4"
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Gore", "Tetonas", "Sincensura"],
+    tipo: "sincensura",
+    descripcion: "Reiji, detective, recibe ofertas de búsqueda mientras investiga asesinatos. Su hermana Yukari está en un instituto con alumnas desaparecidas."
+},
 ];
