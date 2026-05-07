@@ -2669,7 +2669,8 @@ const baseDeDatos = [{
     ],
     video: [
         "https://www.burstcloud.co/embed/7d16a9df34c2c8e7c133b5dc8787b8960b3b7d2fd8b5574ca6e04c20f8140002/ep1.mp4",
-        "https://www.burstcloud.co/embed/c0ef9f137b120a9112fc822fb29a518f56edcd7fc9d754e20de28b9620883876/ep2.mp4"
+        "https://www.burstcloud.co/embed/c0ef9f137b120a9112fc822fb29a518f56edcd7fc9d754e20de28b9620883876/ep2.mp4",
+		"https://www.burstcloud.co/embed/6d425ebaa4cafbe5f1f326090e688235f569552c4fdb99d328c7dd96b10635a3/ep3.mp4"
     ],
     estudio: "Desconocido",
     fecha: "2026",
