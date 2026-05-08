@@ -6958,4 +6958,28 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Reiji, detective, recibe ofertas de búsqueda mientras investiga asesinatos. Su hermana Yukari está en un instituto con alumnas desaparecidas."
 },
+{
+    id: "H357",
+    titulo: "Chimimonryou",
+    poster: "https://iili.io/BtXqSTJ.jpg",
+    bg: [
+        "https://iili.io/BtXqUhv.png",
+        "https://iili.io/BtXqgQR.png",
+        "https://iili.io/BtXq4Bp.png",
+        "https://iili.io/BtXq6EN.png",
+		"https://iili.io/BtXqP4I.png",
+		"https://iili.io/BtXqs2t.png"	
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/7003be5d9b6c9fd3bc7eeced1db01fcf540e4a02c45cf2fb25a065ed9c39f031/ep1.mp4",
+
+
+    ],
+    estudio: "Queen Bee",
+    fecha: "2026",
+    tags: ["Gore", "Bondage", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Shiho, tras una lesión, se convierte en mánager, enfrentándose a un chantaje sexual para proteger a Reira."
+},
 ];
