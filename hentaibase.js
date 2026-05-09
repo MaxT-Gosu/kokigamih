@@ -6982,4 +6982,32 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Shiho, tras una lesión, se convierte en mánager, enfrentándose a un chantaje sexual para proteger a Reira."
 },
+{
+    id: "H358",
+    titulo: "Ai Kyan Joukan",
+    poster: "https://iili.io/BttiU6F.jpg",
+    bg: [
+        "https://iili.io/Btti68J.png",
+        "https://iili.io/Btti4aa.png",
+        "https://iili.io/BttiLjp.png",
+        "https://iili.io/BttitnI.png",
+		"https://iili.io/Bttir3g.png",
+		"https://iili.io/BttisuR.png",
+		"https://iili.io/BttiQZN.png",
+		"https://iili.io/BttipFn.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/5daa64655225f374c17495437894a2bd56bd4e6ce864f369a0e84df8681c1dcd/ep1.mp4",
+		"https://www.burstcloud.co/embed/12d590635e63ccc6ecaa7086ee6ca246265f91f94030c902b2c21f41bfa00b83/ep2.mp4",
+		"https://www.burstcloud.co/embed/e15392b13b091e9c852d5c1afc3aadce979ea921f5087ddeaa51dac9b736975b/ep3.mp4"
+
+
+    ],
+    estudio: "PoRO",
+    fecha: "2020",
+    tags: ["Anal", "Lolicon", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Una ídolo del pop y su amiga enfrentan el acoso del representante, quien interrumpe un momento íntimo y se aprovecha de la situación."
+},
 ];
