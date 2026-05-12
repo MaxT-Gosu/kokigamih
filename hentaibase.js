@@ -7010,4 +7010,27 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Una ídolo del pop y su amiga enfrentan el acoso del representante, quien interrumpe un momento íntimo y se aprovecha de la situación."
 },
+{
+    id: "H359",
+    titulo: "Todo no Tsumari",
+    poster: "https://iili.io/BbL6f2a.jpg",
+    bg: [
+        "https://iili.io/BbL6CpR.png",
+        "https://iili.io/BbL6qYJ.png",
+        "https://iili.io/BbL6Bkv.png",
+        "https://iili.io/BbL6oIp.png",
+		"https://iili.io/BbL6xhN.png",
+		"https://iili.io/BbL6zQI.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/3768f49a7cb460add4f311f2cd06f909e0a377990a1ef2b17bd6a38e63e45ba2/ep1.mp4",
+
+
+    ],
+    estudio: "nur",
+    fecha: "2026",
+    tags: ["Corridas", "Escolares", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Majime enfrenta deseos prohibidos por su madre, llevando a encuentros intensos y reveladores entre ambos."
+},
 ];
