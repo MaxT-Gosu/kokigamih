@@ -7033,4 +7033,27 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Majime enfrenta deseos prohibidos por su madre, llevando a encuentros intensos y reveladores entre ambos."
 },
+{
+    id: "H360",
+    titulo: "Love wa Gal kara Hajimaru Unmei",
+    poster: "https://iili.io/BmwrLen.jpg",
+    bg: [
+        "https://iili.io/BmwrDXf.png",
+        "https://iili.io/BmwrQbs.png",
+        "https://iili.io/Bmw49gS.png",
+        "https://iili.io/BmwrtzG.png",
+		"https://iili.io/Bmwrpql.png",
+		"https://iili.io/Bmw42ee.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/8a76b4affd097351a513046e872b314c14c009e3f2df20b21b1905cb8e4322c2/ep1.mp4",
+
+
+    ],
+    estudio: "Queen Bee",
+    fecha: "2026",
+    tags: ["Corridas", "Escolares", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Ayase Miki, gyaru con comportamiento cuestionable, podría repetir año; su profesor Sakurai busca ayuda familiar, pero la madre Minami no colabora."
+},
 ];
