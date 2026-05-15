@@ -7056,4 +7056,28 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Ayase Miki, gyaru con comportamiento cuestionable, podría repetir año; su profesor Sakurai busca ayuda familiar, pero la madre Minami no colabora."
 },
+{
+    id: "H361",
+    titulo: "Aneimo",
+    poster: "https://iili.io/BpImJyv.jpg",
+    bg: [
+        "https://iili.io/BpIm3jp.png",
+        "https://iili.io/BpIm2uR.png",
+        "https://iili.io/BpImFZN.png",
+        "https://iili.io/BpImfnI.png",
+		"https://iili.io/BpImoas.png",
+		"https://iili.io/BpImI9f.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/63984c64d60559de9636c35f616709de1a0597fd5ad177f1a2c4b8a3e2b132d7/ep1.mp4",
+		"https://www.burstcloud.co/embed/d6cd449846e06e4ab56e9e0b317cc96f12a2858ca9d48efa686435c76f7daa69/ep2.mp4"
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Romance", "Tetonas", "sincensura"],
+    tipo: "sincensura",
+    descripcion: "Son buenos amigos desde que eran niños, y van juntos de compras y a esquiar. Un día, Kazuyoshi, el padre de Takumi, lleva a su casa a dos chicas, Saori y Yui, y las acepta como nuevos miembros de la familia."
+},
 ];
