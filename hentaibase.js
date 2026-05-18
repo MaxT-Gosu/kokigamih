@@ -7080,4 +7080,29 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Son buenos amigos desde que eran niños, y van juntos de compras y a esquiar. Un día, Kazuyoshi, el padre de Takumi, lleva a su casa a dos chicas, Saori y Yui, y las acepta como nuevos miembros de la familia."
 },
+{
+    id: "H362",
+    titulo: "Saishuu Chikan Densha",
+    poster: "https://iili.io/ByIgixV.jpg",
+    bg: [
+        "https://iili.io/ByIgLiP.png",
+        "https://iili.io/ByIgZf1.png",
+        "https://iili.io/ByIgmJa.png",
+        "https://iili.io/ByIgyOv.png",
+		"https://iili.io/ByIgsWB.png",
+		"https://iili.io/ByIgp5J.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/513c1ab367793b27017968f18508c09ff3c2be6c8607300a5656b173149899c1/ep1.mp4",
+		"https://www.burstcloud.co/embed/20e8854e777f568982c22fb0871aaf62961b4391fdaa8796d20a760331ea478c/ep2.mp4",
+		"https://www.burstcloud.co/embed/15a0d84216c854d90202ce70cb96365f3071a0ee5a2ade4b5c80e02d195ca39c/ep3.mp4"
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Romance", "Tetonas", "sincensura"],
+    tipo: "sincensura",
+    descripcion: "En un tren abarrotado, el revisor transforma el sexo anónimo en un negocio, convirtiendo el tren en un burdel rodante."
+},
 ];
