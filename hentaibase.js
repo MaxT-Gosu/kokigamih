@@ -7105,4 +7105,28 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "En un tren abarrotado, el revisor transforma el sexo anónimo en un negocio, convirtiendo el tren en un burdel rodante."
 },
+{
+    id: "H363",
+    titulo: "Inyouchuu Etsu Kairaku Henka Taimaroku",
+    poster: "https://iili.io/By0bZxa.jpg",
+    bg: [
+        "https://iili.io/By0bplp.png",
+        "https://iili.io/By0mJRt.png",
+        "https://iili.io/By0mz57.png",
+        "https://iili.io/By0mRWb.png",
+		"https://iili.io/By0m2bn.png",
+		"https://iili.io/By0mcgV.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/e6d275098e6878eda638c2f83e8eaea06d44f66c3dfbbce59c9f7f8b1025a42a/ep1.mp4",
+		"https://www.burstcloud.co/embed/90042c54438a45599223ec4f8a7414cec66214a44a45e490044d5f4b76304bef/ep2.mp4",
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Anal", "Tentaculos", "sincensura"],
+    tipo: "sincensura",
+    descripcion: "Las hermanas Mikoto y Takeru, junto a Yamato, buscan sellar un demonio en Ayagami, utilizando el poder de la Haramiko."
+},
 ];
