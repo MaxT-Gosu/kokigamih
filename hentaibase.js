@@ -7129,4 +7129,27 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Las hermanas Mikoto y Takeru, junto a Yamato, buscan sellar un demonio en Ayagami, utilizando el poder de la Haramiko."
 },
+{
+    id: "H364",
+    titulo: "Inyouchuu Shoku Harami Ochiru",
+    poster: "https://iili.io/BymEOue.jpg",
+    bg: [
+        "https://iili.io/BymEewu.png",
+        "https://iili.io/BymE8nj.png",
+        "https://iili.io/BymEi91.png",
+        "https://iili.io/BymEkZb.png",
+		"https://iili.io/BymE4cB.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/bcbe36c35333f78cd475d85bc93e441810b054a812e9ca70348d8287c13caf68/ep1.mp4",
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Futanari", "Gore", "sincensura"],
+    tipo: "sincensura",
+    descripcion: "Takeru, Mikoto y Sui luchan contra un especialista en yoma oscuro mientras Takeru se entrega a su lujuria por Mikoto."
+},
 ];
