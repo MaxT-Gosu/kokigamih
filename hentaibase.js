@@ -7152,4 +7152,29 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Takeru, Mikoto y Sui luchan contra un especialista en yoma oscuro mientras Takeru se entrega a su lujuria por Mikoto."
 },
+{
+    id: "H365",
+    titulo: "Hitozuma Cosplay Kissa",
+    poster: "https://iili.io/C9Q6st9.png",
+    bg: [
+        "https://iili.io/C9Q6ZMu.png",
+        "https://iili.io/C9Q6t6b.png",
+        "https://iili.io/C9Q6Qne.png",
+        "https://iili.io/C9Q6bFj.png",
+		"https://iili.io/C9Q6mcx.png",
+		"https://iili.io/C9Q6p8Q.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/5dc91d1553bd14bba3e962971bd032fa54e9275483bca9a08815dd9b25e0cc53/ep1.mp4",
+		"https://www.burstcloud.co/embed/f3501f88c012cb8d79ba61f2e1853d221619c165891d0c2ee40c89f0ecb7c743/ep2.mp4"
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Anal", "Orgias", "sincensura"],
+    tipo: "sincensura",
+    descripcion: "Tomoya Asahina cambia los uniformes de su cafetería por cosplay y recibe lecciones de amor de sus camareras, mientras ama a Akiho."
+},
 ];
