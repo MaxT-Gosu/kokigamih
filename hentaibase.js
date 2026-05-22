@@ -7154,20 +7154,21 @@ const baseDeDatos = [{
 },
 {
     id: "H365",
-    titulo: "Hitozuma Cosplay Kissa",
-    poster: "https://iili.io/C9Q6st9.png",
+    titulo: "Hitozuma Cosplay Kissa 2",
+    poster: "https://iili.io/CHCvtII.png",
     bg: [
-        "https://iili.io/C9Q6ZMu.png",
-        "https://iili.io/C9Q6t6b.png",
-        "https://iili.io/C9Q6Qne.png",
-        "https://iili.io/C9Q6bFj.png",
-		"https://iili.io/C9Q6mcx.png",
-		"https://iili.io/C9Q6p8Q.png"
+        "https://iili.io/CHCvy1s.png",
+        "https://iili.io/CHCvpBn.png",
+        "https://iili.io/CHC8d74.png",
+        "https://iili.io/CHC83p2.png",
+		"https://iili.io/CHCvbLX.png",
+		"https://iili.io/CHC89rG.png",
+		"https://iili.io/CHC8KIS.png"
 
     ],
     video: [
-        "https://www.burstcloud.co/embed/5dc91d1553bd14bba3e962971bd032fa54e9275483bca9a08815dd9b25e0cc53/ep1.mp4",
-		"https://www.burstcloud.co/embed/f3501f88c012cb8d79ba61f2e1853d221619c165891d0c2ee40c89f0ecb7c743/ep2.mp4"
+        "https://www.burstcloud.co/embed/83ca69f7095af99140e678c91b20e633eb10710b521328002b2ec74305a38230/ep1.mp4",
+		"https://www.burstcloud.co/embed/f6ddfc5f50ce245d665404f8ba5c326a06d1a0ffb5487dc2a898929f897851b1/ep2.mp4"
 
 
     ],
@@ -7175,6 +7176,6 @@ const baseDeDatos = [{
     fecha: "2020",
     tags: ["Anal", "Orgias", "sincensura"],
     tipo: "sincensura",
-    descripcion: "Tomoya Asahina cambia los uniformes de su cafetería por cosplay y recibe lecciones de amor de sus camareras, mientras ama a Akiho."
+    descripcion: "Para revitalizar su negocio, hace que su equipo de tetonas camareras cambie sus uniformes habituales por trajes de cosplay."
 },
 ];
