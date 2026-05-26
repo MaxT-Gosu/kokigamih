@@ -7178,4 +7178,25 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Para revitalizar su negocio, hace que su equipo de tetonas camareras cambie sus uniformes habituales por trajes de cosplay."
 },
+{
+    id: "H366",
+    titulo: "Kanojo ga Nekomimi ni Kigaetara",
+    poster: "https://iili.io/qfVsTzJ.png",
+    bg: [
+        "https://iili.io/qfVsAsR.png",
+        "https://iili.io/qfVs1bs.png",
+        "https://iili.io/qfVsGzG.png",
+        "https://iili.io/qfVsMXf.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/b9f42bc20445db70d7467118b91d1b78ea26e3d3832fdd132ad8f5533243f856/ep1.mp4",
+        "https://www.burstcloud.co/embed/e3a259d072ea0d2a720d6739af78127cf85763cc1f51ca0ffa3473ca419b1e41/ep2.mp4",
+        "https://www.burstcloud.co/embed/0d08b8e78c7e74f6d57dc4d1062b6c7c4a269da5c7b26496bcd7c4f695dbbfe4/ep3.mp4"
+    ],
+    estudio: "Pashmina",
+    fecha: "2020",
+    tags: ["Romance", "Uncensored", "Oral"],
+    tipo: "sincensura",
+    descripcion: "Tras ganar una apuesta decisiva, un joven descubre que su novia debe cumplir todas sus peticiones, comenzando una dinámica de juegos y sumisión inesperada."
+},
 ];
