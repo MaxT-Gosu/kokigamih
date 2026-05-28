@@ -7199,4 +7199,26 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Tras ganar una apuesta decisiva, un joven descubre que su novia debe cumplir todas sus peticiones, comenzando una dinámica de juegos y sumisión inesperada."
 },
+{
+    id: "H367",
+    titulo: "Yariman Fudousan",
+    poster: "https://i.ibb.co/N6x8QmWv/yariman-fudousan-1-1.jpg",
+    bg: [
+        "https://i.ibb.co/bgRccrLL/vlcsnap-2026-05-28-10h01m18s507.png",
+        "https://i.ibb.co/Fbb5FSFS/vlcsnap-2026-05-28-10h01m44s673.png",
+        "https://i.ibb.co/RphcrzvW/vlcsnap-2026-05-28-10h02m46s744.png",
+        "https://i.ibb.co/cShFy7S5/vlcsnap-2026-05-28-10h03m18s439.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/4e51f6a33e25823bc30b3453f6cae8d43ec58ac1607c56fccbbf82be7723dc36/ep1.mp4",
+        "https://www.burstcloud.co/embed/8bc2c4214dce48bbad7e23fcc59b918330102ddbb988a4180599ec9b37f88d49/ep2.mp4",
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Romance", "Haren", "Oral"],
+    tipo: "censurado",
+    descripcion: "La historia gira en torno a los clientes que visitan una agencia inmobiliaria con una presidenta lujuriosa que mantiene relaciones sexuales con su subordinado, tras visitar varios lugares para sus clientes."
+},
 ];
