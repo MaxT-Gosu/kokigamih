@@ -7221,4 +7221,29 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "La historia gira en torno a los clientes que visitan una agencia inmobiliaria con una presidenta lujuriosa que mantiene relaciones sexuales con su subordinado, tras visitar varios lugares para sus clientes."
 },
+{
+    id: "H368",
+    titulo: "Jokei Kazoku: Inbou",
+    poster: "https://iili.io/C2bYI0N.jpg",
+    bg: [
+        "https://iili.io/C2bYAJt.png",
+        "https://iili.io/C2bYR5X.png",
+        "https://iili.io/C2bY7bs.png",
+        "https://iili.io/C2bYcXf.png",
+		"https://iili.io/C2bYTgI.png",
+		"https://iili.io/C2bYls4.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/98cc69a63527d864b15628a3dd63911e1d3a3ef1cc1fcfe0e27807c8a8c86692/ep1.mp4",
+        "https://www.burstcloud.co/embed/2d6bd0aadcfea9d91026fb321c797e976da81faaf4340d11c8ea2168a9a637e4/ep2.mp4",
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Maids", "Haren", "Sin censura"],
+    tipo: "sincensura",
+    descripcion: "Arimiya Kamoshige, gobernador por 40 años, murió. Su esposa e hijas buscan su fortuna; un joven llamado Tatsuya Katori aparece en medio del conflicto."
+},
 ];
+
