@@ -7245,5 +7245,29 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Arimiya Kamoshige, gobernador por 40 años, murió. Su esposa e hijas buscan su fortuna; un joven llamado Tatsuya Katori aparece en medio del conflicto."
 },
+{
+    id: "H369",
+    titulo: "Cartagra Tsuki Gurui no Yamai",
+    poster: "https://iili.io/CFI3Obt.jpg",
+    bg: [
+        "https://iili.io/CFI38ss.png",
+        "https://iili.io/CFI3kzX.png",
+        "https://iili.io/CFI3vXn.png",
+        "https://iili.io/CFI3UqG.png",
+		"https://iili.io/CFI3g1f.png",
+		"https://iili.io/CFI3rg4.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/83b043f588a26fc7cbb6ac6e4e576b432afc72f8a6dfc346763b671295ef925a/ep1.mp4",
+        "https://www.burstcloud.co/embed/483781aef6ff1ab874988621a58cc7552252fbf6a6af10f3317542d30fd20e6c/ep2.mp4",
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Maids", "Haren", "Sin censura"],
+    tipo: "sincensura",
+    descripcion: "En la casa de los Kouzuki, origen del caso de desaparición, se encuentra con Kouzuki Kazuna. Se trata de una joven que tiene los mismos rasgos que Kouzuki Yura, una amante con la que antes había estado en secreto. "
+},
 ];
 
