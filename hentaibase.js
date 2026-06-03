@@ -7269,5 +7269,29 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "En la casa de los Kouzuki, origen del caso de desaparición, se encuentra con Kouzuki Kazuna. Se trata de una joven que tiene los mismos rasgos que Kouzuki Yura, una amante con la que antes había estado en secreto. "
 },
+{
+    id: "H370",
+    titulo: "Miboujin: Numeriau Nikuyoku to Midara ni Nureru Mitsusubo",
+    poster: "https://iili.io/CKTVcZX.png",
+    bg: [
+        "https://iili.io/CKTV1Gs.png",
+        "https://iili.io/CKTV0nn.png",
+        "https://iili.io/CKTVE6G.png",
+        "https://iili.io/CKTVMFf.png",
+		"https://iili.io/CKTVW8l.png",
+		"https://iili.io/CKTVh92.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/ae868c5b580b59fd6dafd8fde140b79f6eedcec90abdd23fccd09bcd80bcda22/ep1.mp4",
+        "https://www.burstcloud.co/embed/e4928ddc0204209c3880d82512adab309c4010655cf7d85df704223d14a253a9/ep2.mp4",
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Milfs", "Haren", "Sin censura"],
+    tipo: "sincensura",
+    descripcion: "Taeko, tras perder a su marido, vive en la residencia familiar. Su hermano Kaoru llega del extranjero, mientras amigos Toshiki y Miyuki la visitan preocupados por su luto."
+},
 ];
 
