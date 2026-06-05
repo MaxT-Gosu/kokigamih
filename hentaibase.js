@@ -7293,5 +7293,32 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Taeko, tras perder a su marido, vive en la residencia familiar. Su hermano Kaoru llega del extranjero, mientras amigos Toshiki y Miyuki la visitan preocupados por su luto."
 },
+{
+    id: "H371",
+    titulo: "Waver",
+    poster: "https://i.ibb.co/8DtrJDQg/behind-closed-doors-1-92je7djx-1.jpg",
+    bg: [
+        "https://i.ibb.co/HpYRKHY8/vlcsnap-2026-06-05-09h49m42s910.png",
+        "https://i.ibb.co/nNW4B2bz/vlcsnap-2026-06-05-09h50m28s930.png",
+        "https://i.ibb.co/3yc348Ct/vlcsnap-2026-06-05-09h51m09s111.png",
+        "https://i.ibb.co/Hp3BqxWc/vlcsnap-2026-06-05-09h52m45s276.png",
+		"https://i.ibb.co/KcRCd1Lv/vlcsnap-2026-06-05-09h49m34s913.png",
+		"https://i.ibb.co/gZz3qN3G/vlcsnap-2026-06-05-09h50m12s323.png",
+		"https://i.ibb.co/VW8wyrGK/vlcsnap-2026-06-05-09h50m37s284.png",
+		"https://i.ibb.co/fz9XQX0j/vlcsnap-2026-06-05-09h53m14s444.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/272feed405627920515e86cb4142d9060bc645458a24e655ba5a5da6abcc5569/ep1.mp4",
+        "https://www.burstcloud.co/embed/2a00016d698617f2403a7621dd6f267f97dcdb57d79b33e7b33afea498406e25/ep2.mp4",
+		"https://www.burstcloud.co/embed/8a87ff11fb616ba33c59160d9a309f2531a540955b51904a8c36c574b94e6abf/ep3.mp4"
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Bondage", "Haren", "Sin censura"],
+    tipo: "sincensura",
+    descripcion: "Una mansión prohibida esconde eróticos placeres, donde mujeres seductoras buscan dolor, desafiando al hombre que intente dominarlas."
+},
 ];
 
