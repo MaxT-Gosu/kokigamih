@@ -7320,5 +7320,28 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Una mansión prohibida esconde eróticos placeres, donde mujeres seductoras buscan dolor, desafiando al hombre que intente dominarlas."
 },
+{
+    id: "H372",
+    titulo: "Waver",
+    poster: "https://i.ibb.co/chV97jB1/dirty-thoughts-1-SWk-GXm-Cq-YJ.jpg",
+    bg: [
+        "https://i.ibb.co/xS3M16hS/vlcsnap-2026-06-08-11h56m00s130.png",
+        "https://i.ibb.co/spVChR5V/vlcsnap-2026-06-08-11h56m05s573.png",
+        "https://i.ibb.co/fsy7wHK/vlcsnap-2026-06-08-11h56m16s167.png",
+        "https://i.ibb.co/CpNNNd6h/vlcsnap-2026-06-08-11h56m50s792.png",
+		"https://i.ibb.co/tpYjC2sy/vlcsnap-2026-06-08-11h56m59s993.png"
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/8b71e433c225bc69943741e80dbb12ad4f4af8b8c69fa3d2a8ceefc11d2ace1f/ep1.mp4",
+        "https://www.burstcloud.co/embed/0be29064937a1ad6a6b6dfa33831aa381616462451cbda26119769789771785b/ep2.mp4"
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Milfs", "Haren", "Sin censura"],
+    tipo: "sincensura",
+    descripcion: "Sayaka, nueva y popular, es amable pero coqueta. Su romance con un alumno causó un escándalo, forzándola a cambiar de universidad."
+},
 ];
 
