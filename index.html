@@ -9,7 +9,7 @@
         :root { 
             --bg-color: #141414; 
             --bg-color-alt: #1a1a1a; 
-            --accent-color: #ff0055; /* Un tono rosado/rojo para Kokigamih */
+            --accent-color: #ff0055; 
             --text-color: #ffffff;
             --text-color-sec: #b3b3b3; 
             --skeleton-bg: #222222; 
@@ -20,74 +20,84 @@
         
         /* Animación Skeleton */
         @keyframes shimmer { 0% { background-position: -200% 0; } 100% { background-position: 200% 0; } }
-        .skeleton { background: linear-gradient(90deg, var(--bg-color-alt) 25%, var(--skeleton-bg) 50%, var(--bg-color-alt) 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: 4px; }
+        .skeleton { background: linear-gradient(90deg, var(--bg-color-alt) 25%, var(--skeleton-bg) 50%, var(--bg-color-alt) 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: 8px; }
         
         .container { width:100%; padding-bottom:100px; }
         
-        /* --- HEADER RESTAURADO (ESTILO CINEMAX ORIGINAL) --- */
+        /* HEADER ESTILO PARAMOUNT */
         header { 
-            display: flex; justify-content: space-between; align-items: center; 
-            padding: 15px 20px; 
-            /* Fondo degradado de negro a transparente */
-            background: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%, transparent 100%); 
+            display: flex; justify-content: center; align-items: center; 
+            padding: 20px; 
+            background: linear-gradient(to bottom, rgba(0,0,0,0.9) 0%, transparent 100%); 
             position: fixed; width: 100%; z-index: 100;
         }
-        header h1 { font-size: 28px; color: var(--accent-color); font-weight: 900; letter-spacing: -1px; text-transform: uppercase; font-family: 'Arial Black', sans-serif;}
+        header h1 { font-size: 24px; color: var(--accent-color); font-weight: 900; letter-spacing: 1px; text-transform: uppercase; font-family: 'Arial Black', sans-serif;}
 
-        /* HERO ESTILO CINEMAX */
-        .hero { 
-            position: relative; width: 100%; height: 70vh; overflow: hidden; background: #000; 
+        /* HERO ESTILO PARAMOUNT+ (Carrusel de Posters Redondeados) */
+        .hero-carousel {
+            position: relative; width: 100%; pt: 80px; padding: 90px 0 20px 0;
+            display: flex; overflow-x: auto; scroll-snap-type: x mandatory;
+            gap: 15px; padding-left: 20px; padding-right: 20px;
+            scrollbar-width: none;
         }
-        .hero img { 
-            width: 100%; height: 100%; object-fit: cover; object-position: top; opacity: 0; transition: opacity 1.2s ease-in-out; 
+        .hero-carousel::-webkit-scrollbar { display: none; }
+        
+        .hero-card {
+            flex: 0 0 85%; scroll-snap-align: center;
+            position: relative; aspect-ratio: 2/3; max-height: 65vh;
+            border-radius: 16px; overflow: hidden; background: #000;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
         }
-        .hero::after { 
+        .hero-card img { 
+            width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.8s ease-in-out; 
+        }
+        .hero-card::after { 
             content: ''; position: absolute; inset: 0;
-            background: linear-gradient(to top, var(--bg-color) 2%, transparent 40%),
-                        linear-gradient(to right, rgba(20,20,20,0.7) 0%, transparent 60%);
+            background: linear-gradient(to top, rgba(20,20,20,0.95) 0%, rgba(20,20,20,0.4) 40%, transparent 100%);
         }
-        .hero-content { position: absolute; bottom: 10%; left: 5%; width: 90%; z-index: 10; }
-        .hero-content h2 { font-size: clamp(24px, 7vw, 42px); font-weight: 900; margin-bottom: 15px; line-height: 1.1; text-shadow: 2px 2px 10px rgba(0,0,0,0.8); }
+        .hero-content { position: absolute; bottom: 5%; left: 5%; width: 90%; z-index: 10; text-align: center; }
+        .hero-content h2 { font-size: clamp(18px, 5vw, 28px); font-weight: 900; margin-bottom: 12px; line-height: 1.2; text-shadow: 2px 2px 8px rgba(0,0,0,0.9); }
+        .hero-btns { display: flex; justify-content: center; gap: 10px; }
         .hero-btns button { 
-            background: var(--accent-color); color: #fff; border: none;
-            padding: 12px 24px; font-size: 15px; font-weight: 700; 
-            border-radius: 4px; cursor: pointer; display: flex; align-items: center; gap: 10px;
+            background: #ffffff; color: #000; border: none;
+            padding: 10px 20px; font-size: 14px; font-weight: 700; 
+            border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 8px;
+            text-transform: uppercase;
+        }
+        .hero-btns button.btn-list {
+            background: rgba(255,255,255,0.25); color: #fff; backdrop-filter: blur(10px);
         }
 
         /* SECCIONES */
-        #sections-container { margin-top: -20px; position: relative; z-index: 20; }
-        .section { margin-bottom: 25px; padding-left: 15px; }
-        .section h2 { font-size: 17px; margin-bottom: 12px; font-weight: 700; color: var(--text-color); }
+        #sections-container { margin-top: 10px; position: relative; z-index: 20; }
+        .section { margin-bottom: 30px; padding-left: 15px; }
+        .section h2 { font-size: 18px; margin-bottom: 15px; font-weight: 700; color: var(--text-color); letter-spacing: -0.3px; }
         
-        .scroll-row { display: flex; overflow-x: auto; gap: 12px; padding-bottom: 12px; scrollbar-width: none; padding-right: 20px; }
+        .scroll-row { display: flex; overflow-x: auto; gap: 14px; padding-bottom: 12px; scrollbar-width: none; padding-right: 20px; }
         .scroll-row::-webkit-scrollbar { display: none; }
         
         .card-item { flex-shrink: 0; cursor: pointer; transition: transform 0.2s; position: relative; display: flex; flex-direction: column; }
         .card-item:active { transform: scale(0.95); }
-        .img-wrapper { width: 100%; border-radius: 4px; overflow: hidden; background: var(--skeleton-bg); border: 1px solid rgba(255,255,255,0.05); }
+        .img-wrapper { width: 100%; border-radius: 8px; overflow: hidden; background: var(--skeleton-bg); border: 1px solid rgba(255,255,255,0.05); }
         .img-wrapper img { width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.5s; }
         
-        /* Estilo para los títulos debajo de las cards */
+        /* Forzar visualización vertical estilo Paramount poster */
+        .card-item { width: 125px; } 
+        .img-wrapper { aspect-ratio: 2/3; }
+
         .card-title {
-            font-size: 11px;
-            color: var(--text-color-sec);
-            margin-top: 6px;
-            text-align: center;
-            padding: 0 4px;
-            /* Lógica para truncar texto si es muy largo */
-            display: -webkit-box;
-            -webkit-line-clamp: 2; /* Máximo 2 líneas */
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            line-height: 1.3;
+            font-size: 12px; color: var(--text-color-sec); margin-top: 6px; text-align: left; padding: 0 2px;
+            display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;
         }
 
-        /* Tipos de fila (ajustados para incluir texto) */
-        .row-h .card-item { width: 220px; } 
-        .row-h .img-wrapper { aspect-ratio: 16/9; }
-        .row-v .card-item { width: 135px; } 
-        .row-v .img-wrapper { aspect-ratio: 2/3; }
+        /* DISEÑO DE NÚMEROS TOP 10 (FIEL A IMAGEN_2A161D.JPG) */
+        .row-top10 .card-item { width: 155px; padding-left: 35px; overflow: visible; }
+        .row-top10 .rank-number {
+            position: absolute; left: -10px; bottom: -5px;
+            font-size: 90px; font-weight: 900; font-family: 'Arial Black', sans-serif;
+            color: #141414; text-shadow: -2px -2px 0 #fff, 2px -2px 0 #fff, -2px 2px 0 #fff, 2px 2px 0 #fff;
+            line-height: 1; z-index: 5; pointer-events: none;
+        }
 
         /* BUSCADOR */
         #modal-busqueda { display: none; position: fixed; inset: 0; background: rgba(20, 20, 20, 0.98); z-index: 2000; padding: 20px; backdrop-filter: blur(15px); overflow-y: auto; }
@@ -96,7 +106,6 @@
         #resultados-busqueda { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 20px; }
         .res-item { background: var(--bg-color-alt); border-radius: 4px; overflow: hidden; aspect-ratio: 2/3; position: relative; }
         .res-item img { width: 100%; height: 100%; object-fit: cover; }
-        /* Título en buscador (overlay inferior como en Cinemax original) */
         .res-title { position: absolute; bottom: 0; width: 100%; background: rgba(0, 0, 0, 0.8); color: #fff; font-size: 9px; text-align: center; padding: 4px 0; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
         /* MENÚ INFERIOR PREMIUM */
@@ -120,30 +129,30 @@
         <div id="resultados-busqueda"></div>
     </div>
     
-    <div class="hero skeleton" id="hero-box">
-        <img id="hero-img" src="" alt="">
-        <div class="hero-content">
-            <h2 id="hero-title">Cargando...</h2>
-            <div class="hero-btns">
-                <button id="hero-btn-play"><i class="fas fa-play"></i> VER AHORA</button>
-            </div>
-        </div>
+    <!-- CONTENEDOR HERO ESTILO PARAMOUNT DE 5 PORTADAS -->
+    <div class="hero-carousel" id="hero-container">
+        <!-- Generación dinámica de las 5 portadas en formato vertical -->
     </div>
 
     <div id="sections-container">
         <div class="section">
             <h2>Agregados recientemente</h2>
-            <div class="scroll-row row-h" id="row-recientes"></div>
+            <div class="scroll-row" id="row-recientes"></div>
         </div>
 
         <div class="section">
-            <h2>Hentais más vistos</h2>
-            <div class="scroll-row row-v" id="row-mas-vistos"></div>
+            <h2>Más vistos de la semana</h2>
+            <div class="scroll-row" id="row-mas-vistos"></div>
         </div>
 
         <div class="section">
-            <h2>Hentais sin censura</h2>
-            <div class="scroll-row row-v" id="row-sincensura"></div>
+            <h2>Top 10 sin censura</h2>
+            <div class="scroll-row row-top10" id="row-sincensura"></div>
+        </div>
+
+        <div class="section">
+            <h2>Top 10 semanales</h2>
+            <div class="scroll-row row-top10" id="row-semanales"></div>
         </div>
     </div>
 </div>
@@ -160,65 +169,114 @@
     document.addEventListener("DOMContentLoaded", () => {
         if (typeof baseDeDatos !== 'undefined') {
             window.db = baseDeDatos;
-            cargarApp();
+            cargarAppParamount();
         }
     });
 
-    function cargarApp() {
-        // --- LOGICA HERO ---
-        const itemHero = window.db[Math.floor(Math.random() * window.db.length)];
-        const imgHero = document.getElementById("hero-img");
-        const boxHero = document.getElementById("hero-box");
-        
-        imgHero.src = (Array.isArray(itemHero.bg) ? itemHero.bg[0] : itemHero.bg) || itemHero.poster;
-        document.getElementById("hero-title").innerText = itemHero.titulo;
-        document.getElementById("hero-btn-play").onclick = () => abrirReproductor(itemHero.id);
-        
-        imgHero.onload = () => {
-            imgHero.style.opacity = '0.7';
-            boxHero.classList.remove('skeleton');
-        };
+    // Utilería para gestionar caché temporal con LocalStorage
+    function obtenerDatosCache(clave, tiempoExpiracionMs, generadorDatos) {
+        const cache = localStorage.getItem(clave);
+        const cacheTime = localStorage.getItem(`${clave}_time`);
+        const ahora = Date.now();
 
-        // --- FILA RECIENTES (Horizontal) ---
+        if (cache && cacheTime && (ahora - cacheTime < tiempoExpiracionMs)) {
+            return JSON.parse(cache);
+        } else {
+            const nuevosDatos = generadorDatos();
+            localStorage.setItem(clave, JSON.stringify(nuevosDatos));
+            localStorage.setItem(`${clave}_time`, ahora);
+            return nuevosDatos;
+        }
+    }
+
+    function cargarAppParamount() {
+        // --- LOGICA HERO (5 Portadas tomadas de las imágenes poster) ---
+        const heroContainer = document.getElementById("hero-container");
+        const itemsHero = obtenerDatosCache('pm_hero_cache', 24 * 60 * 60 * 1000, () => {
+            return [...window.db].sort(() => 0.5 - Math.random()).slice(0, 5).map(i => i.id);
+        });
+
+        itemsHero.forEach(id => {
+            const item = window.db.find(x => x.id === id);
+            if(item) {
+                const card = document.createElement('div');
+                card.className = 'hero-card skeleton';
+                card.innerHTML = `
+                    <img src="${item.poster}" onload="this.style.opacity='1'; this.parentElement.classList.remove('skeleton')" loading="lazy">
+                    <div class="hero-content">
+                        <h2>${item.titulo}</h2>
+                        <div class="hero-btns">
+                            <button onclick="abrirReproductor(${item.id})"><i class="fas fa-play"></i> VER AHORA</button>
+                            <button class="btn-list"><i class="fas fa-plus"></i> MI LISTA</button>
+                        </div>
+                    </div>
+                `;
+                heroContainer.appendChild(card);
+            }
+        });
+
+        // --- FILA RECIENTES (Últimos agregados en orden inverso) ---
         const rowRecientes = document.getElementById('row-recientes');
-        [...window.db].reverse().slice(0, 8).forEach(item => {
-            const horizontalImg = (Array.isArray(item.bg) ? item.bg[1] || item.bg[0] : item.bg) || item.poster;
-            rowRecientes.appendChild(crearCard(item, horizontalImg, true));
+        [...window.db].reverse().slice(0, 10).forEach(item => {
+            rowRecientes.appendChild(crearCardParamount(item, false));
         });
 
-        // --- FILA MAS VISTOS (Vertical) ---
+        // --- FILA MÁS VISTOS DE LA SEMANA (Cambia cada 24 horas) ---
         const rowMasVistos = document.getElementById('row-mas-vistos');
-        [...window.db].sort(() => 0.5 - Math.random()).slice(0, 8).forEach(item => {
-            rowMasVistos.appendChild(crearCard(item, item.poster, false));
+        const idsMasVistos = obtenerDatosCache('pm_vistos_24h', 24 * 60 * 60 * 1000, () => {
+            return [...window.db].sort(() => 0.5 - Math.random()).slice(0, 10).map(i => i.id);
+        });
+        idsMasVistos.forEach(id => {
+            const item = window.db.find(x => x.id === id);
+            if(item) rowMasVistos.appendChild(crearCardParamount(item, false));
         });
 
-        // --- FILA SIN CENSURA (Vertical) ---
+        // --- FILA TOP 10 SIN CENSURA con números (Cambia cada 48 horas) ---
         const rowSinCensura = document.getElementById('row-sincensura');
-        window.db.filter(item => item.tipo === 'sincensura').slice(0, 8).forEach(item => {
-            rowSinCensura.appendChild(crearCard(item, item.poster, false));
+        const idsSinCensura = obtenerDatosCache('pm_sincensura_48h', 48 * 60 * 60 * 1000, () => {
+            return window.db.filter(item => item.tipo === 'sincensura').sort(() => 0.5 - Math.random()).slice(0, 10).map(i => i.id);
+        });
+        idsSinCensura.forEach((id, index) => {
+            const item = window.db.find(x => x.id === id);
+            if(item) rowSinCensura.appendChild(crearCardParamount(item, true, index + 1));
+        });
+
+        // --- FILA TOP 10 SEMANALES con números (Cambia cada semana) ---
+        const rowSemanales = document.getElementById('row-semanales');
+        const idsSemanales = obtenerDatosCache('pm_semanales_7d', 7 * 24 * 60 * 60 * 1000, () => {
+            return [...window.db].sort(() => 0.5 - Math.random()).slice(0, 10).map(i => i.id);
+        });
+        idsSemanales.forEach((id, index) => {
+            const item = window.db.find(x => x.id === id);
+            if(item) rowSemanales.appendChild(crearCardParamount(item, true, index + 1));
         });
 
         configurarBuscador();
     }
 
-    // Función unificada para crear cards con el nuevo diseño e INCLUIR TITULO
-    function crearCard(item, imgUrl, esHorizontal) {
+    // Constructor de tarjetas alineado al esquema visual Paramount+
+    function crearCardParamount(item, esTop10, numero) {
         const div = document.createElement('div');
         div.className = 'card-item';
         div.onclick = () => abrirReproductor(item.id);
         
-        // Se añade la clase .card-title debajo del wrapper de la imagen
-        div.innerHTML = `
+        let estructuraInterna = `
             <div class="img-wrapper skeleton">
-                <img src="${imgUrl}" onload="this.style.opacity='1'; this.parentElement.classList.remove('skeleton')" loading="lazy">
+                <img src="${item.poster}" onload="this.style.opacity='1'; this.parentElement.classList.remove('skeleton')" loading="lazy">
             </div>
             <div class="card-title">${item.titulo}</div>
         `;
+
+        if (esTop10) {
+            estructuraInterna = `<span class="rank-number">${numero}</span>` + estructuraInterna;
+        }
+
+        div.innerHTML = estructuraInterna;
         return div;
     }
 
     function abrirReproductor(id) {
-        localStorage.setItem('hentai_id', id); // Mantiene tu lógica de comunicación
+        localStorage.setItem('hentai_id', id);
         window.location.href = "playhentai.html";
     }
 
@@ -236,7 +294,6 @@
                 const resItem = document.createElement('div');
                 resItem.className = 'res-item';
                 resItem.onclick = () => abrirReproductor(item.id);
-                // Incluye título en buscador con estilo Cinemax (overlay)
                 resItem.innerHTML = `<img src="${item.poster}"><div class="res-title">${item.titulo}</div>`;
                 resultadosDiv.appendChild(resItem);
             });
