@@ -125,12 +125,12 @@ const baseDeDatos = [{
     }, {
         id: "H8",
         titulo: "Night Tail",
-        poster: "https://iili.io/qIdQX9I.png",
+        poster: "https://i.ibb.co/1Y4GhYVC/image-169.png",
         bg: [
-            "https://iili.io/qIdQMap.png",
-            "https://iili.io/qIdQOns.png",
-            "https://iili.io/qIdQkPf.png",
-            "https://iili.io/qIdQScl.png"
+            "https://i.ibb.co/pBPsxW40/image-184.png",
+            "https://i.ibb.co/jvC9Vy4W/image-191.png",
+            "https://i.ibb.co/ZpnPnBZF/image-364.png",
+            "https://i.ibb.co/wmGBWX7/Night-Tail-4.png"
         ],
         video: [
             "https://www.burstcloud.co/embed/acd413209029d267000883873390e52e6b4e12092df5ec5a37a31690501d238e/ep1.mp4",
@@ -144,12 +144,12 @@ const baseDeDatos = [{
     }, {
         id: "H9",
         titulo: "Niku Mesu R30 Nikuyoku ni Ochita Mesu",
-        poster: "https://iili.io/qT3lr8b.jpg",
+        poster: "https://i.ibb.co/0jK6Drkg/niku-mesu-r30-nikuyoku-ni-ochita-mesu-tachi-1.jpg",
         bg: [
-            "https://iili.io/qT3lNwl.jpg",
-            "https://iili.io/qT3lOt2.jpg",
-            "https://iili.io/qT3lknS.jpg",
-            "https://iili.io/qT3liwQ.jpg"
+            "https://i.ibb.co/gLgGfyHr/615.jpg",
+            "https://i.ibb.co/rKnYyQbg/machi-gurumi-no-wana-hakudaku-ni.jpg",
+            "https://i.ibb.co/fdKtc1dz/niku-mesu-r30-nikuyoku-ni-ochita.jpg",
+            "https://i.ibb.co/hRjzYbZ7/thumb-h.jpg"
         ],
         video: [
             "https://www.burstcloud.co/embed/90a50d111d2169bfe7eab5bfe8f273604b439c87f09a3e8daa52776f49dadd23/ep1.mp4"
