@@ -90,13 +90,20 @@
             display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;
         }
 
-        /* DISEÑO DE NÚMEROS TOP 10 (FIEL A IMAGEN_2A161D.JPG) */
-        .row-top10 .card-item { width: 155px; padding-left: 35px; overflow: visible; }
+        /* DISEÑO DE NÚMEROS TOP 10 CORREGIDO */
+        .row-top10 .card-item { width: 145px; padding-left: 30px; overflow: visible; }
         .row-top10 .rank-number {
-            position: absolute; left: -10px; bottom: -5px;
-            font-size: 90px; font-weight: 900; font-family: 'Arial Black', sans-serif;
-            color: #141414; text-shadow: -2px -2px 0 #fff, 2px -2px 0 #fff, -2px 2px 0 #fff, 2px 2px 0 #fff;
-            line-height: 1; z-index: 5; pointer-events: none;
+            position: absolute; 
+            left: -10px; 
+            bottom: 25px; /* Sube el número para que no tape el título */
+            font-size: 65px; /* Tamaño reducido para no ser tan invasivo */
+            font-weight: 900; 
+            font-family: 'Arial Black', sans-serif;
+            color: #141414; 
+            text-shadow: -1.5px -1.5px 0 #fff, 1.5px -1.5px 0 #fff, -1.5px 1.5px 0 #fff, 1.5px 1.5px 0 #fff; 
+            line-height: 1; 
+            z-index: 5; 
+            pointer-events: none;
         }
 
         /* BUSCADOR */
@@ -129,10 +136,8 @@
         <div id="resultados-busqueda"></div>
     </div>
     
-    <!-- CONTENEDOR HERO ESTILO PARAMOUNT DE 5 PORTADAS -->
     <div class="hero-carousel" id="hero-container">
-        <!-- Generación dinámica de las 5 portadas en formato vertical -->
-    </div>
+        </div>
 
     <div id="sections-container">
         <div class="section">
@@ -196,17 +201,20 @@
             return [...window.db].sort(() => 0.5 - Math.random()).slice(0, 5).map(i => i.id);
         });
 
+        heroContainer.innerHTML = ""; // Limpia duplicados por si acaso
+
         itemsHero.forEach(id => {
             const item = window.db.find(x => x.id === id);
             if(item) {
                 const card = document.createElement('div');
                 card.className = 'hero-card skeleton';
+                // Comillas simples agregadas en '${item.id}'
                 card.innerHTML = `
                     <img src="${item.poster}" onload="this.style.opacity='1'; this.parentElement.classList.remove('skeleton')" loading="lazy">
                     <div class="hero-content">
                         <h2>${item.titulo}</h2>
                         <div class="hero-btns">
-                            <button onclick="abrirReproductor(${item.id})"><i class="fas fa-play"></i> VER AHORA</button>
+                            <button onclick="abrirReproductor('${item.id}')"><i class="fas fa-play"></i> VER AHORA</button>
                             <button class="btn-list"><i class="fas fa-plus"></i> MI LISTA</button>
                         </div>
                     </div>
@@ -215,14 +223,16 @@
             }
         });
 
-        // --- FILA RECIENTES (Últimos agregados en orden inverso) ---
+        // --- FILA RECIENTES ---
         const rowRecientes = document.getElementById('row-recientes');
+        rowRecientes.innerHTML = "";
         [...window.db].reverse().slice(0, 10).forEach(item => {
             rowRecientes.appendChild(crearCardParamount(item, false));
         });
 
-        // --- FILA MÁS VISTOS DE LA SEMANA (Cambia cada 24 horas) ---
+        // --- FILA MÁS VISTOS DE LA SEMANA ---
         const rowMasVistos = document.getElementById('row-mas-vistos');
+        rowMasVistos.innerHTML = "";
         const idsMasVistos = obtenerDatosCache('pm_vistos_24h', 24 * 60 * 60 * 1000, () => {
             return [...window.db].sort(() => 0.5 - Math.random()).slice(0, 10).map(i => i.id);
         });
@@ -231,8 +241,9 @@
             if(item) rowMasVistos.appendChild(crearCardParamount(item, false));
         });
 
-        // --- FILA TOP 10 SIN CENSURA con números (Cambia cada 48 horas) ---
+        // --- FILA TOP 10 SIN CENSURA ---
         const rowSinCensura = document.getElementById('row-sincensura');
+        rowSinCensura.innerHTML = "";
         const idsSinCensura = obtenerDatosCache('pm_sincensura_48h', 48 * 60 * 60 * 1000, () => {
             return window.db.filter(item => item.tipo === 'sincensura').sort(() => 0.5 - Math.random()).slice(0, 10).map(i => i.id);
         });
@@ -241,8 +252,9 @@
             if(item) rowSinCensura.appendChild(crearCardParamount(item, true, index + 1));
         });
 
-        // --- FILA TOP 10 SEMANALES con números (Cambia cada semana) ---
+        // --- FILA TOP 10 SEMANALES ---
         const rowSemanales = document.getElementById('row-semanales');
+        rowSemanales.innerHTML = "";
         const idsSemanales = obtenerDatosCache('pm_semanales_7d', 7 * 24 * 60 * 60 * 1000, () => {
             return [...window.db].sort(() => 0.5 - Math.random()).slice(0, 10).map(i => i.id);
         });
@@ -258,7 +270,8 @@
     function crearCardParamount(item, esTop10, numero) {
         const div = document.createElement('div');
         div.className = 'card-item';
-        div.onclick = () => abrirReproductor(item.id);
+        // Comillas en template string para asegurar que se pase como cadena
+        div.onclick = () => abrirReproductor(`${item.id}`);
         
         let estructuraInterna = `
             <div class="img-wrapper skeleton">
@@ -293,7 +306,7 @@
             window.db.filter(item => item.titulo.toLowerCase().includes(texto)).forEach(item => {
                 const resItem = document.createElement('div');
                 resItem.className = 'res-item';
-                resItem.onclick = () => abrirReproductor(item.id);
+                resItem.onclick = () => abrirReproductor(`${item.id}`);
                 resItem.innerHTML = `<img src="${item.poster}"><div class="res-title">${item.titulo}</div>`;
                 resultadosDiv.appendChild(resItem);
             });
