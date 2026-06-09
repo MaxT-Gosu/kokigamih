@@ -1,12 +1,11 @@
 const baseDeDatos = [{
         id: "H1",
         titulo: "Bakunyuu Oyako",
-        poster: "https://iili.io/qxaeEZl.jpg",
+        poster: "https://veohentai.com/wp-content/uploads/2022/08/bakunyuu-oyako-1-1.jpg",
         bg: [
-            "https://iili.io/qxaeW67.png",
-            "https://iili.io/qxaejae.png",
-            "https://iili.io/qxaevZQ.png",
-            "https://iili.io/qxaeUMB.png"
+            "https://veohentai.com/wp-content/uploads/2022/08/bakunyuu-oyako-2.jpg",
+            "https://veohentai.com/wp-content/uploads/2022/08/bakunyuu-oyako-1.jpg"
+
         ],
         video: [
             "https://www.burstcloud.co/embed/a02abafa62c58e667405ea44b4f81b41055c932a0e2d6c7de236ae3a5a6381d2/ep1.mp4",
@@ -20,12 +19,10 @@ const baseDeDatos = [{
     }, {
         id: "H2",
         titulo: "Nightmare x Deathscythe",
-        poster: "https://iili.io/qI9ORSV.png",
+        poster: "https://veohentai.com/wp-content/uploads/2023/05/Nightmare-x-Deathscythe-Episode-1.jpg",
         bg: [
-            "https://iili.io/qI9Oq9S.png",
-            "https://iili.io/qI9O3F4.png",
-            "https://iili.io/qI9OKS2.png",
-            "https://iili.io/qI9OdPf.png"
+            "https://veohentai.com/wp-content/uploads/2023/12/c1226876sample13.jpg",
+
         ],
         video: [
             "https://www.burstcloud.co/embed/86f1f74015c506d3026020ba601b605c1fd2dab9fbc9b75d9f2673fa54601f4b/ep1.mp4",
@@ -39,12 +36,11 @@ const baseDeDatos = [{
     }, {
         id: "H3",
         titulo: "Seiyoku Tsuyo Tsuyo",
-        poster: "https://iili.io/qI9yB4f.png",
+        poster: "https://veohentai.com/wp-content/uploads/2024/08/Seiyoku-Tsuyotsuyo-The-Animation-Episodio-1.jpg",
         bg: [
-            "https://iili.io/qI9yHkN.png",
-            "https://iili.io/qI9y2It.png",
-            "https://iili.io/qI9yFQn.png",
-            "https://iili.io/qI9py2R.png"
+            "https://veohentai.com/wp-content/uploads/2024/08/c1283624sample3.jpg",
+            "https://veohentai.com/wp-content/uploads/2024/08/94746h.jpg",
+
         ],
         video: [
             "https://www.burstcloud.co/embed/6be4adad6db4ab45268fe42af5211fd044449d0edcbb7b697f8eddaa9dffb91d/ep1.mp4",
@@ -57,13 +53,11 @@ const baseDeDatos = [{
         descripcion: "Nanase, una chica gal insatisfecha con su vida sexual, se burla de Nozaki, su compañero otaku. Planea humillarlo haciéndole mostrar su miembro, pero queda impactada por su tamaño. Su deseo crece y termina usándolo para su propio placer."
     }, {
         id: "H4",
-        titulo: "Natsu ga Owaru made: Natsu no Owari",
-        poster: "https://iili.io/qIHuXeI.png",
+        titulo: "Natsu ga Owaru made Natsu no Owari",
+        poster: "https://veohentai.com/wp-content/uploads/2024/07/Natsu-ga-Owaru-made-Natsu-no-Owari-The-Animation-Episodio-2.jpg",
         bg: [
-            "https://iili.io/qIHu7b1.png",
-            "https://iili.io/qIHu5OP.png",
-            "https://iili.io/qIHuR5B.png",
-            "https://iili.io/qIHuAJV.png"
+            "https://veohentai.com/wp-content/uploads/2024/07/94739h.jpg",
+            "https://veohentai.com/wp-content/uploads/2024/06/91785h.jpg"
         ],
         video: [
             "https://www.burstcloud.co/embed/774c0ef44b5268c23022b196e4d4d768e13c47b993dc1c1be5ed1fd9df8e8cf5/ep1.mp4",
@@ -76,13 +70,12 @@ const baseDeDatos = [{
         descripcion: "Es la historia de Yui, una colegiala que acepta el acoso sexual de su maestro pervertido para proteger el sueño de su novio, Kou. Entre la humillación, el sufrimiento y el placer, Yui se convirtió gradualmente en un mero objeto sexual lujurioso."
     }, {
         id: "H5",
-        titulo: "SeFri no Senpai",
-        poster: "https://iili.io/qIHvNjI.jpg",
+        titulo: "Sexfriend no Senpai",
+        poster: "https://veohentai.com/wp-content/uploads/2024/07/rc1278474package.jpg",
         bg: [
-            "https://iili.io/qIHvhpp.jpg",
-            "https://iili.io/qIHvXvR.jpg",
-            "https://iili.io/qIHvOQt.jpg",
-            "https://iili.io/qIHvkCX.jpg"
+            "https://veohentai.com/wp-content/uploads/2024/07/Sexfriend-no-Senpai-The-Animation-Episodio-1.jpg",
+            "https://veohentai.com/wp-content/uploads/2024/07/Sexfriend-no-Senpai-The-Animation-Episodio-2.jpg",
+
         ],
         video: [
             "https://www.burstcloud.co/embed/083a2d152d8fa127205f002ccdb791eb207500a4287cfe147aacbf16396be0c5/ep1.mp4",
@@ -96,12 +89,11 @@ const baseDeDatos = [{
     }, {
         id: "H6",
         titulo: "Mebuki",
-        poster: "https://iili.io/qIJmuAN.png",
+        poster: "https://veohentai.com/wp-content/uploads/2024/06/rc1270741package.jpg",
         bg: [
-            "https://iili.io/qIJmANI.png",
-            "https://iili.io/qIJmGHl.png",
-            "https://iili.io/qIJmYVn.png",
-            "https://iili.io/qIJmVNS.png"
+            "https://veohentai.com/wp-content/uploads/2024/05/c1270687sample17.jpg",
+            "https://veohentai.com/wp-content/uploads/2024/06/91016h.jpg",
+
         ],
         video: [
             "https://hentaiplayer.com/v/PLAokCaTDiOWXRS/",
@@ -115,12 +107,12 @@ const baseDeDatos = [{
     }, {
         id: "H7",
         titulo: "Juvenile Pornography",
-        poster: "https://iili.io/qA9v1tt.jpg",
+        poster: "https://i.ibb.co/hJMxR75r/juvenile-pornography-the-animation-1-FOn-Ji-Izu-Ak.jpg",
         bg: [
-            "https://iili.io/qA9veNS.png",
-            "https://iili.io/qA9vOR2.png",
-            "https://iili.io/qA9vXKG.png",
-            "https://iili.io/qA9v8x9.png"
+            "https://i.ibb.co/0RGtRJCP/vlcsnap-2026-03-09-11h04m06s057.png",
+            "https://i.ibb.co/G4Swj4gg/vlcsnap-2026-03-09-11h04m31s395.png",
+            "https://i.ibb.co/20cSRRDK/vlcsnap-2026-03-09-11h04m40s714.png",
+            "https://i.ibb.co/nqMBSQJJ/vlcsnap-2026-03-09-11h04m51s538.png"
         ],
         video: [
             "https://www.burstcloud.co/embed/821b29e25d353dee224273241b84fd908d3871e9e7c4b717c4a5beb508f020c3/ep1.mp4"
@@ -6243,13 +6235,10 @@ const baseDeDatos = [{
 {
     id: "H328",
     titulo: "Anal Mania Otaku to Ananii Daisuki na Ojou-sama",
-    poster: "https://iili.io/B1lHx4f.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2026/04/Anal-Mania-Otaku-to-Ananii-Daisuki-na-Ojou-sama-Episode-1.jpg",
     bg: [
-        "https://iili.io/B1lHI24.png",
-        "https://iili.io/B1lHTYl.png",
-        "https://iili.io/B1lHuv2.png",
-        "https://iili.io/B1lH5T7.png",
-		"https://iili.io/B01XZCX.png"
+        "https://veohentai.com/wp-content/uploads/2026/06/406534h.jpg",
+        "https://veohentai.com/wp-content/uploads/2026/04/404980h.jpg"
 
     ],
     video: [
