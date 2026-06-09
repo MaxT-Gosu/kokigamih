@@ -2412,13 +2412,13 @@ const baseDeDatos = [{
 {
     id: "H123",
     titulo: "Sister Breeder",
-    poster: "https://iili.io/BF8NI1I.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2025/10/Sister-Breeder-Episode-1.jpg",
     bg: [
-        "https://iili.io/qBOKFPR.png",
-        "https://iili.io/qBOK9IV.jpg",
-        "https://iili.io/qBOKHhB.jpg",
-        "https://iili.io/qBOKoIp.png",
-        "https://iili.io/qBOK8CP.png"
+        "https://veohentai.com/wp-content/uploads/2025/10/114598h.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/10/114599h.jpg",
+        "https://veohentai.com/wp-content/uploads/2026/02/166762h.jpg",
+        "https://veohentai.com/wp-content/uploads/2026/03/166763h.jpg"
+
     ],
     video: [
         "https://www.burstcloud.co/embed/746ba07f9509671e8d374b6d2a46430b886f09b68046f03ccb04f5f23c25c860/ep1.mp4",
@@ -7322,7 +7322,7 @@ const baseDeDatos = [{
 },
 {
     id: "H372",
-    titulo: "Waver",
+    titulo: "Dirty thought",
     poster: "https://i.ibb.co/chV97jB1/dirty-thoughts-1-SWk-GXm-Cq-YJ.jpg",
     bg: [
         "https://i.ibb.co/xS3M16hS/vlcsnap-2026-06-08-11h56m00s130.png",
