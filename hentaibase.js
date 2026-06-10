@@ -182,12 +182,12 @@ const baseDeDatos = [{
 	{
     id: "H10",
     titulo: "NocturnaL",
-    poster: "https://iili.io/qTFNiT7.png",
+    poster: "https://i.ibb.co/TMZKdHM1/image-401.png",
     bg: [
-        "https://iili.io/qTFN0Lg.png",
-        "https://iili.io/qTFNEBa.png",
-        "https://iili.io/qTFNX7p.png",
-        "https://iili.io/qTFNjpI.png"
+        "https://i.ibb.co/rRMszJXz/image-88.png",
+        "https://i.ibb.co/yFx631mw/image-98.png",
+        "https://i.ibb.co/fGB6q4zF/image-390.png",
+        "https://i.ibb.co/VcZYgYHF/image-396.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/60f0eb57237ec41f6de6af0b77f9c18c3b88e496b7e6646676f0cd711a7c03ca/ep1.mp4",
@@ -202,12 +202,12 @@ const baseDeDatos = [{
 {
     id: "H11",
     titulo: "Nozoki Kanojo",
-    poster: "https://iili.io/qTKhF8N.png",
+    poster: "https://i.ibb.co/tP88XHpq/nozoki-kanojo-2-cv1.png",
     bg: [
-        "https://iili.io/qTKhBwX.jpg",
-        "https://iili.io/qTKhCtn.jpg",
-        "https://iili.io/qTKhzPf.jpg",
-        "https://iili.io/qTKhAS2.jpg"
+        "https://i.ibb.co/1tk8T8HZ/LRLBgim4-J9-A.jpg",
+        "https://i.ibb.co/93rnz54x/RNi-MZyx-CBW4.jpg",
+        "https://i.ibb.co/JwCD1KVB/thumbnail-1.png",
+        "https://i.ibb.co/Q3hxYstX/xc-1.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/d1700500d09b3591411b872e16a65d2ac8a3c1f24f14f34f4cd606291344063a/ep1.mp4",
@@ -344,12 +344,11 @@ const baseDeDatos = [{
 {
     id: "H18",
     titulo: "Nikuen",
-    poster: "https://tiohentai.com/uploads/portadas/866.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2025/03/Nikuen-Episode-1.jpg",
     bg: [
-        "https://iili.io/qTkgVCg.png",
-        "https://iili.io/qTkgcvV.png",
-        "https://iili.io/qTkgwaR.png",
-        "https://iili.io/qTkgOyN.png"
+        "https://veohentai.com/wp-content/uploads/2025/03/c1312627sample15.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/05/105264h.jpg",
+
     ],
     video: [
         "https://hentaiplayer.com/v/B3CHj2PFl8Wij3I/",
@@ -364,12 +363,11 @@ const baseDeDatos = [{
 {
     id: "H18",
     titulo: "Nikuen",
-    poster: "https://iili.io/qTkgUnn.md.png",
+    poster: "https://veohentai.com/wp-content/uploads/2025/03/Nikuen-Episode-1.jpg",
     bg: [
-        "https://iili.io/qTkgVCg.png",
-        "https://iili.io/qTkgcvV.png",
-        "https://iili.io/qTkgwaR.png",
-        "https://iili.io/qTkgOyN.png"
+        "https://veohentai.com/wp-content/uploads/2025/03/c1312627sample15.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/05/105264h.jpg",
+
     ],
     video: [
         "https://hentaiplayer.com/v/B3CHj2PFl8Wij3I/",
@@ -384,12 +382,12 @@ const baseDeDatos = [{
 {
     id: "H19",
     titulo: "Youkoso! Sukebe Elf no Mori e",
-    poster: "https://iili.io/quXBgsI.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/youkoso-sukebe-elf-no-mori-e-1-jUXgSFTbLX.jpg",
     bg: [
-        "https://iili.io/quXBhf1.jpg",
-        "https://iili.io/quXBVWB.jpg",
-        "https://iili.io/quXB1Ox.jpg",
-        "https://iili.io/quXBMxV.jpg"
+        "https://veohentai.com/wp-content/uploads/2022/08/youkoso-sukebe-elf-no-mori-e-4-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/youkoso-sukebe-elf-no-mori-e-3-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/youkoso-sukebe-elf-no-mori-e-2-ZvGszGmrUq.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/youkoso-sukebe-elf-no-mori-e-1-gQUrOuvxFJ.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/fa3e30df96418c53acd77974caccff0374350e00174ab10a74be179aca150049/ep1.mp4",
@@ -406,11 +404,11 @@ const baseDeDatos = [{
 {
     id: "H20",
     titulo: "1 Funkan dake Furete mo Ii yo",
-    poster: "https://iili.io/quwAzZX.png",
+    poster: "https://veohentai.com/wp-content/uploads/2025/01/1-Funkan-dake-Furete-mo-Ii-yo%E2%80%A6-Share-House-no-Himitsu-Rule.-Episode-3.png",
     bg: [
-        "https://iili.io/qTKhBwX.jpg",
-        "https://iili.io/quwA5Ff.png",
-        "https://iili.io/quwABvp.jpg"
+        "https://veohentai.com/wp-content/uploads/2025/01/103790h.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/01/103645h.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/01/103554h.jpg"
     ],
     video: [
         "https://hentaiplayer.com/v/tydcRZBp4g882vR/",
@@ -425,12 +423,11 @@ const baseDeDatos = [{
 },{
     id: "H21",
     titulo: "Shiranai Koto Shiritai no",
-    poster: "https://iili.io/quNa1f9.png",
+    poster: "https://veohentai.com/wp-content/uploads/2025/03/Shiranai-Koto-Shiritai-no-The-Animation-Episode-1.jpg",
     bg: [
-        "https://iili.io/quNaIln.webp",
-        "https://iili.io/quNaRRf.png",
-        "https://iili.io/quNacVS.png",
-        "https://iili.io/quNa8Ug.png"
+        "https://veohentai.com/wp-content/uploads/2025/03/103650h.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/03/103651h.jpg",
+
     ],
     video: [
         "https://hentaiplayer.com/v/VBbVb4rQWySNq2g/",
@@ -445,12 +442,11 @@ const baseDeDatos = [{
 {
     id: "H22",
     titulo: "Kozukuri Bu!",
-    poster: "https://iili.io/quegdCl.png",
+    poster: "https://veohentai.com/wp-content/uploads/2023/11/Kozukuri-Bu-Episode-1.jpg",
     bg: [
-        "https://iili.io/queUUkg.png",
-        "https://iili.io/queUSYF.png",
-        "https://iili.io/queUt2t.png",
-        "https://iili.io/queU4TJ.png"
+        "https://veohentai.com/wp-content/uploads/2023/11/c1246149sample22.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/03/103647h.jpg",
+
     ],
     video: [
         "https://www.burstcloud.co/embed/c55d0406f6007c2ce719bba828dfb1dfc81e5c4b2d928de351b5ed43788eb2df/ep1.mp4",
@@ -465,12 +461,11 @@ const baseDeDatos = [{
 {
     id: "H22",
     titulo: "Yumemiru Otome",
-    poster: "https://iili.io/quvxHhP.png",
+    poster: "https://veohentai.com/wp-content/uploads/2024/12/Yumemiru-Otome-Episode-1.jpg",
     bg: [
-        "https://iili.io/quvobYx.jpg",
-        "https://iili.io/quvxoTN.png",
-        "https://iili.io/quvx9TB.jpg",
-        "https://iili.io/quvx53G.png"
+        "https://veohentai.com/wp-content/uploads/2024/12/99691h.jpg",
+        "https://veohentai.com/wp-content/uploads/2024/12/99692h.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/03/103676h.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/d167cec5798665a35b3d557ae5101327fb6c46785a02bd50f484316c1008c03c/ep1.mp4",
@@ -7331,6 +7326,27 @@ const baseDeDatos = [{
     tags: ["Milfs", "Haren", "Sin censura"],
     tipo: "sincensura",
     descripcion: "Sayaka, nueva y popular, es amable pero coqueta. Su romance con un alumno causó un escándalo, forzándola a cambiar de universidad."
+},
+{
+    id: "H373",
+    titulo: "Paihame Kazoku",
+    poster: "https://veohentai.com/wp-content/uploads/2026/06/Paihame-Kazoku-Episode-1.jpg",
+    bg: [
+        "https://veohentai.com/wp-content/uploads/2026/06/406533h.jpg",
+        "https://veohentai.com/wp-content/uploads/2026/06/406536h.jpg",
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/2cf00859c4b61c53826188cffd67cbbcb3e7f8f413fcae7c25a8a2d720c34e83/ep1.mp4",
+        "https://www.burstcloud.co/embed/b6ecf7832e35236418a0f88d83cc554f8798bc928bca4999020dd66f65c6ec5d/ep2.mp4"
+
+
+    ],
+    estudio: "T-Rex",
+    fecha: "2026",
+    tags: ["Corridas", "Escolares", "censurado"],
+    tipo: "censurado",
+    descripcion: "Mizuka, gyaru con problemas económicos, finge un trabajo, pero su cliente, un anciano obsesionado con los pechos grandes, la sorprende al manosearla, generándole placer abrumador y dejándola indefensa."
 },
 ];
 
