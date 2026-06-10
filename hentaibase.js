@@ -481,12 +481,12 @@ const baseDeDatos = [{
 {
     id: "H23",
     titulo: "Hitoriga",
-    poster: "https://iili.io/quZa8J9.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/hitoriga-4-1.jpg",
     bg: [
-        "https://iili.io/quZagDb.jpg",
-        "https://iili.io/quZaPiQ.jpg",
-        "https://iili.io/quZaQUP.jpg",
-        "https://iili.io/quZa6Wx.jpg"
+        "https://veohentai.com/wp-content/uploads/2022/08/hitoriga-1.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/hitoriga-2.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/hitoriga-3.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/hitoriga-4.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/c174c5fdacbfbf2107abc641d671e4981c0195583ecaf1a7b6c302280d07d718/file.mp4",
@@ -503,12 +503,12 @@ const baseDeDatos = [{
 {
     id: "H24",
     titulo: "Yuusha hime Miria",
-    poster: "https://iili.io/fTVPRuj.md.webp",
+    poster: "https://veohentai.com/wp-content/uploads/2024/01/image1.webp",
     bg: [
-        "https://iili.io/fTVPNMN.png",
-        "https://iili.io/fTVPEcF.png",
-        "https://iili.io/fTVPXwv.png",
-        "https://iili.io/fTVPhtR.png"
+        "https://veohentai.com/wp-content/uploads/2025/12/143649h.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/09/c1334612sample27.jpg",
+        "https://veohentai.com/wp-content/uploads/2024/02/Yuusha-hime-Miria-2.jpg",
+        "https://veohentai.com/wp-content/uploads/2024/01/c1253643sample25.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/cb854f456b022a3386f2f27341242fa5ce55593b2c29ab827231572cc0a780d6/ep1.mp4",
@@ -525,13 +525,15 @@ const baseDeDatos = [{
 {
     id: "H25",
     titulo: "Bishoku-ke no Rule",
-    poster: "https://iili.io/qzysTNf.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2025/03/Bishoku-ke-no-Rule-Episode-2.jpg",
     bg: [
-        "https://iili.io/qzys7PS.jpg",
-        "https://iili.io/qzys5V2.jpg",
-        "https://iili.io/qzyslSe.jpg",
-        "https://iili.io/qzys1Hu.png"
-    ],
+        "https://veohentai.com/wp-content/uploads/2025/03/103652h.jpg",
+        "https://veohentai.com/wp-content/uploads/2024/12/99688h.jpg",
+        "https://iili.io/qzyslSe.jpg"
+		
+		],
+		
+		
     video: [
         "https://hentaiplayer.com/v/ACV3i9tNx9S35S3/",
         "https://hentaiplayer.com/v/bub8o4MEuRXhUTv/"
@@ -544,13 +546,13 @@ const baseDeDatos = [{
 },
 {
     id: "H26",
-    titulo: "Yamitsuki Pheromone",
-    poster: "https://iili.io/qubZR5b.jpg",
+    titulo: "Yamitsuki Mura: Melty Limit",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/yamitsuki-mura-melty-limit-1-cv2.png",
     bg: [
-        "https://iili.io/qubZqb4.jpg",
-        "https://iili.io/qubZnX2.png",
-        "https://iili.io/qubZAdu.jpg",
-        "https://iili.io/qubZ7mx.jpg"
+        "https://veohentai.com/wp-content/uploads/2022/08/yamitsuki-mura-melty-limit-1-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/yamitsuki-mura-melty-limit-2-pv1.png",
+        "https://iili.io/qubZAdu.jpg"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/68bf3009f64f0be3c8a639670c7bdc324619063ac01cf30ab2e6ceafd37ca609/ep1.mp4",
@@ -565,12 +567,12 @@ const baseDeDatos = [{
 {
     id: "H27",
     titulo: "Yarichin Kateikyoushi Netori Koukoku",
-    poster: "https://iili.io/qAjDzKP.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/yarichin-kateikyoushi-netori-houkoku-dosukebe-kyonyuu-oyakodon-2-cv1.png",
     bg: [
-        "https://iili.io/qAjDqDx.jpg",
-        "https://iili.io/qAjDfNj.jpg",
-        "https://iili.io/qAjDFHu.webp",
-        "https://iili.io/qAjD2Se.jpg"
+        "https://veohentai.com/wp-content/uploads/2022/08/yarichin-kateikyoushi-netori-houkoku-dosukebe-kyonyuu-oyakodon-2-pv1-1.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/yarichin-kateikyoushi-netori-houkoku-dosukebe-kyonyuu-oyakodon-1-pv1x.jpg",
+        "https://iili.io/qAjDFHu.webp"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/72b0df4ec2f4e86afe5203da0882c0979126bec56d261260caf5256a468e3299/ep1.mp4",
