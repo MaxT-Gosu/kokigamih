@@ -570,8 +570,7 @@ const baseDeDatos = [{
     poster: "https://veohentai.com/wp-content/uploads/2022/08/yarichin-kateikyoushi-netori-houkoku-dosukebe-kyonyuu-oyakodon-2-cv1.png",
     bg: [
         "https://veohentai.com/wp-content/uploads/2022/08/yarichin-kateikyoushi-netori-houkoku-dosukebe-kyonyuu-oyakodon-2-pv1-1.jpg",
-        "https://veohentai.com/wp-content/uploads/2022/08/yarichin-kateikyoushi-netori-houkoku-dosukebe-kyonyuu-oyakodon-1-pv1x.jpg",
-        "https://iili.io/qAjDFHu.webp"
+        "https://veohentai.com/wp-content/uploads/2022/08/yarichin-kateikyoushi-netori-houkoku-dosukebe-kyonyuu-oyakodon-1-pv1x.jpg"
 		
     ],
     video: [
@@ -587,16 +586,15 @@ const baseDeDatos = [{
 {
     id: "H28",
     titulo: "Yamitsuki Mura: Melty Limit",
-    poster: "https://iili.io/qAwMU3g.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/yamitsuki-mura-melty-limit-1-cv2.png",
     bg: [
-        "https://iili.io/qAwMhyx.jpg",
-        "https://iili.io/qAwMWYb.jpg",
-        "https://iili.io/qAwMvG1.jpg",
-        "https://iili.io/qAwMr8J.png"
+        "https://veohentai.com/wp-content/uploads/2022/08/yamitsuki-mura-melty-limit-1-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/yamitsuki-mura-melty-limit-2-pv1.png"
+		
     ],
     video: [
-        "https://www.burstcloud.co/embed/f0f47b8995deb6ce1b146bd96ac856a8d02977cdf6c1bb18f7da08e3cf790b19/ep1.mp4",
-        "https://www.burstcloud.co/embed/f973549b0a22d083ae1528cd2ed1e2735fac7a6e41f58aa0f0e2cdae05af350d/ep2.mp4"
+        "https://www.burstcloud.co/embed/68bf3009f64f0be3c8a639670c7bdc324619063ac01cf30ab2e6ceafd37ca609/ep1.mp4",
+        "https://www.burstcloud.co/embed/60de03f9f175b66f93f836581fbfcbafe7d1c3a1fba75dd9ef1051fc5fd28e78/ep2.mp4"
     ],
     estudio: "Showten",
     fecha: "2022",
@@ -607,12 +605,11 @@ const baseDeDatos = [{
 {
     id: "H29",
     titulo: "Toriko no Kusari",
-    poster: "https://iili.io/qAOWAzv.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/toriko-no-kusari-2-FnNCwMjhqU.jpg",
     bg: [
-        "https://iili.io/qAOWYqN.jpg",
-        "https://iili.io/qAOW5sp.jpg",
-        "https://iili.io/qAOWRXR.jpg",
-        "https://iili.io/qAOWGmG.jpg"
+        "https://veohentai.com/wp-content/uploads/2022/08/toriko-no-kusari-1-vscoTGwAlk.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/toriko-no-kusari-2-wUIGfFRNwt.jpg"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/2a4dcbaa3b031b2e703186080b79be4172901a9a252799c7befaccbbc5f1c118/ep1.mp4",
@@ -627,12 +624,13 @@ const baseDeDatos = [{
 {
     id: "H30",
     titulo: "Yuusha chan no Bouken wa Owatteshimatta",
-    poster: "https://iili.io/q5JOGef.png",
+    poster: "https://veohentai.com/wp-content/uploads/2025/03/Yuusha-chan-no-Bouken-wa-Owatteshimatta-Episode-1.jpg",
     bg: [
-        "https://iili.io/q5JOc0X.jpg",
-        "https://iili.io/q5JO1Js.jpg",
-        "https://iili.io/q5JO8ej.webp",
-        "https://iili.io/q5JOhsS.jpg"
+        "https://veohentai.com/wp-content/uploads/2025/06/c1324263sample22.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/03/103653h.jpg",
+        "https://iili.io/q5JO8ej.webp"
+		
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/ffc1f39520ef13a45b34c0c407bd60f38f5a53f5f911604b6b3088517dc711d5/ep1.mp4",
@@ -648,11 +646,11 @@ const baseDeDatos = [{
     id: "H31",
     titulo: "Yuutousei Ayaka no Uraomote",
     poster: "https://veohentai.com/wp-content/uploads/2022/08/yuutousei-ayaka-no-uraomote-1-cv1.png",
+	
     bg: [
-        "https://pic-bstarstatic.akamaized.net/ugc/41568837a68fb19e9a42862ad2176b8ac345eff1.png",
-        "https://hentaila.io/wp-content/uploads/2022/08/yuutousei-ayaka-no-uraomote-2-pv1.png",
-        "https://www5.hentaila.com/uploads/fondos/718.jpg",
-        "https://latinohentai.vip/wp-content/uploads/2023/06/Yuutousei-Ayaka-no-Uraomote-02-1080p-LatinoHentai.mp4_snapshot_12.30.040.jpg"
+        "https://veohentai.com/wp-content/uploads/2022/08/yuutousei-ayaka-no-uraomote-2-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/yuutousei-ayaka-no-uraomote-1-pv1.png"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/6dfe1ce3a8ead0ba23d6db82336314f17bbd2b554f07f7675d7996ed677ffbf9/ep1.mp4",
@@ -667,12 +665,12 @@ const baseDeDatos = [{
 {
     id: "H32",
     titulo: "Yarakashi",
-    poster: "https://iili.io/q5fxdYX.md.png",
+    poster: "https://veohentai.com/wp-content/uploads/2024/10/Yarakashi-Episode-2.jpg",
     bg: [
-        "https://iili.io/q5foQpa.png",
-        "https://iili.io/q5foLkg.png",
-        "https://iili.io/q5fopBp.png",
-        "https://iili.io/q5fxJ2t.png"
+        "https://veohentai.com/wp-content/uploads/2024/10/97249h.jpg",
+        "https://veohentai.com/wp-content/uploads/2024/07/Yarakashi-Episodio-1.jpg"
+		
+		
     ],
     video: [
         "https://storage.googleapis.com/h3n/Yarakashi/ep1.mp4",
@@ -687,12 +685,11 @@ const baseDeDatos = [{
 {
     id: "H33",
     titulo: "Ojisan de Umeru Ana",
-    poster: "https://iili.io/q5fiq2n.md.png",
+    poster: "https://veohentai.com/wp-content/uploads/2024/04/Ojisan-de-Umeru-Ana-The-Animation-Episode-1.jpg",
     bg: [
-        "https://iili.io/q5fPQqP.jpg",
-        "https://iili.io/q5fPymv.png",
-        "https://iili.io/q5fiB7s.webp",
-        "https://iili.io/q5fixI4.jpg"
+        "https://veohentai.com/wp-content/uploads/2024/04/c1266887sample4.jpg",
+        "https://veohentai.com/wp-content/uploads/2024/04/c1266886sample5.jpg"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/b7a06bb2a7f093904a1d113c55874f6e06ef5ad5b28a73bfd5d87550ed9aeb9c/ep1.mp4",
@@ -727,12 +724,12 @@ const baseDeDatos = [{
 {
     id: "H35",
     titulo: "Kisaku Reiwa",
-    poster: "https://iili.io/q7Eiw12.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/c1171345package.jpg",
     bg: [
-        "https://iili.io/q7Eijql.jpg",
-        "https://iili.io/q7EiWXf.jpg",
-        "https://iili.io/q7EiXs4.jpg",
-        "https://iili.io/q7Eivee.jpg"
+        "https://image.tmdb.org/t/p/original/gDs7nYzwzzzt75HeLXHglEy0cW9.jpg",
+        "https://image.tmdb.org/t/p/original/krTYaf2PyVbHMha339CPMYHSPfA.jpg",
+        "https://image.tmdb.org/t/p/original/xTtDf2Ij0bjcEwr8EKUze5O2SMe.jpg",
+        "https://image.tmdb.org/t/p/original/2tw2taW6AIksDlY0q8XgZMpKMzR.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/1626660676b03e0fcc743f5e928bd5d7239246b10e76637ae01777f6480a2932/ep1.mp4"
@@ -746,12 +743,12 @@ const baseDeDatos = [{
 {
     id: "H36",
     titulo: "Netorare Fighter Yaricchingu",
-    poster: "https://iili.io/q7MFj8F.jpg",
+    poster: "https://i.ibb.co/20cv0WYS/netorare-fighter-yaricchingu-1-Is-Smo.jpg",
     bg: [
-        "https://iili.io/q7MFkZv.webp",
-        "https://iili.io/q7MFOua.jpg",
-        "https://iili.io/q7MFX3P.jpg",
-        "https://iili.io/q7MF8nR.jpg"
+        "https://i.ibb.co/fGr0rdFk/xc-9.jpg",
+        "https://i.ibb.co/L24FXTD/Netorare-Fighter-Yaricchingu-3.jpg",
+        "https://i.ibb.co/fbtNbrC/netorare-fighter-yaricchingu-3-k-Lp-Xu.jpg",
+        "https://i.ibb.co/vvKWg9C1/thumbnail.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/ae9c9d7fb76f975795b8b8a2d25ae70cba58f13641b81d72145357b6e09a1410/ep1.mp4",
@@ -767,12 +764,12 @@ const baseDeDatos = [{
 {
     id: "H37",
     titulo: "White Blue",
-    poster: "https://iili.io/q7Vhyp2.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/white-blue-4-cv1.png",
     bg: [
-        "https://iili.io/q7VhQBn.webp",
-        "https://iili.io/q7Vhb2f.png",
-        "https://iili.io/q7VhZ1s.png",
-        "https://iili.io/q7Vj3Be.jpg"
+        "https://veohentai.com/wp-content/uploads/2022/08/white-blue-4-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/white-blue-3-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/white-blue-2-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/white-blue-1-pv1.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/eb63ed9281cb06d3ff700e2074605556833120e591b5b2f348f7deff3de409d7/ep1.mp4",
