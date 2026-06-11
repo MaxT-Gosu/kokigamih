@@ -967,12 +967,12 @@ const baseDeDatos = [{
 {
     id: "H54",
     titulo: "Pretty x Cation",
-    poster: "https://iili.io/qacyHaj.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/pretty-x-cation-xuTQTa.jpg",
     bg: [
-        "https://iili.io/qacptZ7.jpg",
-        "https://iili.io/qacpZjS.jpg",
-        "https://iili.io/qacpsyl.jpg",
-        "https://iili.io/qacpQu2.jpg"
+        "https://veohentai.com/wp-content/uploads/2022/08/pretty-x-cation-2-UUFNM.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/pretty-x-cation-MrCVH.jpg",
+        "https://iili.io/qacpsyl.jpg"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/3b18de83b365ddff3d701aa5e46bf1978f5aa7242615d9ea9670cfa181910cd8/ep1.mp4",
@@ -987,12 +987,12 @@ const baseDeDatos = [{
 {
     id: "H55",
     titulo: "Ajin ga Osuki nan Desu ne",
-    poster: "https://iili.io/qaOlpea.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2025/04/Ajin-ga-Osuki-nan-Desu-ne-Episode-1.jpg",
     bg: [
-        "https://iili.io/qaO0Hzv.png",
-        "https://iili.io/qaO0xIf.png",
-        "https://iili.io/qaO0ILl.png",
-        "https://iili.io/qaO0MBV.png"
+        "https://veohentai.com/wp-content/uploads/2025/06/105525h.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/04/c1312628sample13.jpg",
+        "https://iili.io/qaO0ILl.png"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/850d79f3b7639d5ef58bf00792ff48493aa180cba78af7e5e15671abd6f29806/ep1.mp4",
@@ -1007,12 +1007,11 @@ const baseDeDatos = [{
 {
     id: "H56",
     titulo: "Hametsu no Yuuwaku",
-    poster: "https://iili.io/qlqZMGa.png",
+    poster: "https://veohentai.com/wp-content/uploads/2025/04/Hametsu-no-Yuuwaku-Episode-1.jpg",
     bg: [
-        "https://iili.io/qlqZTCu.png",
-        "https://iili.io/qlqZzQe.png",
-        "https://iili.io/qlqZxj9.png",
-        "https://iili.io/qlqZ53x.png"
+        "https://veohentai.com/wp-content/uploads/2025/04/c1317812sample17.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/07/109869h.jpg"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/dc2b2e72169e041d71dad72bb54801f66d87cdd68e7017dd715ce45853e729ba/ep1.mp4",
@@ -1027,12 +1026,11 @@ const baseDeDatos = [{
 {
     id: "H57",
     titulo: "Kan`ochi x Netorare Kazoku",
-    poster: "https://iili.io/qlzqXFs.png",
+    poster: "https://veohentai.com/wp-content/uploads/2025/06/Kanochi-x-Netorare-Kazoku-The-Animation-Episode-2.jpg",
     bg: [
-        "https://iili.io/qlzq3Ge.png",
-        "https://iili.io/qlzqTn1.png",
-        "https://iili.io/qlzqc9R.png",
-        "https://iili.io/qlzqVPn.png"
+        "https://veohentai.com/wp-content/uploads/2025/06/105526h.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/04/c1315844sample10.jpg"
+		
     ],
     video: [
         "https://hentaiplayer.com/v/ejYgGR8jLGWbu8N/",
@@ -1047,12 +1045,12 @@ const baseDeDatos = [{
 {
     id: "H58",
     titulo: "Pet Life",
-    poster: "https://iili.io/qlzPZs1.jpg",
+    poster: "https://i.ibb.co/ycL2SxQV/pet-life-1.jpg",
     bg: [
-        "https://iili.io/qlzPmga.jpg",
-        "https://iili.io/qlzPb0g.jpg",
-        "https://iili.io/qlzPDqF.jpg",
-        "https://iili.io/qlzi95v.jpg"
+        "https://i.ibb.co/pBT8QhY1/rqpalwebfw6d1.jpg",
+        "https://i.ibb.co/xSMfK9f7/thumbnail-1.png",
+        "https://i.ibb.co/nNdB2JTS/2.jpg",
+        "https://i.ibb.co/JRfTngLG/pet-life.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/119d92e298ebf59df9f662ed7e870bf35e6e0db8370d70c9cc82591026458cf6/ep1.mp4"
@@ -1066,12 +1064,12 @@ const baseDeDatos = [{
 {
     id: "H59",
     titulo: "Immoral Routine",
-    poster: "https://iili.io/qlI3Px1.png",
+    poster: "https://i.ibb.co/0pjHbH0k/image-37.png",
     bg: [
-        "https://iili.io/qlI3kKb.png",
-        "https://iili.io/qlI3vlj.png",
-        "https://iili.io/qlI3NVe.png",
-        "https://iili.io/qlI38Ux.png"
+        "https://i.ibb.co/21Lm6ZXR/image-28.png",
+        "https://i.ibb.co/MkX2XPgK/image-30.png",
+        "https://i.ibb.co/v4x25tPX/image-32.png",
+        "https://i.ibb.co/k6JR6ZM2/image-35.png"
     ],
     video: [
         "https://hentaiplayer.com/v/14tFax98xARFxjN/"
@@ -1085,12 +1083,12 @@ const baseDeDatos = [{
 {
     id: "H60",
     titulo: "Papa Katsu",
-    poster: "https://iili.io/qlhcylt.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/papa-katsu-1-cv1.png",
     bg: [
-        "https://iili.io/qlhckDx.png",
-        "https://iili.io/qlhcrKP.png",
-        "https://iili.io/qlhcLOJ.png",
-        "https://iili.io/qlhcDVp.png"
+        "https://veohentai.com/wp-content/uploads/2023/08/c1232988sample3.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/papa-katsu-2-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2023/08/c1232988sample3.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/papa-katsu-1-pv1.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/d2db7ccbf6f76685b3adf6d0f30c641373a9f779dc978ebb3ecac41d41b28dfa/ep1.mp4",
