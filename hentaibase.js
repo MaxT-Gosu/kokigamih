@@ -786,12 +786,12 @@ const baseDeDatos = [{
 {
     id: "H38",
     titulo: "Waisetsu Missile",
-    poster: "https://iili.io/fU6QdAJ.png",
+    poster: "https://i.ibb.co/r202vP6b/Waisetsu-Missile-11.png",
     bg: [
-        "https://iili.io/q7XRTHg.jpg",
-        "https://iili.io/q7XRoKP.webp",
-        "https://iili.io/q7XRxl1.jpg",
-        "https://iili.io/q7XRuRa.png"
+        "https://i.ibb.co/MygjznHR/Waisetsu-Missile-Episode-1.jpg",
+        "https://i.ibb.co/bMQzCNFW/Waisetsu-Missile-6.png",
+        "https://i.ibb.co/QvjYDScY/Waisetsu-Missile-5.png",
+        "https://i.ibb.co/mCyGfRpB/Waisetsu-Missile-4.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/8ac0d84ba09025a51f94f3847e20a281c0623550fcb69f3728a80d3b4f17fcc7/ep1.mp4"
@@ -805,12 +805,12 @@ const baseDeDatos = [{
 {
     id: "H39",
     titulo: "Wagaya no Liliana-san",
-    poster: "https://iili.io/q7h6Wnn.png",
+    poster: "https://eroeronews.com/wp-content/uploads/2024/01/image-180.png",
     bg: [
-        "https://iili.io/q7h6MZX.png",
-        "https://iili.io/q7h6caR.webp",
-        "https://iili.io/q7h60yN.jpg",
-        "https://iili.io/q7h6h6G.webp"
+        "https://eroeronews.com/wp-content/uploads/2024/01/Wagaya-no-Liliana-san-The-Animation-1-1-1024x576.jpg",
+        "https://eroeronews.com/wp-content/uploads/2024/01/Wagaya-no-Liliana-san-The-Animation-2--1024x576.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/wagaya-no-liliana-san-1.png"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/fc1d3275f280c1d15aa52ee6f555212018efd5bf11bab4d9d46436a3561162f6/ep1.mp4"
@@ -824,12 +824,12 @@ const baseDeDatos = [{
 {
     id: "H40",
     titulo: "Uwaki to Honki",
-    poster: "https://iili.io/q7484Cx.png",
+    poster: "https://i.ibb.co/7dVQSh47/uwaki-to-honki-1-cv1.png",
     bg: [
-        "https://iili.io/q7486EQ.jpg",
-        "https://iili.io/q7486EQ.jpg",
-        "https://iili.io/q748gQj.jpg",
-        "https://iili.io/q748P4V.png"
+        "https://i.ibb.co/yFMDq60p/Uwaki-to-Honki-1.jpg",
+        "https://i.ibb.co/kV8RckKT/preview.jpg",
+        "https://i.ibb.co/fG1NFhyC/Uwaki-to-Honki-The-Animation-16.webp",
+        "https://i.ibb.co/LDGXkjmW/uwaki-to-honki-1-pv1.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/ba48c77b67d447726d2c98347a96cc0adf8f0daf0384ee183a5861ecce9801de/ep1.mp4"
@@ -843,12 +843,12 @@ const baseDeDatos = [{
 {
     id: "H41",
     titulo: "Usamimi Bouken tan",
-    poster: "https://iili.io/qYCgrue.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/usamimi-bouken-tan-sekuhara-shinagara-sekai-o-sukue-1-cv2.png",
     bg: [
-        "https://iili.io/qYCgZFV.webp",
-        "https://iili.io/qYCgL6Q.jpg",
-        "https://iili.io/qYCg6Zb.jpg",
-        "https://iili.io/qYCgm91.webp"
+        "https://veohentai.com/wp-content/uploads/2022/08/usamimi-bouken-tan-sekuhara-shinagara-sekai-o-sukue-4-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/usamimi-bouken-tan-sekuhara-shinagara-sekai-o-sukue-3-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/usamimi-bouken-tan-sekuhara-shinagara-sekai-o-sukue-2-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/usamimi-bouken-tan-sekuhara-shinagara-sekai-o-sukue-1-pv1.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/c71da9742af65d0e8ba62a6a081b1ae72c3578179dc52eca19f407508bde664a/ep1.mp4",
@@ -865,12 +865,12 @@ const baseDeDatos = [{
 {
     id: "H42",
     titulo: "Ura Jutaijima",
-    poster: "https://iili.io/qYnoLcG.jpg",
+    poster: "https://i.ibb.co/rKYsnF0M/Ura-Jutaijima-1.jpg",
     bg: [
-        "https://iili.io/qYno6MX.jpg",
-        "https://iili.io/qYno89R.webp",
-        "https://iili.io/qYnoSup.jpg",
-        "https://iili.io/qYnogtI.png"
+        "https://i.ibb.co/B2pmrbGy/Ura-Jutaijima-1.png",
+        "https://i.ibb.co/kVzKW9BV/Ura-Jutaijima-4.png",
+        "https://i.ibb.co/1t4CgP7j/Ura-Jutaijima-6.png",
+        "https://i.ibb.co/zWbW8RyS/Ura-Jutaijima-8.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/9a96e99a60ddb79fa21265960d7483ce7227a1560775a3c4673472f25d75c203/ep1.mp4",
@@ -885,12 +885,13 @@ const baseDeDatos = [{
 {
     id: "H43",
     titulo: "Princess Knight Catue",
-    poster: "https://iili.io/qYxfQ0G.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/princess-knight-catue-3-1.jpg",
     bg: [
-        "https://iili.io/qYxfURp.webp",
-        "https://iili.io/qYxfSJR.webp",
-        "https://iili.io/qYxfk0J.webp",
-        "https://iili.io/qYxfPWX.png"
+        "https://veohentai.com/wp-content/uploads/2022/08/princess-knight-catue-1.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/princess-knight-catue-2.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/princess-knight-catue-3.jpg"
+		
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/645ada1d9e526fd7365e3e8131c042f36aa6fe7456375d9bf559f4657cb20d10/ep1.mp4",
@@ -906,12 +907,12 @@ const baseDeDatos = [{
 {
     id: "H44",
     titulo: "OVA Yuugao",
-    poster: "https://iili.io/qYxtJEP.md.jpg",
+    poster: "https://i.ibb.co/GQRMwkpk/1-4.jpg",
     bg: [
-        "https://iili.io/qYxZtkb.jpg",
-        "https://iili.io/qYxZmTx.jpg",
-        "https://iili.io/qYxZZYu.jpg",
-        "https://iili.io/qYxtFYg.jpg"
+        "https://i.ibb.co/BHLB4Dsn/6-4.jpg",
+        "https://i.ibb.co/V0ypw965/7-4.jpg",
+        "https://i.ibb.co/nTscX27/13-3.jpg",
+        "https://i.ibb.co/6z4ZnHP/21-3.jpg"
     ],
     video: [
         "https://hentaiplayer.com/v/ADIdCl6lauvGqHC/"
@@ -925,12 +926,12 @@ const baseDeDatos = [{
 {
     id: "H45",
     titulo: "Rakuen Shinshoku: Island of the Dead",
-    poster: "https://iili.io/qaYWiJt.md.png",
+    poster: "https://i.ibb.co/B599CDh3/image-161-723x1024.png",
     bg: [
-        "https://iili.io/qaYWkba.png",
-        "https://iili.io/qaYWNJ1.png",
-        "https://iili.io/qaYWeOg.png",
-        "https://iili.io/qaYWO5F.png"
+        "https://i.ibb.co/cWSrN3D/image-158.png",
+        "https://i.ibb.co/MbC4rdY/image-155.png",
+        "https://i.ibb.co/kVDqb7Sv/image-154.png",
+        "https://i.ibb.co/rKPpqF92/image-152.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/aa048c630da55b821bf223daac7ed01eb02b251b0ecc1badd84f2f601d1a110d/ep1.mp4",
@@ -945,12 +946,12 @@ const baseDeDatos = [{
 {
     id: "H53",
     titulo: "Pinkerton",
-    poster: "https://iili.io/qaabAbt.jpg",
+    poster: "https://i.ibb.co/Vc975Qy2/pinkerton-2-v-VNRF.jpg",
     bg: [
-        "https://iili.io/qaab25B.jpg",
-        "https://iili.io/qaaDmib.webp",
-        "https://iili.io/qaabHUQ.jpg",
-        "https://iili.io/qaaDDxe.jpg"
+        "https://i.ibb.co/27LJDGzv/pinkerton-2-rape-anime-hentai-video.jpg",
+        "https://i.ibb.co/ymJCzSJs/4-Y3w1iu-JU5-CNV05yc-JC7-Rs19-SUd.webp",
+        "https://i.ibb.co/MHMhvkz/Pinkerton-Episode-1.webp",
+        "https://i.ibb.co/BHbMTNtB/Pinkerton-Episode-2-3.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/07417f72ed771503e2383b12af3a0d322e2ed3fc9b5cc047f82e6eec913ea4a6/ep1.mp4",
