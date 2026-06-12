@@ -1105,12 +1105,12 @@ const baseDeDatos = [{
 {
     id: "H61",
     titulo: "Pakomane Watashi",
-    poster: "https://iili.io/qlhyVLP.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/pakomane-watashi-1-QswzYcmXEi.jpg",
     bg: [
-        "https://iili.io/qlhyjrg.jpg",
-        "https://iili.io/qlhyhEF.jpg",
-        "https://iili.io/qlhyXB1.webp",
-        "https://iili.io/qlhyOYJ.webp"
+        "https://i0.wp.com/v2.hentaihd.net/wp-content/uploads/2021/02/Pakomane-Watashi-Kyou-Kara-Meimon-Yakyuu-bu-no-Seishori-Gakari-ni-Narimasu%E2%80%A6-The-Animation_5.jpg",
+        "https://cdn.hentaila.com/backdrops/226.jpg",
+        "https://hentai-moon.com/contents/videos_screenshots/2000/2562/preview.mp4.jpg",
+        "https://i3.wp.com/v2.hentaihd.net/wp-content/uploads/2021/02/Pakomane-Watashi-Kyou-Kara-Meimon-Yakyuu-bu-no-Seishori-Gakari-ni-Narimasu%E2%80%A6-The-Animation_13.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/63208b9f7ae3d005739c6257b6bdd8903116ede1208ef0bd98dbb89fc5ad01fe/EP1.mp4"
@@ -1124,12 +1124,12 @@ const baseDeDatos = [{
 {
     id: "H62",
     titulo: "Pandemic",
-    poster: "https://iili.io/qlSz2V4.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/pandemic-1-cv1.png",
     bg: [
-        "https://iili.io/qlSzqU7.jpg",
-        "https://iili.io/qlSznRe.webp",
-        "https://iili.io/qlSzCJ9.jpg",
-        "https://iili.io/qlSzoOu.jpg"
+        "https://cdn.hentaila.com/backdrops/915.jpg",
+        "https://ohentai.org/video_data/Pandemic/Episode-1/Episode-1.png"
+		
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/724660e678db986c2c9b3bb718159e4240eb2d2480520edbbb45d11d4d8f4040/ep1.mp4"
@@ -1143,12 +1143,12 @@ const baseDeDatos = [{
 {
     id: "H63",
     titulo: "Oppai Life",
-    poster: "https://iili.io/qlSLJsV.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/oppai-life-2-nbZud.jpg",
     bg: [
-        "https://iili.io/qlSLFg1.jpg",
-        "https://iili.io/qlSL30P.jpg",
-        "https://iili.io/qlSL2qB.webp",
-        "https://iili.io/qlSLfdF.jpg"
+        "https://veohentai.com/wp-content/uploads/2022/08/oppai-life-2-tjqKW.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/oppai-life-1-YsWpy.jpg"
+		
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/d8e54412559d37d334e958dab67b6d8ec21f24b68319211a52dd6e6cc041ddad/ep1.mp4",
@@ -1163,12 +1163,12 @@ const baseDeDatos = [{
 {
     id: "H64",
     titulo: "Oshiete Re: Maid",
-    poster: "https://iili.io/qlUuj8N.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/oshiete-re-maid-2-1.jpg",
     bg: [
-        "https://iili.io/qlUuOut.jpg",
-        "https://iili.io/qlUuN9I.jpg",
-        "https://iili.io/qlUuSMG.webp",
-        "https://iili.io/qlUuUPf.webp"
+        "https://veohentai.com/wp-content/uploads/2022/08/oshiete-re-maid-1.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/oshiete-re-maid-2.jpg"
+		
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/5314f0b2ba7aa1c92db2ef6dc667678d138cb9b5b19b0ba6c992f095b8e60c2d/ep1.mp4",
@@ -1183,12 +1183,12 @@ const baseDeDatos = [{
 {
     id: "H65",
     titulo: "Otokonoko Ojou-sama",
-    poster: "https://iili.io/q1cywEx.png",
+    poster: "https://i.ibb.co/bcgZ6CX/otokonoko-ojou-sama-1-1.png",
     bg: [
-        "https://iili.io/q1cyghg.png",
-        "https://iili.io/q1cyUTF.png",
-        "https://iili.io/q1cy8p1.png",
-        "https://iili.io/q1cyrQa.png"
+        "https://i.ibb.co/kVDrkpWD/vlcsnap-2026-03-14-17h12m24s963.png",
+        "https://i.ibb.co/JWBDwbgj/vlcsnap-2026-03-14-17h12m48s763.png",
+        "https://i.ibb.co/4wGychbL/vlcsnap-2026-03-14-17h12m57s283.png",
+        "https://i.ibb.co/k2dN5yKC/vlcsnap-2026-03-14-17h13m05s645.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/145214415d8778538b8433b7d636bc3d27c004c8a9659bc708c1ae1bc1e9a7f4/ep1.mp4"
@@ -1202,12 +1202,12 @@ const baseDeDatos = [{
 {
     id: "H66",
     titulo: "Otaku ni Yasashii Gal toka",
-    poster: "https://iili.io/q1lrwW7.png",
+    poster: "https://i.ibb.co/KjkSmccR/otaku-ni-yasashii-gal-toka-kyonyuu-no-osananajimi-toka-1-cv1.png",
     bg: [
-        "https://iili.io/q1lrk0u.jpg",
-        "https://iili.io/q1lrvUb.png",
-        "https://iili.io/q1lrNs9.jpg",
-        "https://iili.io/q1lrgOQ.png"
+        "https://i.ibb.co/F4JzrvHh/Otaku-ni-Yasashii-Galepisode-1ja.png",
+        "https://i.ibb.co/VcPTdcsX/62e79454bcf73-otaku-ni-yasashii-gal-toka-kyonyuu-no-osananajimi-toka-2-1080p-v1x-mp4-4b.jpg",
+        "https://i.ibb.co/7dsC6Jpd/otaku-ni-yasashii-gal-toka-kyonyuu-no-osananajimi-toka-1-pv1.png",
+        "https://i.ibb.co/svm773tF/preview-mp4.webp"
     ],
     video: [
         "https://www.burstcloud.co/embed/885ed8fe68ea52b9f2c1107f0fa69f20e7fda11646682ea7cd5cf98c4bb6e053/ep1.mp4",
@@ -1222,12 +1222,12 @@ const baseDeDatos = [{
 {
     id: "H67",
     titulo: "Oni Chichi Harem",
-    poster: "https://iili.io/q1EFe49.md.jpg",
+    poster: "https://i.ibb.co/Y4v8FBJD/Oni-Chichi-Harem-Episode-4.jpg",
     bg: [
-        "https://iili.io/q1EF0rX.png",
-        "https://iili.io/q1EFl1t.png",
-        "https://iili.io/q1EFhhl.png",
-        "https://iili.io/q1EFUpj.png"
+        "https://i.ibb.co/QVjY6Kr/image-7.png",
+        "https://i.ibb.co/66XVxdT/image-3.png",
+        "https://i.ibb.co/KpQjk2FV/vlcsnap-2026-03-14-17h42m03s851.png",
+        "https://i.ibb.co/wFmDVtKp/vlcsnap-2026-03-14-17h42m09s542.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/406501253e0284a1099fa8ea35a87ef9057b32cde3764b89db862842f0761d08/ep1.mp4",
