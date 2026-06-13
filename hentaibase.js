@@ -1244,12 +1244,12 @@ const baseDeDatos = [{
 {
     id: "H68",
     titulo: "Akogare no Onna Joushi",
-    poster: "https://iili.io/qGdApGS.png",
+    poster: "https://veohentai.com/wp-content/uploads/2025/04/Akogare-no-Onna-Joushi-Episode-1.jpg",
     bg: [
-        "https://iili.io/qGdAsvs.png",
-        "https://iili.io/qGdRKwx.png",
-        "https://iili.io/qGdRn6P.png",
-        "https://iili.io/qGdR5tR.png"
+        "https://veohentai.com/wp-content/uploads/2025/07/109862h.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/04/105262h.jpg"
+		
+		
     ],
     video: [
         "https://hentaiplayer.com/v/mZRMfalvCuaja32/",
@@ -1264,12 +1264,12 @@ const baseDeDatos = [{
 {
     id: "H69",
     titulo: "Oneshota",
-    poster: "https://iili.io/qGfe9zg.png",
+    poster: "https://i.ibb.co/9mG2cXYQ/oneshota-1-cv1.png",
     bg: [
-        "https://iili.io/qGfeJLJ.png",
-        "https://iili.io/qGfOpmF.webp",
-        "https://iili.io/qGfeHXa.jpg",
-        "https://iili.io/qGfefdN.webp"
+        "https://i.ibb.co/Qv4Xt6R6/Oneshot-The-Animationepisode-1en.png",
+        "https://i.ibb.co/rJt8t5Y/Oneshota-The-Animation-Episode-1-2.webp",
+        "https://i.ibb.co/TMrdTQX1/preview-mp4-1.webp",
+
     ],
     video: [
         "https://www.burstcloud.co/embed/fae25998259362151fbfb841eec44034151cca9d52b81dcdc07befc37e2b86e5/ep1.mp4"
@@ -1283,12 +1283,12 @@ const baseDeDatos = [{
 {
     id: "H70",
     titulo: "Onii-san Ohitori desu ka",
-    poster: "https://iili.io/qMkzgFp.png",
+    poster: "https://i.ibb.co/qY4zMB9J/image-244-732x1024.png",
     bg: [
-        "https://iili.io/qMkzrcN.png",
-        "https://iili.io/qMkzSPR.jpg",
-        "https://iili.io/qMkzvoJ.webp",
-        "https://iili.io/qMkziAX.jpg"
+        "https://i.ibb.co/qFWpmNtB/Onii-san-70a457bdd6-Ohitori-desu-ka-screenshot.jpg",
+        "https://i.ibb.co/wNTB5sXM/onii-san-ohitori-desu-ka-episode-1-11.webp",
+        "https://i.ibb.co/jPq9qPYv/preview.jpg",
+        "https://i.ibb.co/8LH6gnGT/xv-26-p.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/6da3c1c406503610870f6520c20e077fdd8f4f39db04631d06b43839cab2ee26/ep1.mp4"
@@ -1302,12 +1302,12 @@ const baseDeDatos = [{
 {
     id: "H71",
     titulo: "Onii-chan Asa made Zutto Gyutte Shite!",
-    poster: "https://iili.io/qMvZJHP.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/onii-chan-asa-made-zutto-gyutte-shite-4-cv1.png",
     bg: [
-        "https://iili.io/qMvZdR1.webp",
-        "https://iili.io/qMvZ3Dg.png",
-        "https://iili.io/qMvZoUN.png",
-        "https://iili.io/qMvZnlp.jpg"
+        "https://veohentai.com/wp-content/uploads/2022/08/onii-chan-asa-made-zutto-gyutte-shite-4-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/onii-chan-asa-made-zutto-gyutte-shite-3-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/onii-chan-asa-made-zutto-gyutte-shite-1-pv1.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/onii-chan-asa-made-zutto-gyutte-shite-2-pv2.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/5576adbffc3e12cec71f7b08ec9aa55f91962fffd65f991848045d9122b1bba3/ep1.mp4",
@@ -1324,12 +1324,11 @@ const baseDeDatos = [{
 {
     id: "H72",
     titulo: "Otome Domain",
-    poster: "https://iili.io/qMSAvtI.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/otome-domain-the-animation-1-FtArfmjicD.jpg",
     bg: [
-        "https://iili.io/qMSAgPn.webp",
-        "https://iili.io/qMSA6cG.jpg",
-        "https://iili.io/qMSAUMX.jpg",
-        "https://iili.io/qMSALAl.webp"
+        "https://veohentai.com/wp-content/uploads/2022/08/otome-domain-the-animation-1-dOoEFZndzg.jpg",
+        "https://hentai-moon.com/contents/videos_screenshots/0/228/preview.jpg"
+
     ],
     video: [
         "https://www.burstcloud.co/embed/fe6b7b78628e903e04f6fb3aa42b56e2aed6d9300378d17dd79aac5f5c7eaba2/ep1.mp4"
@@ -7345,6 +7344,28 @@ const baseDeDatos = [{
     tags: ["Corridas", "Escolares", "censurado"],
     tipo: "censurado",
     descripcion: "Mizuka, gyaru con problemas económicos, finge un trabajo, pero su cliente, un anciano obsesionado con los pechos grandes, la sorprende al manosearla, generándole placer abrumador y dejándola indefensa."
+},
+{
+    id: "H374",
+    titulo: "Samurai Hormone",
+    poster: "https://i.ibb.co/rKhs2qZV/samurai-hormone-1-1.jpg",
+    bg: [
+        "https://i.ibb.co/LDYVyvH2/vlcsnap-2026-06-13-09h54m04s178.png",
+        "https://i.ibb.co/Hf2rmy2z/vlcsnap-2026-06-13-09h55m29s244.png",
+		"https://i.ibb.co/dwRsDhFX/vlcsnap-2026-06-13-09h55m38s747.png",
+		"https://i.ibb.co/8g4pJ8Wm/vlcsnap-2026-06-13-09h56m11s538.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/b032a370744f391f528174fdb55f5e1a0a695c6be9f39e43eba76b1e11172a14/ep1.mp4",
+
+
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Corridas", "Escolares", "censurado"],
+    tipo: "censurado",
+    descripcion: "Basado en el juego para adultos de Clam Chowder."
 },
 ];
 
