@@ -1342,12 +1342,12 @@ const baseDeDatos = [{
 {
     id: "H73",
     titulo: "Dark Love",
-    poster: "https://iili.io/qh0bYPI.jpg",
+    poster: "https://i.ibb.co/9H51kf71/dark-love-1-1.jpg",
     bg: [
-        "https://iili.io/qh0b0Sn.png",
-        "https://iili.io/qh0blcX.png",
-        "https://iili.io/qh0Vt4.png",
-        "https://iili.io/qh0bhV2.png"
+        "https://i.ibb.co/4RP0vpNk/vlcsnap-2026-03-18-10h32m17s342.png",
+        "https://i.ibb.co/zWH0s2KZ/vlcsnap-2026-03-18-10h32m49s770.png",
+        "https://i.ibb.co/GQNQpzcs/vlcsnap-2026-03-18-10h37m05s050.png",
+        "https://i.ibb.co/k7G07W2/vlcsnap-2026-03-18-10h36m36s271.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/4563886c11aa583b1db874b9529b8178d744afe6586a14ad100e33845bf5cf1f/ep1.mp4",
@@ -1362,12 +1362,12 @@ const baseDeDatos = [{
 {
     id: "H74",
     titulo: "Ore wa kanojo o shinjiteru",
-    poster: "https://veohentai.com/wp-content/uploads/2022/08/ore-wa-kanojo-o-shinjiteru-1-1.jpg",
+    poster: "https://i.ibb.co/5XV5LqF4/ore-wa-kanojo-o-shinjiteru-1-1.jpg",
     bg: [
-        "https://iili.io/qhEKZXt.jpg",
-        "https://iili.io/qhEKsmN.jpg",
-        "https://iili.io/qhEKP7R.jpg",
-        "https://iili.io/qhEK6dv.jpg"
+        "https://i.ibb.co/gFj1Sr1w/10.jpg",
+        "https://i.ibb.co/gZMyF6SQ/12.jpg",
+        "https://i.ibb.co/Xxtdyfq5/1226.jpg",
+        "https://i.ibb.co/gn8cvfs/ore-wa-kanojo-o-shinjiteru-1.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/e0a28ea3ff5d5eb3c9abf64f1ebd99e53f2d4f5a62eb70df481416d9d1fa96d2/ep1.mp4"
@@ -1381,12 +1381,12 @@ const baseDeDatos = [{
 {
     id: "H75",
     titulo: "Notto Sexaroid Eurie!",
-    poster: "https://iili.io/qjqRAnS.png",
+    poster: "https://i.ibb.co/2RBh4SF/Notto-Sexaroid-Eurie-Episode-1.jpg",
     bg: [
-        "https://iili.io/qjqAmCb.png",
-        "https://iili.io/qjqAy6x.png",
-        "https://iili.io/qjqRCMJ.png",
-        "https://iili.io/qjqRzap.png"
+        "https://i.ibb.co/qFL2jV69/image-97.png",
+        "https://i.ibb.co/rfFxghRf/image-92.png",
+        "https://i.ibb.co/Dm7nHtX/image-81.png",
+        "https://i.ibb.co/VpmkmdKw/image-39.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/4abfa1086315ab591624739f03fb9ee0c14ba583ef7b053b9f5e46113a72ec87/ep1.mp4",
