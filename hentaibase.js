@@ -1401,12 +1401,12 @@ const baseDeDatos = [{
 {
     id: "H76",
     titulo: "Amai Ijiwaru",
-    poster: "https://iili.io/qjCkVbS.png",
+    poster: "https://i.ibb.co/C5H7TqWs/image-87.png",
     bg: [
-        "https://iili.io/qjCkG5l.png",
-        "https://iili.io/qjCkYsn.png",
-        "https://iili.io/qjCk5xt.png",
-        "https://iili.io/qjCkl0G.png"
+        "https://i.ibb.co/2YnmKHGj/ep1.png",
+        "https://i.ibb.co/DHrystph/image-20.png",
+        "https://i.ibb.co/Q7H92gdZ/image-61.png",
+        "https://i.ibb.co/j2d4XhJ/image-64.png"
     ],
     video: [
         "https://hentaiplayer.com/v/3U6V5DKTePZXp09/"
@@ -1420,12 +1420,12 @@ const baseDeDatos = [{
 {
     id: "H77",
     titulo: "Dearest Blue",
-    poster: "https://iili.io/qjTfWcQ.png",
+    poster: "https://i.ibb.co/DHcDFjLF/Dearest-Blue-4-4.png",
     bg: [
-        "https://iili.io/qjTflte.png",
-        "https://iili.io/qjTfEMb.png",
-        "https://iili.io/qjTfVKx.png",
-        "https://iili.io/qjTfXSV.png"
+        "https://i.ibb.co/Kx64nhK1/Dearest-Blue-4-2.png",
+        "https://i.ibb.co/Fk8NDSzR/Dearest-Blue-4-3.png",
+        "https://i.ibb.co/ymSmNZbZ/image-90.png",
+        "https://i.ibb.co/VWGSt0G5/image-93.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/cc2cd640e9b626c4d1a21c6f307590336fd28be9c52e0081b979b7789c3878d1/ep1.mp4",
@@ -1442,12 +1442,12 @@ const baseDeDatos = [{
 {
     id: "H78",
     titulo: "Fuuki Iin to Fuuzoku Katsudou",
-    poster: "https://iili.io/qjRxBI4.jpg",
+    poster: "https://i.ibb.co/67M5T5G8/Fuuki-Iin-to-Fuuzoku-Katsudou-Episode-1.jpg",
     bg: [
-        "https://iili.io/qjRxxBS.jpg",
-        "https://iili.io/qjRxnQ2.jpg",
-        "https://iili.io/qjRxzE7.jpg",
-        "https://iili.io/qjRxI49.webp"
+        "https://i.ibb.co/B5DY0B4Z/Fuuki-Iinto-Fuuzoku-Katsudou-screenshot-470095dd72.jpg",
+        "https://i.ibb.co/jvVTC3Cb/fuuki-iin-to-fuuzoku-katsudou-episode-1-14.jpg",
+        "https://i.ibb.co/PvC5rKGr/fuuki-iin-to-fuuzoku-katsudou-episode-2-16.jpg",
+        "https://i.ibb.co/nNMBFs2P/xv-12-p.jpg"
     ],
     video: [
         "https://hentaiplayer.com/v/EXXFmS3FY73DTAe/",
@@ -1462,12 +1462,12 @@ const baseDeDatos = [{
 {
     id: "H79",
     titulo: "Otome wa Boku ni Koi Shiteru Trinkle Stars",
-    poster: "https://iili.io/qN3HGEJ.jpg",
+    poster: "https://i.ibb.co/13B2Q3Z/c1173989package.jpg",
     bg: [
-        "https://iili.io/qN3HX7p.jpg",
-        "https://iili.io/qN3HhkN.jpg",
-        "https://iili.io/qN3HMrv.jpg",
-        "https://iili.io/qN3Hg24.jpg"
+        "https://i.ibb.co/whGnjdXq/preview.jpg",
+        "https://i.ibb.co/vxvH9wb8/bee91b70a7faee272e49668ec653ff7c-video-720p-otome-wa-boku-ni-koi-shiteru-trinkle-stars-the-animation.jpg",
+        "https://i.ibb.co/tMyZcSXC/cover-9999.jpg",
+        "https://i.ibb.co/yFGmJwkD/Otome-wa-Bokuepisode-2ja.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/9dbec62f056138c924a8cd2666ff66942c3be8e70a62cd4cf12f08ef2411cb24/Ep1.mp4",
@@ -1482,12 +1482,12 @@ const baseDeDatos = [{
 {
     id: "H80",
     titulo: "Otokonoko Delivery",
-    poster: "https://iili.io/qNFyf3v.png",
+    poster: "https://i.ibb.co/MYr8QbG/otokonoko-delivery-1-1.png",
     bg: [
-        "https://iili.io/qNFyXFj.png",
-        "https://iili.io/qNFyA6G.png",
-        "https://iili.io/qNFyCyN.png",
-        "https://iili.io/qNFyouI.png"
+        "https://i.ibb.co/kggcrGtV/vlcsnap-2026-03-19-16h04m55s301.png",
+        "https://i.ibb.co/p6rQp4vc/vlcsnap-2026-03-19-16h05m31s869.png",
+        "https://i.ibb.co/zWzWf7X2/vlcsnap-2026-03-19-16h05m40s907.png",
+        "https://i.ibb.co/9kDLHCcf/vlcsnap-2026-03-19-16h05m48s533.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/cadffa2d00feb9673981ad1579c096012cb31eb2c8c83fa4b961384a4762cf7d/ep1.mp4"
@@ -1501,12 +1501,12 @@ const baseDeDatos = [{
 {
     id: "H81",
     titulo: "Ochi Mono RPG Seikishi Ruvyrias",
-    poster: "https://iili.io/qNfQIdN.png",
+    poster: "https://i.ibb.co/p6C8Gdd1/ochi-mono-rpg-seikishi-luvilias-1-cv1.png",
     bg: [
-        "https://iili.io/qNfQAmX.webp",
-        "https://iili.io/qNfQT7I.png",
-        "https://iili.io/qNfQ3e1.jpg",
-        "https://iili.io/qNfQ90Q.jpg"
+        "https://i.ibb.co/JjWfNKFx/Ochi-Mono-RPG-Seikishi-Luvilias-4.png",
+        "https://i.ibb.co/B2h05MjV/Ochi-Mono-RPG-Seikishi-Luvilias-3.png",
+        "https://i.ibb.co/MJpDH3J/Ochi-Mono-RPG-Seikishi-Luvilias-1.png",
+        "https://i.ibb.co/rGTvFNJh/Ochi-Mono-RPG-Seikishi-Luvilias-2.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/3b600879bb06f736eabe3d35c73a004ff059840f02fd15f238336560ef80adcd/ep1.mp4",
