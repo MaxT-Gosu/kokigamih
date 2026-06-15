@@ -1523,12 +1523,12 @@ const baseDeDatos = [{
 {
     id: "H82",
     titulo: "Ojou-sama wa H ga Osuki",
-    poster: "https://iili.io/qNBu8DN.jpg",
+    poster: "https://i.ibb.co/4qB06rp/milady-is-obsessed-with-sex-1-Lbc-CM.jpg",
     bg: [
-        "https://iili.io/qNBueHv.webp",
-        "https://iili.io/qNBujKg.jpg",
-        "https://iili.io/qNBuNUJ.jpg",
-        "https://iili.io/qNBuwla.jpg"
+        "https://i.ibb.co/fzWM2LPZ/1464782752-1435878726-2010-07-ojou-sama-wa-h-ga-osuki-e02-cen-x264-aac-540p23b-10bit-1-mp4-2015070.jpg",
+        "https://i.ibb.co/4wY1hH1L/backdrop4.jpg",
+        "https://i.ibb.co/R4HMtM0C/ima-made-de-ichiban-yokatta-sex-2-pv1.png",
+        "https://i.ibb.co/11Kb7wJ/Ojou-sama-wa-H-ga-Osuki-01-720p-Latino-Hentai-mp4-snapshot-15-35-865.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/33b061f4ef4bd47e653ac9a5c2d2b9587f2a48a3b573bf8da3b58987d3345e4d/ep1.mp4",
@@ -1543,12 +1543,11 @@ const baseDeDatos = [{
 {
     id: "H83",
     titulo: "Onaho Kyoushitsu: Joshi Zenin Ninshin Keikaku",
-    poster: "https://iili.io/qO1cUCl.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/onaho-kyoushitsu-joshi-zen-in-ninshin-keikaku-1-cv1.png",
     bg: [
-        "https://iili.io/qO1cr4S.jpg",
-        "https://iili.io/qO1cgG2.webp",
-        "https://iili.io/qO1ckTG.webp",
-        "https://iili.io/qO1cive.png"
+        "https://veohentai.com/wp-content/uploads/2022/08/onaho-kyoushitsu-joshi-zen-in-ninshin-keikaku-1-pv1.png",
+        "https://iili.io/qO1cgG2.webp"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/98d5071bab8b2d6eacae3904c3d87feac50a4218adaf9dea0859c60a4fcf34a3/ep1.mp4"
@@ -1562,12 +1561,12 @@ const baseDeDatos = [{
 {
     id: "H84",
     titulo: "Otome Dori",
-    poster: "https://iili.io/qgq8A5F.jpg",
+    poster: "https://i.ibb.co/PGMwJ38q/otome-dori-1.jpg",
     bg: [
-        "https://iili.io/qO8jp7j.jpg",
-        "https://iili.io/qO8jmdb.jpg",
-        "https://iili.io/qO8jykx.jpg",
-        "https://iili.io/qO8wJIV.jpg"
+        "https://i.ibb.co/LDP8M640/1.jpg",
+        "https://i.ibb.co/1t067jJy/cover-otome-dori-1.jpg",
+        "https://i.ibb.co/mFH23xTk/Otome-Dori-02-animes-hentai.jpg",
+        "https://i.ibb.co/XkVcBV49/preview-mp4.webp"
     ],
     video: [
         "https://www.burstcloud.co/embed/4b3ca53f99a1f66aaa0e56260ce7384def060cf3b734540f318aec011dd811bc/ep1.mp4",
@@ -1582,13 +1581,13 @@ const baseDeDatos = [{
 {
     id: "H85",
     titulo: "Ecchi na Onee-chan ni Shiboraretai",
-    poster: "https://iili.io/qgackcQ.jpg",
+    poster: "https://i.ibb.co/204qjfmp/ecchi-na-onee-chan-ni-shiboraretai-2-cv1.png",
     bg: [
-        "https://iili.io/qOSTIu1.png",
-        "https://iili.io/qOSTdN4.webp",
-        "https://iili.io/qOSTHHG.webp",
-        "https://iili.io/qOSTJRf.jpg",
-        "https://iili.io/qOSTfi7.webp"
+        "https://i.ibb.co/GvWWNHwc/e99lx9-IVLZe-RSyn073rle-Tmv9f-R.webp",
+        "https://i.ibb.co/JwzdcmjJ/Ecchi-na-Onee-chan-ni-Shiboraretai-1.jpg",
+        "https://i.ibb.co/GQsqHDTq/Ecchi-Na-Onee-Chan-Ni-Shiboraretai-Episode-1-2.webp",
+        "https://i.ibb.co/hF6Kqf1w/preview-1.jpg",
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/af8dee5e94099e728dae8022328d13eac7e9897fe1651b92251d8baf2b64451e/ep1.mp4",
@@ -1603,13 +1602,13 @@ const baseDeDatos = [{
 {
     id: "H86",
     titulo: "Inshoku Ou Demar",
-    poster: "https://iili.io/qWzMlPj.png",
+    poster: "https://i.ibb.co/nNcJLKbK/image-11.png",
     bg: [
-        "https://iili.io/qOgHe9S.png",
-        "https://iili.io/qOgHUaS.png",
-        "https://iili.io/qOgHSF2.png",
-        "https://iili.io/qOgHSF2.png",
-        "https://iili.io/qOgHZ6Q.png"
+        "https://i.ibb.co/0jMpyR4q/image.png",
+        "https://i.ibb.co/dwHbh4Rq/image-1.png",
+        "https://i.ibb.co/mCbz9LXS/image-24.png",
+        "https://i.ibb.co/M5yhsKgG/image-28.png"
+		
     ],
     video: [
         "https://hentaiplayer.com/v/1ETw9aUaaWuKlMN/"
@@ -6227,14 +6226,17 @@ const baseDeDatos = [{
 {
     id: "H328",
     titulo: "Anal Mania Otaku to Ananii Daisuki na Ojou-sama",
-    poster: "https://veohentai.com/wp-content/uploads/2026/04/Anal-Mania-Otaku-to-Ananii-Daisuki-na-Ojou-sama-Episode-1.jpg",
+    poster: "https://i.ibb.co/0ykq5wRW/Anal-Mania-Otaku-to-Ananii-Daisuki-na-Ojou-sama-Episode-1.jpg",
     bg: [
-        "https://veohentai.com/wp-content/uploads/2026/06/406534h.jpg",
-        "https://veohentai.com/wp-content/uploads/2026/04/404980h.jpg"
+        "https://i.ibb.co/HDj3qpYZ/vlcsnap-2026-04-09-16h55m27s284.png",
+        "https://i.ibb.co/Fb64zLnd/vlcsnap-2026-06-15-16h57m23s683.png",
+		"https://i.ibb.co/chyMRrbY/vlcsnap-2026-06-15-16h57m16s494.png",
+		"https://i.ibb.co/GfW8v1yj/vlcsnap-2026-04-09-16h55m06s330.png"
 
     ],
     video: [
         "https://www.burstcloud.co/embed/541daba37919a90ab6343b557daf1ea003e7971f45096c20bc35c209dec6fee7/ep1.mp4",
+		"https://www.burstcloud.co/embed/5f082efcb58682f8d9f3642a15fa2c55559ed7aa3f7de98dbf125816585f4172/ep2.mp4"
 
     ],
     estudio: "Pink Pineapple",
