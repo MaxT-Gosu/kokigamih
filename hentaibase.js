@@ -1622,13 +1622,12 @@ const baseDeDatos = [{
 {
     id: "H87",
     titulo: "Iinchou wa Saimin Appli o Shinjiteru",
-    poster: "https://iili.io/qgNUEOP.jpg",
+    poster: "https://cdn.hentaila.com/covers/933.jpg",
     bg: [
-        "https://iili.io/qSOj9S1.jpg",
-        "https://iili.io/qSOhyW7.jpg",
-        "https://iili.io/qSOhpxS.jpg",
-        "https://iili.io/qSOhtR4.webp",
-        "https://iili.io/qSOjFJj.jpg"
+        "https://image.tmdb.org/t/p/original/fO4RcrmZiwCfKIhgHMGvGErpAme.jpg",
+        "https://image.tmdb.org/t/p/original/xgQpAuMM9dhOvczuC0jaBuyElId.jpg",
+        "https://image.tmdb.org/t/p/original/ziTH4kc3qS6msyffbcAP6oG709a.jpg",
+        "https://image.tmdb.org/t/p/original/oHm0VdkEmgBg9eQNqaad6iI6uiX.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/f051219a960382f65a2d94d65b34046ac56defcc9e2837b34f7085b4699a6282/ep1.mp4"
@@ -1642,13 +1641,13 @@ const baseDeDatos = [{
 {
     id: "H88",
     titulo: "Mama Katsu: Midareru Mama-tachi no Himitsu",
-    poster: "https://iili.io/qO8jDru.jpg",
+    poster: "https://media.themoviedb.org/t/p/w300_and_h450_face/gEajgDHjiBpqM2kx8RdFTWi7l9D.jpg",
     bg: [
-        "https://iili.io/qSkCb0u.png",
-        "https://iili.io/qSkCj3b.png",
-        "https://iili.io/qSkC6Fa.png",
-        "https://iili.io/qSkCWGe.png",
-        "https://iili.io/qSkCi8v.png"
+        "https://image.tmdb.org/t/p/original/reZ8B2wiqlMTYQDYWe6oRFJzSnt.jpg",
+        "https://image.tmdb.org/t/p/original/sbzWk12E3s5iltwOqKmbJGal6lP.jpg",
+        "https://image.tmdb.org/t/p/original/32zm3hemOhADlb319A54NOj1O9X.jpg",
+        "https://image.tmdb.org/t/p/original/dhRZeYPKUFdBPPI3DvOJzZfgM78.jpg"
+		
     ],
     video: [
         "https://nhplayer.com/v/HkuMpaBcMLn6Zuf/",
@@ -1665,13 +1664,13 @@ const baseDeDatos = [{
 {
     id: "H89",
     titulo: "Boku no Risou no Isekai Seikatsu",
-    poster: "https://iili.io/qOSIySs.png",
+    poster: "https://media.themoviedb.org/t/p/w300_and_h450_face/vMfLuYbQQ6LTJ8tSalHC0xpgXOx.jpg",
     bg: [
-        "https://iili.io/KT1Z6hP.png",
-        "https://iili.io/KT1ZXln.png",
-        "https://iili.io/KT1ZNRf.png",
-        "https://iili.io/KT1Z8VS.png",
-        "https://iili.io/KT1ZSi7.png"
+        "https://i.ibb.co/VcLMkVdY/Boku-no-Risou-no-Isekai-Seikatsu-3.png",
+        "https://i.ibb.co/KpsGwdb2/Boku-no-Risou-no-Isekai-Seikatsu-5.png",
+        "https://i.ibb.co/x88vLJ5t/Boku-no-Risou-no-Isekai-Seikatsu-6.png",
+        "https://i.ibb.co/Y71Ghz85/Boku-no-Risou-no-Isekai-Seikatsu-9.png"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/c3c6e19252990a677e746d4624d14ed5c1f11638b9169d794d8dc708f115bbba/ep1.mp4",
@@ -1686,13 +1685,13 @@ const baseDeDatos = [{
 {
     id: "H90",
     titulo: "Imaria",
-    poster: "https://iili.io/qOgH6ue.png",
+    poster: "https://i.ibb.co/gNdMrZf/image-249.png",
     bg: [
-        "https://iili.io/qS80yVv.png",
-        "https://iili.io/qS80aqu.png",
-        "https://iili.io/qS80i1s.png",
-        "https://iili.io/qS80XX1.png",
-        "https://iili.io/qS80PBn.png"
+        "https://i.ibb.co/KZ9srvG/image-181.png",
+        "https://i.ibb.co/jvXzN7P5/image-199.png",
+        "https://i.ibb.co/QzHbLnR/image-202.png",
+        "https://i.ibb.co/Rpj1FWJG/image-335-1024x576.png"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/bd788987f1bea75ac370e1181c935ae0355f32c766b9db278bca1364aeb4ee7b/ep1.mp4",
