@@ -7368,5 +7368,32 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Basado en el juego para adultos de Clam Chowder."
 },
+{
+    id: "H374",
+    titulo: "Hatsukoi Jikan",
+    poster: "https://veohentai.com/wp-content/uploads/2023/11/Hatsukoi-Jikan.-Episode-1.jpg",
+    bg: [
+        "https://veohentai.com/wp-content/uploads/2024/02/Hatsukoi-Jikan-Episodio-6.jpg",
+        "https://veohentai.com/wp-content/uploads/2024/02/Hatsukoi-Jikan-Episodio-5.jpg",
+		"https://veohentai.com/wp-content/uploads/2024/01/c1254791sample20.jpg",
+		"https://veohentai.com/wp-content/uploads/2024/01/c1245817sample6-1.jpg"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/38edc0c5751314c7cf011fe9e950bd608ca18531ac3c8483246becb82cb7593e/ep1.mp4",
+		"https://www.burstcloud.co/embed/7e4a0c8fc126c337d59155c1223d8f9ef1546910fdd69d2bfc23b52caa841822/ep2.mp4",
+		"https://www.burstcloud.co/embed/e4313d9391ec39fa4de1481b78bcd2a62acc3221c96e151809a8c8e9e85298a1/ep3.mp4",
+		"https://www.burstcloud.co/embed/784cfb9c5cdbd05908966af3cb264420767943663e76f874aa859d4524e57b1d/ep4.mp4",
+		"https://www.burstcloud.co/embed/03f655f7f5d1ebf8fcc5f85b81feff6d925bc0e5b4885d958aa2669f8351ed27/ep5.mp4",
+		"https://www.burstcloud.co/embed/51ff503694afabdfeff3ff72b1a621ad7058f5739de66dbc1111dc30fbf00552/ep6.mp4"
+
+
+    ],
+    estudio: "T-Rex",
+    fecha: "2025",
+    tags: ["Corridas", "Escolares", "censurado"],
+    tipo: "censurado",
+    descripcion: "Ena da la impresión de ser una chica muy experimentada sexualmente, y su novio es completamente inexperto en estas lides."
+},
 ];
 
