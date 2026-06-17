@@ -7369,7 +7369,7 @@ const baseDeDatos = [{
     descripcion: "Basado en el juego para adultos de Clam Chowder."
 },
 {
-    id: "H374",
+    id: "H375",
     titulo: "Hatsukoi Jikan",
     poster: "https://veohentai.com/wp-content/uploads/2023/11/Hatsukoi-Jikan.-Episode-1.jpg",
     bg: [
