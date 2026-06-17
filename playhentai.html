@@ -158,17 +158,21 @@
             <span style="color:var(--accent); font-weight:bold">${item.tipo.toUpperCase()}</span>
         `;
 
-        // --- LÓGICA DE EPISODIOS (SOLO TEXTO) ---
+        // --- LÓGICA DE EPISODIOS CORREGIDA ---
         const list = document.getElementById("episodes-list");
         const videos = Array.isArray(item.video) ? item.video : [item.video];
         
+        list.innerHTML = ""; // Limpiamos el contenedor
+
         videos.forEach((link, index) => {
-            list.innerHTML += `
-                <div class="episode-card" onclick="playVideo('${link}')">
-                    <div class="ep-info">Episodio ${index + 1}</div>
-                    <div class="ep-icon"><i class="fas fa-play-circle"></i></div>
-                </div>
+            const card = document.createElement("div");
+            card.className = "episode-card";
+            card.onclick = () => playVideo(link);
+            card.innerHTML = `
+                <div class="ep-info">Episodio ${index + 1}</div>
+                <div class="ep-icon"><i class="fas fa-play-circle"></i></div>
             `;
+            list.appendChild(card);
         });
 
         cargarRecomendados();
