@@ -7395,5 +7395,29 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Ena da la impresión de ser una chica muy experimentada sexualmente, y su novio es completamente inexperto en estas lides."
 },
+{
+    id: "H376",
+    titulo: "L`amour fou de l`automate",
+    poster: "https://veohentai.com/wp-content/uploads/2026/03/Lamour-fou-de-lautomate-Episode-1.jpg",
+    bg: [
+        "https://i.ibb.co/2xNV67q/vlcsnap-2026-06-18-07h54m20s581.png",
+        "https://i.ibb.co/xq2KKx6y/vlcsnap-2026-06-18-07h54m24s443.png",
+		"https://i.ibb.co/VW3CBpXT/vlcsnap-2026-06-18-07h57m46s141.png",
+		"https://i.ibb.co/Qjh88drS/vlcsnap-2026-06-18-07h57m59s574.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/87989b654b2bd21edc32ddc5e1e91dcbdfd6c03769af1a8c255d1f72d0020133/ep1.mp4",
+		"https://www.burstcloud.co/embed/3803f3d70a050d9845cc8603649f5a9338108b3aacbd6cd174f906d771470059/ep2.mp4"
+		
+
+
+    ],
+    estudio: "nur",
+    fecha: "2026",
+    tags: ["Corridas", "Escolares", "censurado"],
+    tipo: "censurado",
+    descripcion: "Marie, frustrada por su homúnculo inerte, es sorprendida por Leon, quien desata una intensa conexión sexual. Mientras se entregan al placer, el homúnculo despierta de repente, sugiriendo un posible vínculo entre la vida artificial y la pasión humana."
+},
 ];
 
