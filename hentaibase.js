@@ -7419,5 +7419,27 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Marie, frustrada por su homúnculo inerte, es sorprendida por Leon, quien desata una intensa conexión sexual. Mientras se entregan al placer, el homúnculo despierta de repente, sugiriendo un posible vínculo entre la vida artificial y la pasión humana."
 },
+{
+    id: "H377",
+    titulo: "Muchuu no Tou",
+    poster: "https://i.ibb.co/5h1mF5Q5/Muchuu-no-Tou-Episode-1.jpg",
+    bg: [
+        "https://i.ibb.co/fYFnckFm/vlcsnap-2026-06-21-09h42m22s437.png",
+        "https://i.ibb.co/ynxsvM21/vlcsnap-2026-06-21-09h42m33s128.png",
+		"https://i.ibb.co/chKJbTrD/vlcsnap-2026-06-21-09h42m42s866.png",
+		"https://i.ibb.co/tMxmq3n1/vlcsnap-2026-06-21-09h42m57s305.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/0b9ba184159414750ac46e4204c62b833d14153e6d307c8b24e7c7e7d10d3557/ep1.mp4",
+
+		
+    ],
+    estudio: "Magin Label",
+    fecha: "2026",
+    tags: ["Corridas", "Escolares", "censurado"],
+    tipo: "censurado",
+    descripcion: "Naia y su compañero Mano exploran la Torre Envuelta en Niebla, enfrentando monstruos y una doncella fantasma que los captura."
+},
 ];
 
