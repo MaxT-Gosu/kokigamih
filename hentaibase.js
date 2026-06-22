@@ -7441,5 +7441,27 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Naia y su compañero Mano exploran la Torre Envuelta en Niebla, enfrentando monstruos y una doncella fantasma que los captura."
 },
+{
+    id: "H378",
+    titulo: "Otome Hime",
+    poster: "https://i.ibb.co/hRXwTp7p/otome-hime-lsscf.jpg",
+    bg: [
+        "https://i.ibb.co/VnTDjvV/vlcsnap-2026-06-22-11h51m16s439.png",
+        "https://i.ibb.co/1GktvNXP/vlcsnap-2026-06-22-11h51m26s608.png",
+		"https://i.ibb.co/DfPjpVpK/vlcsnap-2026-06-22-11h51m40s207.png",
+		"https://i.ibb.co/MyShGj3F/vlcsnap-2026-06-22-11h51m55s933.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/b7941411c52a9ccde0d028c6bd915bee582c53d817ee62fdf754ec7d14348a67/ep1.mp4",
+
+		
+    ],
+    estudio: "Magin Label",
+    fecha: "2026",
+    tags: ["Corridas", "Escolares", "Sin Censura"],
+    tipo: "sincensura",
+    descripcion: "Durante una sesión de estudio, Megumi le confesó sus sentimientos a Satoru. Sin embargo, no sólo ella sentía algo por él, sino que él también sentía algo por ella. Así que... el resto es historia."
+},
 ];
 
