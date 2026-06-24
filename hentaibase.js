@@ -5719,7 +5719,7 @@ const baseDeDatos = [{
         "https://iili.io/q5H3cAu.png"
     ],
     video: [
-        "https://www.burstcloud.co/embed/52175a6d02178eec2e2e9a737d752c31165ebaa23f704000ef92f91bf9226299/ep1.mp4"
+        "https://www.burstcloud.co/embed/52175a6d02178eec2e2e9a737d752c31165ebaa23f704000ef92f91bf9226299/ep1.mp4",
 		"https://www.burstcloud.co/embed/71d9abbad0fbeccc2fcaf3c0dc0f36ce28e9069c7d9755564cf757f98f199e2d/ep2.mp4"
 		
     ],
