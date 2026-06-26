@@ -6652,19 +6652,15 @@ const baseDeDatos = [{
 {
     id: "H346",
     titulo: "In no Houteishiki(inmortality)",
-    poster: "https://iili.io/BPtbcba.jpg",
+    poster: "https://i.ibb.co/5XFWQ6NC/immorality-1-Hg-ITl.jpg",
     bg: [
-        "https://iili.io/BPtb0zJ.png",
-        "https://iili.io/BPtbEsR.png",
-        "https://iili.io/BPtb1Wv.png",
-        "https://iili.io/BPtbV0N.png",
-		"https://iili.io/BPtbWgI.png",
-		"https://iili.io/BPtbhJt.png",
-		"https://iili.io/BPtbwen.png",
-		"https://iili.io/BPtbNbs.png"
+        "https://i.ibb.co/RG1CR859/vlcsnap-2026-04-27-17h38m19s440.png",
+		"https://i.ibb.co/Xf85h5FB/vlcsnap-2026-04-27-17h38m44s311.png",
+		"https://i.ibb.co/DfYgqy2b/vlcsnap-2026-04-27-17h39m18s509.png",
+		"https://i.ibb.co/HTkJZk2c/vlcsnap-2026-04-27-17h39m46s725.png"
+
 
 		
-
     ],
     video: [
         "https://www.burstcloud.co/embed/7344c772c0ab7721a1eb84d3fee3aaff55094e4e081ac83e33a4232351b3f65f/ep1.mp4",
