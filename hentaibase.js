@@ -3333,12 +3333,14 @@ const baseDeDatos = [{
 {
     id: "H168",
     titulo: "Tanetsuke Ojisan to Papakko JD Saimin Seikatsu",
-    poster: "https://iili.io/fWNp8uI.jpg",
+    poster: "https://i.ibb.co/rKKG2tGJ/Tanetsuke-Ojisan-to-Papakko-JD-Saimin-Seikatsu-The-Animation-Episode-1.jpg",
     bg: [
-        "https://iili.io/fWOZfzg.png",
-        "https://iili.io/fWOZFmF.png",
-        "https://iili.io/fWOZ3e1.png",
-        "https://iili.io/fWOZqXa.png"
+	
+        "https://i.ibb.co/B514HnGM/kpk21ax-VTZSl0-Pvw7f89-J5-SVvd-Q.webp",
+        "https://i.ibb.co/whFc5T70/gk-Q0-U0-Lz-Mp8-VLo-Yr-ZMi-JFJPLWC3.webp",
+        "https://i.ibb.co/1f6gNZnK/f-A0-Oxkm1-WJWl-Ygd-Ct8n0udny-Roy.webp",
+        "https://i.ibb.co/zVhkYrTh/7-BFC7-Kfo-Qas-KPe5l450-Xm-VESi-Qi.webp"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/7657c3f77659272c28cb3fcf718261cf19bad5e188e6e132a320859db22dc5f5/ep1.mp4"
@@ -3926,12 +3928,12 @@ const baseDeDatos = [{
 {
     id: "H197",
     titulo: "Yamitsuki Mura: Melty Limit",
-    poster: "https://iili.io/fjUsVh7.jpg",
+    poster: "https://i.ibb.co/Q3YSCJQ0/Yamitsuki-Mura-Melty-Limit-12.png",
     bg: [
-        "https://iili.io/f6d83dv.png",
-        "https://iili.io/f6d8Kep.png",
-        "https://iili.io/f6d8nLX.png",
-        "https://iili.io/f6d8Hqg.png"
+        "https://i.ibb.co/DPrwGyYb/Yamitsuki-Mura-Melty-Limit-2.png",
+        "https://i.ibb.co/8LmBCjh0/Yamitsuki-Mura-Melty-Limit-3.png",
+        "https://i.ibb.co/60xhrMJg/Yamitsuki-Mura-Melty-Limit-4.png",
+        "https://i.ibb.co/ds3pNww2/Yamitsuki-Mura-Melty-Limit-8.png"
     ],
     video: [
         "https://storage.googleapis.com/h3n/Yamitsuki%20Mura%3A%20Melty%20Limit/ep1.mp4",
@@ -4883,12 +4885,13 @@ const baseDeDatos = [{
 {
     id: "H262",
     titulo: "Kagachi-sama Onagusame",
-    poster: "https://iili.io/qq3z9vs.jpg",
+    poster: "https://i.ibb.co/CKwqYLSS/tribute-to-kagachi-sama-jn-Es-D.jpg",
     bg: [
-        "https://iili.io/qq3zKn2.png",
-        "https://iili.io/qq3z2j4.png",
-        "https://iili.io/qq3zduf.png",
-        "https://iili.io/qq3zq67.png"
+        "https://i.ibb.co/kVyNX88s/vlcsnap-2026-02-28-09h19m12s183.png",
+        "https://i.ibb.co/Mx4Lt8bm/vlcsnap-2026-02-28-09h19m25s073.png",
+        "https://i.ibb.co/0yH3BhBD/vlcsnap-2026-02-28-09h19m58s044.png",
+        "https://i.ibb.co/wr0z8Zgg/vlcsnap-2026-02-28-09h20m33s823.png"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/46e8b3edf4ac0160b213f4bfe98a89f88c21569d29ac89a2e26af38b5fe2dcda/EP1.mp4"
@@ -7440,26 +7443,27 @@ const baseDeDatos = [{
     descripcion: "Naia y su compañero Mano exploran la Torre Envuelta en Niebla, enfrentando monstruos y una doncella fantasma que los captura."
 },
 {
-    id: "H378",
-    titulo: "Otome Hime",
-    poster: "https://i.ibb.co/hRXwTp7p/otome-hime-lsscf.jpg",
+    id: "H379",
+    titulo: "Genmukan Aiyoku to Ryoujoku no Intsumi",
+    poster: "https://i.ibb.co/HpY4tb3d/genmukan-aiyoku-to-ryoujoku-no-inzai-1.jpg",
     bg: [
-        "https://i.ibb.co/VnTDjvV/vlcsnap-2026-06-22-11h51m16s439.png",
-        "https://i.ibb.co/1GktvNXP/vlcsnap-2026-06-22-11h51m26s608.png",
-		"https://i.ibb.co/DfPjpVpK/vlcsnap-2026-06-22-11h51m40s207.png",
-		"https://i.ibb.co/MyShGj3F/vlcsnap-2026-06-22-11h51m55s933.png"
+        "https://i.ibb.co/Z1BY18Lj/vlcsnap-2026-06-26-07h00m39s652.png",
+        "https://i.ibb.co/4wMsH1J4/vlcsnap-2026-06-26-07h00m50s625.png",
+		"https://i.ibb.co/ksw7pvSp/vlcsnap-2026-06-26-07h01m00s645.png",
+		"https://i.ibb.co/9HYdrq3c/vlcsnap-2026-06-26-07h01m12s099.png"
 
     ],
     video: [
-        "https://www.burstcloud.co/embed/b7941411c52a9ccde0d028c6bd915bee582c53d817ee62fdf754ec7d14348a67/ep1.mp4",
+        "https://www.burstcloud.co/embed/c2e7c9518ffe1caf5dd2e56576fc94c71d3c43edae8f2402f445277fd55b661c/ep1.mp4",
+		"https://www.burstcloud.co/embed/cc4f81b4367d8749a82914f99d4b58a140ee37cbcf9ece195a945ca25f844a5a/ep2.mp4"
 
 		
     ],
-    estudio: "Magin Label",
-    fecha: "2026",
-    tags: ["Corridas", "Escolares", "Sin Censura"],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Maids", "Milfs", "Sin Censura"],
     tipo: "sincensura",
-    descripcion: "Durante una sesión de estudio, Megumi le confesó sus sentimientos a Satoru. Sin embargo, no sólo ella sentía algo por él, sino que él también sentía algo por ella. Así que... el resto es historia."
+    descripcion: "Kido Satoru, un detective mediático, acepta un caso de un anillo de rubí y se enfrenta a situaciones de deseo y vergüenza en una mansión."
 },
 ];
 
