@@ -7460,5 +7460,28 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "Kido Satoru, un detective mediático, acepta un caso de un anillo de rubí y se enfrenta a situaciones de deseo y vergüenza en una mansión."
 },
+{
+    id: "H380",
+    titulo: "Heart Mark Oome",
+    poster: "https://i.ibb.co/q3pc1FmS/Heart-Mark-Oome-1.jpg",
+    bg: [
+        "https://i.ibb.co/bRMBmTkp/vlcsnap-2026-06-28-09h36m17s428.png",
+        "https://i.ibb.co/nqQBVkQ2/vlcsnap-2026-06-28-09h36m37s562.png",
+		"https://i.ibb.co/mFNdzSfW/vlcsnap-2026-06-28-09h36m44s239.png",
+		"https://i.ibb.co/mr6SGjSh/vlcsnap-2026-06-28-09h36m52s083.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/e0c13e9b84f3c160e9d657510606080678eebd9d12ca6aadb7baf570f74799a1/ep1.mp4",
+
+
+		
+    ],
+    estudio: "T-Rex",
+    fecha: "2026",
+    tags: ["Anal", "Escoalres", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Kido Satoru, un detective mediático, acepta un caso de un anillo de rubí y se enfrenta a situaciones de deseo y vergüenza en una mansión."
+},
 ];
 
