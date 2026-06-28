@@ -3354,11 +3354,11 @@ const baseDeDatos = [{
 {
     id: "H169",
     titulo: "Tayu Tayu",
-    poster: "https://iili.io/fEYypyv.jpg",
+    poster: "https://image.tmdb.org/t/p/w600_and_h900_face/s7dd2idhYeLJTwvPst5z8ce9ple.jpg",
     bg: [
-        "https://iili.io/fW8vSfI.png",
-        "https://iili.io/fW8vkVp.png",
-        "https://iili.io/fW8vgUX.png",
+        "https://image.tmdb.org/t/p/original/h7ECGV3E8l1tCgEqbS8AZwA6d97.jpg",
+        "https://image.tmdb.org/t/p/original/4b9yzQrORYsV3FoJgHUiaCANZKb.jpg",
+        "https://image.tmdb.org/t/p/original/4xNoNdqPCzvIUwVJ09wagxT4jqS.jpg",
         "https://iili.io/fW88HOb.png"
     ],
     video: [
@@ -3376,12 +3376,12 @@ const baseDeDatos = [{
 {
     id: "H170",
     titulo: "Tiny Evil",
-    poster: "https://iili.io/fEjKjZx.jpg",
+    poster: "https://i.ibb.co/CKMqjyNT/Tiny-Evil-4.png",
     bg: [
-        "https://iili.io/fXC55pn.png",
-        "https://iili.io/fXC5YIs.png",
-        "https://iili.io/fXC5ahG.png",
-        "https://iili.io/fXC51El.png"
+        "https://i.ibb.co/pjc916GB/Tiny-Evil-6.png",
+        "https://i.ibb.co/TqdB2VtM/Tiny-Evil-9.png",
+        "https://i.ibb.co/rR1572dV/Tiny-Evil-12.png",
+        "https://i.ibb.co/fVkNDvmX/Tiny-Evil-13.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/1097ebb35b48e1db05100cda53da88082ef80379777bf35b7008421839c4446c/ep1.mp4",
@@ -6161,12 +6161,12 @@ const baseDeDatos = [{
 {
     id: "H325",
     titulo: "Requiem",
-    poster: "https://iili.io/BqZyra1.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/anal-sanctuary-1-1.jpg",
     bg: [
-        "https://iili.io/q6l940Q.png",
-        "https://iili.io/q6l9idB.png",
-        "https://iili.io/q6l9tzg.png",
-        "https://iili.io/q6l9bLJ.png"
+        "https://veohentai.com/wp-content/uploads/2022/08/anal-sanctuary-1.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/anal-sanctuary-2.jpg",
+
+
     ],
     video: [
         "https://www.burstcloud.co/embed/230c497904af07778e241727a64971c113dd4dfb7a3288ca060ea1d07fb8c517/ep1.mp4",
@@ -6181,15 +6181,13 @@ const baseDeDatos = [{
 {
     id: "H326",
     titulo: "Nikuyome Takayanagi Ke no Hitobito",
-    poster: "https://iili.io/BapSJGs.jpg",
+    poster: "https://media.themoviedb.org/t/p/w220_and_h330_face/lHMz9LauhwJWFO49SUK26kimXmY.jpg",
     bg: [
-        "https://iili.io/BapUxON.png",
-        "https://iili.io/BapSmUx.png",
-        "https://iili.io/BapUzbI.png",
-        "https://iili.io/BapU6rJ.png",
-		"https://iili.io/BapgMpp.png",
-		"https://iili.io/BapgXjI.png",
-		"https://iili.io/BapgQ3b.png"
+        "https://image.tmdb.org/t/p/original/rroLWbQ9lg4oiDDtRlRT9Os8Zjz.jpg",
+        "https://media.themoviedb.org/t/p/w500_and_h282_face/migFUM9lhMMqdZxlAsUEL7kqNwb.jpg",
+        "https://media.themoviedb.org/t/p/w500_and_h282_face/qUqI4LXx7k2GXNoX90ylMmTBGcn.jpg",
+        "https://media.themoviedb.org/t/p/w500_and_h282_face/tOSpENRJMVsNXsdpwzftImYTTui.jpg"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/d4d6accfb7a2d11dd228fbc349321ebaad402b96869ef4b1613381d9a910f71c/ep1.mp4",
@@ -6206,14 +6204,11 @@ const baseDeDatos = [{
 {
     id: "H327",
     titulo: "Futago no Haha Seihonnou",
-    poster: "https://iili.io/B01X8Eg.jpg",
+    poster: "https://image.tmdb.org/t/p/w600_and_h900_face/qxVQXGf4jDu0ngJ9eQ4yNkoyBlh.jpg",
     bg: [
-        "https://iili.io/B01XsjI.png",
-        "https://iili.io/B01X4vR.png",
-        "https://iili.io/B01hdjS.png",
-        "https://iili.io/B01X6pp.png",
-		"https://iili.io/B01XZCX.png",
-		"https://iili.io/B01hFn9.png"
+        "https://veohentai.com/wp-content/uploads/2022/08/menage-a-twins-2.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/menage-a-twins-1.jpg"
+		
 
     ],
     video: [
