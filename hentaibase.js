@@ -6939,18 +6939,19 @@ const baseDeDatos = [{
 {
     id: "H357",
     titulo: "Chimimonryou",
-    poster: "https://iili.io/BtXqSTJ.jpg",
+    poster: "https://i.ibb.co/RkhLgPMm/Chimimonryou-Episode-2.jpg",
     bg: [
-        "https://iili.io/BtXqUhv.png",
-        "https://iili.io/BtXqgQR.png",
-        "https://iili.io/BtXq4Bp.png",
-        "https://iili.io/BtXq6EN.png",
-		"https://iili.io/BtXqP4I.png",
-		"https://iili.io/BtXqs2t.png"	
+        "https://i.ibb.co/v2JQ4mC/vlcsnap-2026-06-29-11h53m47s681.png",
+        "https://i.ibb.co/WNsnsyfV/vlcsnap-2026-06-29-11h54m29s908.png",
+        "https://i.ibb.co/N6jq8gzs/vlcsnap-2026-06-29-11h54m39s581.png",
+        "https://i.ibb.co/rRc5bVW8/vlcsnap-2026-06-29-11h54m57s899.png",
+
+
 
     ],
     video: [
         "https://www.burstcloud.co/embed/7003be5d9b6c9fd3bc7eeced1db01fcf540e4a02c45cf2fb25a065ed9c39f031/ep1.mp4",
+		"https://www.burstcloud.co/embed/4b6f73aad902887f3381b6a0f2527aa771699522bf214716ec971f3d156c1501/ep2.mp4"
 
 
     ],
