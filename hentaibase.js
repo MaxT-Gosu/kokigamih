@@ -6964,16 +6964,12 @@ const baseDeDatos = [{
 {
     id: "H358",
     titulo: "Ai Kyan Joukan",
-    poster: "https://iili.io/BttiU6F.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/i-can-1-3.jpg",
     bg: [
-        "https://iili.io/Btti68J.png",
-        "https://iili.io/Btti4aa.png",
-        "https://iili.io/BttiLjp.png",
-        "https://iili.io/BttitnI.png",
-		"https://iili.io/Bttir3g.png",
-		"https://iili.io/BttisuR.png",
-		"https://iili.io/BttiQZN.png",
-		"https://iili.io/BttipFn.png"
+        "https://veohentai.com/wp-content/uploads/2022/08/i-can-1-2.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/i-can-2.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/i-can-3.jpg"
+		
 
     ],
     video: [
@@ -6992,14 +6988,14 @@ const baseDeDatos = [{
 {
     id: "H359",
     titulo: "Todo no Tsumari",
-    poster: "https://iili.io/BbL6f2a.jpg",
+    poster: "https://i.ibb.co/4R75d949/Todo-no-Tsumari-Episode-1.jpg",
     bg: [
-        "https://iili.io/BbL6CpR.png",
-        "https://iili.io/BbL6qYJ.png",
-        "https://iili.io/BbL6Bkv.png",
-        "https://iili.io/BbL6oIp.png",
-		"https://iili.io/BbL6xhN.png",
-		"https://iili.io/BbL6zQI.png"
+        "https://i.ibb.co/0p68qLtD/vlcsnap-2026-05-12-15h18m45s346.png",
+        "https://i.ibb.co/k24ZjXMT/vlcsnap-2026-05-12-15h18m49s369.png",
+        "https://i.ibb.co/4wy7Mj91/vlcsnap-2026-05-12-15h19m02s274.png",
+        "https://i.ibb.co/fdp3ggCT/vlcsnap-2026-05-12-15h19m08s111.png"
+		
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/3768f49a7cb460add4f311f2cd06f909e0a377990a1ef2b17bd6a38e63e45ba2/ep1.mp4",
@@ -7015,14 +7011,13 @@ const baseDeDatos = [{
 {
     id: "H360",
     titulo: "Love wa Gal kara Hajimaru Unmei",
-    poster: "https://iili.io/BmwrLen.jpg",
+    poster: "https://i.ibb.co/twYfGKvX/Love-wa-Gal-kara-Hajimaru-Unmei-Episode-1.jpg",
     bg: [
-        "https://iili.io/BmwrDXf.png",
-        "https://iili.io/BmwrQbs.png",
-        "https://iili.io/Bmw49gS.png",
-        "https://iili.io/BmwrtzG.png",
-		"https://iili.io/Bmwrpql.png",
-		"https://iili.io/Bmw42ee.png"
+        "https://i.ibb.co/JWkH0P6d/vlcsnap-2026-05-14-10h22m15s334.png",
+        "https://i.ibb.co/NnKpTvWM/vlcsnap-2026-05-14-10h22m26s989.png",
+        "https://i.ibb.co/399Q9J4V/vlcsnap-2026-05-14-10h22m39s084.png",
+        "https://i.ibb.co/Zj6HXF5/vlcsnap-2026-05-14-10h22m53s276.png"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/8a76b4affd097351a513046e872b314c14c009e3f2df20b21b1905cb8e4322c2/ep1.mp4",
@@ -7038,14 +7033,13 @@ const baseDeDatos = [{
 {
     id: "H361",
     titulo: "Aneimo",
-    poster: "https://iili.io/BpImJyv.jpg",
+    poster: "https://i.ibb.co/40z9RFn/aneimo-1-t-DIip-NWFhc.jpg",
     bg: [
-        "https://iili.io/BpIm3jp.png",
-        "https://iili.io/BpIm2uR.png",
-        "https://iili.io/BpImFZN.png",
-        "https://iili.io/BpImfnI.png",
-		"https://iili.io/BpImoas.png",
-		"https://iili.io/BpImI9f.png"
+        "https://i.ibb.co/gMK4K2d6/vlcsnap-2026-05-15-17h53m21s626.png",
+        "https://i.ibb.co/B5HxWbLp/vlcsnap-2026-05-15-17h52m29s633.png",
+        "https://i.ibb.co/9kWz2qtD/vlcsnap-2026-05-15-17h52m53s055.png",
+        "https://i.ibb.co/Lh8R46qr/vlcsnap-2026-05-15-17h53m09s655.png"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/63984c64d60559de9636c35f616709de1a0597fd5ad177f1a2c4b8a3e2b132d7/ep1.mp4",
