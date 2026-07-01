@@ -4198,15 +4198,16 @@ const baseDeDatos = [{
 {
     id: "H228",
     titulo: "Seikou Senki Pony Celes",
-    poster: "https://iili.io/fyy6QFp.jpg",
+    poster: "https://i.ibb.co/fGP6Nv0Z/Seikou-Senki-Pony-Celes-Episode-2.jpg",
     bg: [
-        "https://iili.io/fyy6yts.png",
-        "https://iili.io/fyy6tSI.png",
-        "https://iili.io/fyyPxob.png",
-        "https://iili.io/fyyPqH7.png"
+        "https://i.ibb.co/7tCD8SVz/vlcsnap-2026-07-01-10h25m39s717.png",
+        "https://i.ibb.co/dw73Sf6Z/405851h.jpg",
+        "https://i.ibb.co/yFw9qCBN/166749h.jpg",
+        "https://i.ibb.co/LXh5vW0R/vlcsnap-2026-07-01-10h25m48s750.png"
     ],
     video: [
-        "https://www.burstcloud.co/embed/18ab755b7280e5838e90492d81ecb7daed1ded9fbccc2d3c6830c947832a4760/ep1.mp4"
+        "https://www.burstcloud.co/embed/18ab755b7280e5838e90492d81ecb7daed1ded9fbccc2d3c6830c947832a4760/ep1.mp4",
+		"https://www.burstcloud.co/embed/f56a1579df17d3d3d57f56eaffc14606da7e9128b8faae582950bf246ffbc3d8/EP2.mp4"
     ],
     estudio: "Desconocido",
     fecha: "2023",
@@ -4217,12 +4218,12 @@ const baseDeDatos = [{
 {
     id: "H229",
     titulo: "Amanee!",
-    poster: "https://iili.io/q9g8AXe.jpg",
+    poster: "https://i.ibb.co/vCDPSVjQ/Amanee-1.jpg",
     bg: [
-        "https://iili.io/q9g8hBa.png",
-        "https://iili.io/q9g8jEJ.png",
-        "https://iili.io/q9g8arx.png",
-        "https://iili.io/q9g8RLu.png"
+        "https://i.ibb.co/ML28Kfg/Amanee-1.png",
+        "https://i.ibb.co/xtHBZcjn/Amanee-2.png",
+        "https://i.ibb.co/qMfSZgJx/Amanee-4.png",
+        "https://i.ibb.co/3m1KKKj4/Amanee-10.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/ebe7cb3b8ef084f94a7641d7b3d61a24395bac50e0f3e606799930d22ab0bebd/ep1.mp4"
@@ -4236,12 +4237,12 @@ const baseDeDatos = [{
 {
     id: "H230",
     titulo: "Aibeya",
-    poster: "https://iili.io/qHYPcml.png",
+    poster: "https://i.ibb.co/7tq0WfFq/Aibeya-3.png",
     bg: [
-        "https://iili.io/qHYPWru.png",
-        "https://iili.io/qHYPj7j.png",
-        "https://iili.io/qHYPMB9.png",
-        "https://iili.io/qHYPEL7.png"
+        "https://i.ibb.co/gFtyPL6y/Aibeya-2.png",
+        "https://i.ibb.co/LdjS6s9V/Aibeya-5.png",
+        "https://i.ibb.co/27YShW4F/Aibeya-7.png",
+        "https://i.ibb.co/5WNFk4GT/Aibeya-8.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/93cf2401c17114c3698b26245659a251a3a8dc7a83b4cb01623eaf16b1ab1893/ep1.mp4"
