@@ -8767,15 +8767,17 @@
       "Tetonas",
       "Censurado"
     ],
-    "poster": "https://i.ibb.co/v69WKZ8X/Hamehara-Sore-Sekuhara-Desu-1.jpg",
+    "poster": "https://appcine.b-cdn.net/kokigamih/Hamehara%3A%20Sore%20Sekuhara/hamehara-sore-sekuhara-desu-2.jpg",
     "bg": [
-      "https://i.ibb.co/S4ZyYHHx/vlcsnap-2026-07-14-10h19m08s538.png",
-      "https://i.ibb.co/dXK3CFp/vlcsnap-2026-07-14-10h19m17s150.png",
-      "https://i.ibb.co/G4NDBZDk/vlcsnap-2026-07-14-10h19m26s252.png",
-      "https://i.ibb.co/j9xM1xGd/vlcsnap-2026-07-14-10h19m31s354.png"
+      "https://appcine.b-cdn.net/kokigamih/Hamehara%3A%20Sore%20Sekuhara/vlcsnap-2026-10-25-10h22m39s027.png",
+      "https://appcine.b-cdn.net/kokigamih/Hamehara%3A%20Sore%20Sekuhara/vlcsnap-2026-10-25-10h22m43s677.png",
+      "https://appcine.b-cdn.net/kokigamih/Hamehara%3A%20Sore%20Sekuhara/vlcsnap-2026-10-25-10h22m52s537.png",
+      "https://appcine.b-cdn.net/kokigamih/Hamehara%3A%20Sore%20Sekuhara/vlcsnap-2026-10-25-10h22m57s368.png"
     ],
     "video": [
-      "https://appcine.b-cdn.net/kokigamih/Hamehara%3A%20Sore%20Sekuhara%20Desu!/ep1.mp4"
+      "https://www.burstcloud.co/embed/f5561b37bddf3c46d6e8a02e523ac39039c913928ce855492b3149e0366f18c6/EP1.mp4",
+      "https://www.burstcloud.co/embed/3e223bb1e7d0ec92c78b64c386c5252415f8ce97c99b3a3e2f6a2c2089655369/EP2.mp4"
+      
     ]
   },
   {
@@ -9163,6 +9165,28 @@
     ],
     "video": [
       "https://www.burstcloud.co/embed/a8ac39f6e1cda0128f84f03495e2daca858a52d5115e00fac65ac8479e796098/ep1.mp4"
+    ]
+  },
+  {
+    "id": "H417",
+    "titulo": "NTR Kishi",
+    "descripcion": "Coleus reencuentra a su amiga Artel, pero su felicidad se transforma en pesadilla por un hechizo.",
+    "fecha": "2026",
+    "estudio": "Magin Label",
+    "tags": [
+      "Fantasias",
+      "Escolares",
+      "Tetonas"
+    ],
+    "poster": "https://appcine.b-cdn.net/kokigamih/NTR%20Kishi/ntr-kishi-episode-1.jpg",
+    "bg": [
+      "https://appcine.b-cdn.net/kokigamih/NTR%20Kishi/vlcsnap-2026-10-25-10h00m29s656.png",
+      "https://appcine.b-cdn.net/kokigamih/NTR%20Kishi/vlcsnap-2026-10-25-10h00m37s986.png",
+      "https://appcine.b-cdn.net/kokigamih/NTR%20Kishi/vlcsnap-2026-10-25-10h00m51s367.png",
+      "https://appcine.b-cdn.net/kokigamih/NTR%20Kishi/vlcsnap-2026-10-25-10h01m13s698.png"
+    ],
+    "video": [
+      "https://www.burstcloud.co/embed/ba7897618a8ec9493979d63711b81929a96e72bd516446315ca757a0506d6117/ep1.mp4"
     ]
   }
 ]
